@@ -1,0 +1,314 @@
+{
+  "1: Geografi": [
+    {
+        "prompt": "What is the largest continent by land area?",
+        "choices": ["Africa", "Asia", "Europe", "North America"],
+        "answer": "Asia"
+    },
+    {
+        "prompt": "Which river is the longest in the world?",
+        "choices": ["Nile River", "Amazon River", "Yangtze River", "Mississippi River"],
+        "answer": "Nile River"
+    },
+    {
+        "prompt": "Which country has the most coastline?",
+        "choices": ["Australia", "Canada", "Russia", "United States"],
+        "answer": "Canada"
+    },
+    {
+        "prompt": "Mount Everest is located in which mountain range?",
+        "choices": ["Rocky Mountains", "Andes", "Himalayas", "Alps"],
+        "answer": "Himalayas"
+    },
+    {
+        "prompt": "What is the smallest country in the world by land area?",
+        "choices": ["Monaco", "Vatican City", "Nauru", "Tuvalu"],
+        "answer": "Vatican City"
+    },
+    {
+        "prompt": "Which desert is the largest in the world?",
+        "choices": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctic Desert"],
+        "answer": "Antarctic Desert"
+    },
+    {
+        "prompt": "What is the capital city of Australia?",
+        "choices": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer": "Canberra"
+    },
+    {
+        "prompt": "Which country is known as the Land of the Rising Sun?",
+        "choices": ["China", "South Korea", "Japan", "Thailand"],
+        "answer": "Japan"
+    },
+    {
+        "prompt": "The Amazon Rainforest is primarily located in which country?",
+        "choices": ["Brazil", "Peru", "Colombia", "Venezuela"],
+        "answer": "Brazil"
+    },
+    {
+        "prompt": "Which ocean is the largest in the world?",
+        "choices": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+        "answer": "Pacific Ocean"
+    }
+  ],
+  "2: Norsk historie": [
+    {
+        "prompt": "Når ble Norge samlet til ett rike under Harald Hårfagre?",
+        "choices": ["I 872", "I 1066", "I 1380", "I 1814"],
+        "answer": "I 872"
+    },
+    {
+        "prompt": "Hva het avtalen som avsluttet unionen mellom Norge og Sverige i 1905?",
+        "choices": ["Mossekonvensjonen", "Kielfreden", "Unionoppløsningen", "Karlstadkonvensjonen"],
+        "answer": "Karlstadkonvensjonen"
+    },
+    {
+        "prompt": "Hvilken konge regnes som grunnleggeren av Oslo?",
+        "choices": ["Olav Kyrre", "Harald Hårfagre", "Håkon den Gode", "Harald Hardråde"],
+        "answer": "Harald Hardråde"
+    },
+    {
+        "prompt": "I hvilket slag falt kong Olav den hellige?",
+        "choices": ["Slaget ved Stiklestad", "Slaget ved Hafrsfjord", "Slaget ved Svolder", "Slaget på Reineskarvet"],
+        "answer": "Slaget ved Stiklestad"
+    },
+    {
+        "prompt": "Hvilken æra i norsk historie kalles ofte for 'Norgesveldet'?",
+        "choices": ["Vikingtiden", "Middelalderen", "Unionstiden", "Bronsealderen"],
+        "answer": "Middelalderen"
+    },
+    {
+        "prompt": "Hva var Hansaforbundet?",
+        "choices": ["En militær allianse", "En gruppe norske handelsmenn", "En nordisk kongefamilie", "En tysk handelsliga"],
+        "answer": "En tysk handelsliga"
+    },
+    {
+        "prompt": "Når ble Norge offisielt kristnet?",
+        "choices": ["Rundt år 1000", "I det 12. århundre", "Under Olav Tryggvason", "I vikingtiden"],
+        "answer": "Rundt år 1000"
+    },
+    {
+        "prompt": "Hvilken konge ble drept i slaget på Re på Østlandet i 1163?",
+        "choices": ["Sigurd Munn", "Magnus Erlingsson", "Sigurd Jorsalfar", "Inge Krokrygg"],
+        "answer": "Sigurd Munn"
+    },
+    {
+        "prompt": "Hvor skjedde slaget hvor Magnus Lagabøte ble drept?",
+        "choices": ["Ved Lågen", "Ved Elven Nidelva", "På Voss", "I Bergen"],
+        "answer": "På Voss"
+    },
+    {
+        "prompt": "Hvilken hendelse i 1349 forandret dramatisk Norges demografi og økonomi?",
+        "choices": ["Svartedauden", "Slaget ved Svolder", "Hundreårskrigen", "Koloniseringen av Island"],
+        "answer": "Svartedauden"
+    }
+  ],
+  "3: Norrøn mytologi": [
+    {
+        "prompt": "Hvem var hovedguden i norrøn mytologi?",
+        "choices": ["Tor", "Odin", "Loki", "Frigg"],
+        "answer": "Odin"
+    },
+    {
+        "prompt": "Hva heter verdenstreet i norrøn mytologi?",
+        "choices": ["Yggdrasil", "Midgard", "Asgard", "Jotunheimen"],
+        "answer": "Yggdrasil"
+    },
+    {
+        "prompt": "Hvilket dyr er assosiert med guden Tor?",
+        "choices": ["Ravn", "Ulv", "Bukk", "Hest"],
+        "answer": "Bukk"
+    },
+    {
+        "prompt": "Hva heter hammeren til Tor?",
+        "choices": ["Mjølner", "Gungnir", "Bifrost", "Sleipner"],
+        "answer": "Mjølner"
+    },
+    {
+        "prompt": "Hva er Ragnarok i norrøn mytologi?",
+        "choices": ["En gud", "En fest", "Verdens ende", "En stor krig"],
+        "answer": "Verdens ende"
+    },
+    {
+        "prompt": "Hvem er Loke i norrøn mytologi?",
+        "choices": ["En kjempe", "En gud", "En skapning av kaos og lureri", "Odins bror"],
+        "answer": "En skapning av kaos og lureri"
+    },
+    {
+        "prompt": "Hva heter gudenes borg i norrøn mytologi?",
+        "choices": ["Valhall", "Asgard", "Midgard", "Helheim"],
+        "answer": "Asgard"
+    },
+    {
+        "prompt": "Hva var Nidhogg?",
+        "choices": ["En drage", "En gud", "En elv", "En hammer"],
+        "answer": "En drage"
+    },
+    {
+        "prompt": "Hva heter den kosmiske broen som forbinder Asgard og Midgard?",
+        "choices": ["Bifrost", "Yggdrasil", "Gjallarbroen", "Asgardsbroen"],
+        "answer": "Bifrost"
+    },
+    {
+        "prompt": "Hvilket dyr passer på Yggdrasil og sørger for at det holder seg friskt og livlig?",
+        "choices": ["Ratatosk, ekornet", "Hugin og Munin, ravnene", "Geri og Freki, ulvene", "Sleipner, hesten"],
+        "answer": "Ratatosk, ekornet"
+    }
+  ],
+  "4: godt og blandet, lett": [
+    {
+        "prompt": "Hva er hovedstaden i Frankrike?",
+        "choices": ["Marseille", "Lyon", "Paris", "Nice"],
+        "answer": "Paris"
+    },
+    {
+        "prompt": "Hvilken farge får du når du blander rødt og gult?",
+        "choices": ["Oransje", "Grønn", "Lilla", "Blå"],
+        "answer": "Oransje"
+    },
+    {
+        "prompt": "Hvilket dyr er kjent for å kunne leve både i vann og på land?",
+        "choices": ["Katt", "Frosk", "Ørn", "Elefant"],
+        "answer": "Frosk"
+    },
+    {
+        "prompt": "Hva heter verdens største hav?",
+        "choices": ["Atlanterhavet", "Stillehavet", "Indiske hav", "Sørishavet"],
+        "answer": "Stillehavet"
+    },
+    {
+        "prompt": "Hva er det kjemiske symbolet for oksygen?",
+        "choices": ["O", "Ox", "Om", "Og"],
+        "answer": "O"
+    },
+    {
+        "prompt": "Hvilken planet kalles 'den røde planeten'?",
+        "choices": ["Jupiter", "Venus", "Mars", "Neptun"],
+        "answer": "Mars"
+    },
+    {
+        "prompt": "Hva er hovedingrediensen i guacamole?",
+        "choices": ["Tomat", "Mais", "Avokado", "Lime"],
+        "answer": "Avokado"
+    },
+    {
+        "prompt": "Hvilken farge representerer fred?",
+        "choices": ["Grønn", "Rød", "Blå", "Hvit"],
+        "answer": "Hvit"
+    },
+    {
+        "prompt": "Hvilket land er kjent for konstruksjonen av pyramider?",
+        "choices": ["Mexico", "Peru", "Egypt", "India"],
+        "answer": "Egypt"
+    },
+    {
+        "prompt": "Hvilket instrument teller takten i musikk?",
+        "choices": ["Gitar", "Piano", "Metronom", "Tromme"],
+        "answer": "Metronom"
+    }
+  ],
+  "5: Godt og blandet, middels": [
+    {
+        "prompt": "I hvilken film sa Arnold Schwarzenegger 'I'll be back'?",
+        "choices": ["Total Recall", "Terminator", "Predator", "Commando"],
+        "answer": "Terminator"
+    },
+    {
+        "prompt": "Hvilken forfatter skrev 'Harry Potter'-serien?",
+        "choices": ["J.K. Rowling", "Stephen King", "J.R.R. Tolkien", "C.S. Lewis"],
+        "answer": "J.K. Rowling"
+    },
+    {
+        "prompt": "Hva er den hardeste naturlige substansen på jorden?",
+        "choices": ["Granitt", "Diamant", "Stål", "Kvarts"],
+        "answer": "Diamant"
+    },
+    {
+        "prompt": "Hvilket språk har flest morsmålsspråklige i verden?",
+        "choices": ["Engelsk", "Spansk", "Kinesisk", "Hindi"],
+        "answer": "Kinesisk"
+    },
+    {
+        "prompt": "Hvilken gasstype puster mennesker ut mer enn de inhalerer?",
+        "choices": ["Oksygen", "Nitrogen", "Karbondioksid", "Helium"],
+        "answer": "Karbondioksid"
+    },
+    {
+        "prompt": "Hvilket år startet den andre verdenskrig?",
+        "choices": ["1945", "1939", "1914", "1929"],
+        "answer": "1939"
+    },
+    {
+        "prompt": "Hvilket land ga USA Frihetsgudinnen?",
+        "choices": ["Storbritannia", "Frankrike", "Tyskland", "Spania"],
+        "answer": "Frankrike"
+    },
+    {
+        "prompt": "Hva er den kjemiske formelen for vanlig bordsalt?",
+        "choices": ["H2O", "CO2", "NaCl", "C6H12O6"],
+        "answer": "NaCl"
+    },
+    {
+        "prompt": "Hvilket dyr er nasjonaldyret til Skottland?",
+        "choices": ["Ulv", "Enhjørning", "Løve", "Rød hjort"],
+        "answer": "Enhjørning"
+    },
+    {
+        "prompt": "Hvilken planet er kjent for sine ringer?",
+        "choices": ["Mars", "Jupiter", "Saturn", "Uranus"],
+        "answer": "Saturn"
+    }
+  ],
+  "6: Godt og blandet, vanskelig":[
+    {
+        "prompt": "Hva er hovedstaden i Kasakhstan?",
+        "choices": ["Astana", "Almaty", "Tashkent", "Bishkek"],
+        "answer": "Astana"
+    },
+    {
+        "prompt": "Hvilket element har det periodiske symbolet 'Au'?",
+        "choices": ["Sølv", "Gull", "Argon", "Aluminium"],
+        "answer": "Gull"
+    },
+    {
+        "prompt": "Hvem malte 'Nattvakten'?",
+        "choices": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Rembrandt"],
+        "answer": "Rembrandt"
+    },
+    {
+        "prompt": "I hvilket århundre ble Gutenberg-pressen oppfunnet?",
+        "choices": ["13. århundre", "15. århundre", "17. århundre", "19. århundre"],
+        "answer": "15. århundre"
+    },
+    {
+        "prompt": "Hvilken gresk filosof var læreren til Alexander den store?",
+        "choices": ["Platon", "Sokrates", "Aristoteles", "Heraklit"],
+        "answer": "Aristoteles"
+    },
+    {
+        "prompt": "Hvilket land er kjent som 'Landet med tusen innsjøer'?",
+        "choices": ["Finland", "Norge", "Canada", "Sverige"],
+        "answer": "Finland"
+    },
+    {
+        "prompt": "Hvilken gass utgjør mesteparten av jordens atmosfære?",
+        "choices": ["Oksygen", "Nitrogen", "Karbonmonoksid", "Argon"],
+        "answer": "Nitrogen"
+    },
+    {
+        "prompt": "Hvem skrev 'Krig og fred'?",
+        "choices": ["Leo Tolstoj", "Fjodor Dostojevskij", "Anton Tsjekhov", "Ivan Turgenev"],
+        "answer": "Leo Tolstoj"
+    },
+    {
+        "prompt": "Hvilken by var tidligere kjent som Konstantinopel?",
+        "choices": ["Istanbul", "Aten", "Roma", "Jerusalem"],
+        "answer": "Istanbul"
+    },
+    {
+        "prompt": "Hvilket land er Machu Picchu lokalisert i?",
+        "choices": ["Peru", "Bolivia", "Chile", "Ecuador"],
+        "answer": "Peru"
+    }
+  ]
+}

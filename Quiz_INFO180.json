@@ -1,0 +1,1045 @@
+{
+  "2: Forelesning 2 – Innføring i søk i tilstandsrom": [
+      {
+        "theme": "Generelle konsepter",
+        "prompt": "Hva er hovedfokuset for intelligens innen kunstig intelligens, slik det er beskrevet i forelesningen?",
+        "choices": ["Å løse problemer", "Å simulere følelser", "Å etterligne menneskers utseende", "Å skape autonome agenter"],
+        "answer": "Å løse problemer",
+        "difficulty": "3"
+      },
+      {
+        "theme": "Eksempel på beslutningstaking",
+        "prompt": "I eksempelet med biltur på Vestlandet, hva er hensikten med å bruke veikartet for Norge?",
+        "choices": ["Å planlegge korteste rute", "Å simulere tilfeldig kjøring", "Å illustrere beslutningstaking i AI", "Å forutsi værforhold"],
+        "answer": "Å illustrere beslutningstaking i AI",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Problemløsningsmodeller",
+        "prompt": "Hva slags type problem representerer '8-puslespillet' ifølge forelesningen?",
+        "choices": ["Grafgjennomgang", "Søk etter sti", "Optimalisering", "Sortering"],
+        "answer": "Søk etter sti",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Grunnleggende begreper i tilstandsrom",
+        "prompt": "Hvilke elementer definerer et 'tilstandsrom' i problemløsning, slik det ble forklart i forelesningen?",
+        "choices": ["Sett av tilstander, starttilstander, handlinger, målstilstander", "Kun start- og målstilstander", "Handlinger og målkrav", "Starttilstand og overganger"],
+        "answer": "Sett av tilstander, starttilstander, handlinger, målstilstander",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Grunnleggende begreper i tilstandsrom",
+        "prompt": "Hva representerer en 'løsningssti' i et tilstandsrom?",
+        "choices": ["Slutt-tilstanden", "En optimal tilstand", "En sekvens av handlinger fra start til mål", "Et tilfeldig sett av noder"],
+        "answer": "En sekvens av handlinger fra start til mål",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Søkealgoritmer",
+        "prompt": "Hvilken datastruktur brukes i breidde-først-søk, slik det er nevnt i forelesningen?",
+        "choices": ["Stabel (Stack)", "Kø (Queue)", "Heap", "Prioritetskø"],
+        "answer": "Kø (Queue)",
+        "difficulty": "3"
+      },
+      {
+        "theme": "Søkealgoritmer",
+        "prompt": "Hva er en hovedfordel med breidde-først-søk?",
+        "choices": ["Den finner alltid optimale løsninger", "Den er den raskeste søkemetoden", "Den bruker minimalt med minne", "Den krever ingen søkefront"],
+        "answer": "Den finner alltid optimale løsninger",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Søkealgoritmer",
+        "prompt": "Hva er den primære datastrukturen som brukes i djupn-først-søk?",
+        "choices": ["Stabel (Stack)", "Kø (Queue)", "Heap", "Prioritetskø"],
+        "answer": "Stabel (Stack)",
+        "difficulty": "3"
+      },
+      {
+        "theme": "Søkealgoritmer",
+        "prompt": "Hva skjer når en blindvei nås i djupn-først-søk?",
+        "choices": ["Algoritmen stopper", "Søket starter på nytt", "Tilbakesporing skjer", "Målet defineres på nytt"],
+        "answer": "Tilbakesporing skjer",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Søkealgoritmer",
+        "prompt": "Hvordan prioriteres noder i best-først-søk?",
+        "choices": ["Etter dybde", "Etter kostnad", "Etter heuristisk verdi", "Tilfeldig"],
+        "answer": "Etter heuristisk verdi",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Søkealgoritmer",
+        "prompt": "Hva benytter A*-søk for å sikre optimalitet?",
+        "choices": ["Heuristikk og faktisk kostnad", "Kun faktisk kostnad", "Kun heuristikk", "Tilfeldig nodeseleksjon"],
+        "answer": "Heuristikk og faktisk kostnad",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Søkealgoritmer",
+        "prompt": "Hvilket krav må heuristikkfunksjonen oppfylle i A*-søk for å garantere optimale løsninger?",
+        "choices": ["Overestimere faktisk kostnad", "Være admissibel", "Minimere minnebruk", "Underestimere forgreiningsfaktor"],
+        "answer": "Være admissibel",
+        "difficulty": "7"
+      },
+      {
+        "theme": "Søkealgoritmer",
+        "prompt": "Hvorfor er nodemerking viktig i søkealgoritmer som A*?",
+        "choices": ["For å forhindre sykluser", "For å optimalisere minnebruk", "For å redusere forgreiningsfaktor", "For å sikre dybdebegrensning"],
+        "answer": "For å forhindre sykluser",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Kostnader i søk",
+        "prompt": "Hva vurderes vanligvis når man beregner kostnaden på en sti i AI-problemer?",
+        "choices": ["Kun avstand", "Nodeprosesseringstid", "Totale kantkostnader", "Minneeffektivitet"],
+        "answer": "Totale kantkostnader",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Heuristisk søk",
+        "prompt": "Hva er en primær fordel med heuristisk søk?",
+        "choices": ["Sikrer optimalitet", "Reduserer minnebruk", "Fører søket i riktig retning og sparer tid", "Unngår sykkeldannelse"],
+        "answer": "Fører søket i riktig retning og sparer tid",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Algoritmekompleksitet",
+        "prompt": "Hva er tidskompleksiteten til breidde-først-søk?",
+        "choices": ["O(b^d)", "O(d)", "O(b*d)", "O(d^b)"],
+        "answer": "O(b^d)",
+        "difficulty": "7"
+      },
+      {
+        "theme": "Eksempel på problemløsning",
+        "prompt": "Hvilke faktorer påvirker studieproduktiviteten i eksempelet gitt i forelesningen?",
+        "choices": ["Lesefart og antall timer studert", "Energienivå, studietid, sosiale pauser", "Klasseoppmøte", "Kosthold og trening"],
+        "answer": "Energienivå, studietid, sosiale pauser",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Heuristikk i søk",
+        "prompt": "Hva representerer 'h*(n)' i heuristisk søk?",
+        "choices": ["Overestimert kostnad", "Estimert minnebruk", "Admissibel heuristikk", "Måltilstands-sannsynlighet"],
+        "answer": "Admissibel heuristikk",
+        "difficulty": "8"
+      },
+      {
+        "theme": "Eksempel på tilstandsrom",
+        "prompt": "Hva betyr det at en agent kjenner til starttilstanden og målet i et tilstandsrom?",
+        "choices": ["Agenten kan utføre alle handlinger for å oppnå målet direkte", "Agenten kan formulere en sekvens av handlinger uten å utføre dem", "Agenten kjenner kun til handlinger ved å prøve og feile", "Agenten har ingen informasjon om tilstandene"],
+        "answer": "Agenten kan formulere en sekvens av handlinger uten å utføre dem",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Eksempel på problemløsning",
+        "prompt": "Hvordan kan en søkealgoritme redusere unødvendige gjentakelser i et problemrom som inneholder sykluser?",
+        "choices": ["Ved å alltid søke på nytt fra start", "Ved å bruke heuristikker for å redusere nodemerking", "Ved å merke noder som besøkt", "Ved å unngå bruk av heuristikker"],
+        "answer": "Ved å merke noder som besøkt",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Grunnleggende konsepter i søk",
+        "prompt": "Hva menes med forgreiningsfaktor (branching factor) i søk?",
+        "choices": ["Antall startnoder i et problem", "Antall måltilstander", "Antall naboer hver node har", "Antall tilstander i tilstandsrommet"],
+        "answer": "Antall naboer hver node har",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Søkealgoritmer",
+        "prompt": "Hva er en ulempe ved djupn-først-søk?",
+        "choices": ["Kan finne suboptimale løsninger", "Bruker for mye minne", "Kan kun brukes i små tilstandsrom", "Er for sakte i store tilstandsrom"],
+        "answer": "Kan finne suboptimale løsninger",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Søkealgoritmer",
+        "prompt": "Hva innebærer det å bruke en prioritetskø i best-først-søk?",
+        "choices": ["Alle noder vurderes likt", "Noder legges til etter lengden på stien", "Noder sorteres etter kostnad og velges deretter", "Alle noder behandles i tilfeldig rekkefølge"],
+        "answer": "Noder sorteres etter kostnad og velges deretter",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Algoritmekompleksitet",
+        "prompt": "Hvor mye plass krever breidde-først-søk i verste fall?",
+        "choices": ["Lineær i dybden av søket", "Kvadratisk i antall noder", "Eksponentiell i forhold til dybden og forgreiningsfaktoren", "Konstant uavhengig av søkedybde"],
+        "answer": "Eksponentiell i forhold til dybden og forgreiningsfaktoren",
+        "difficulty": "7"
+      },
+      {
+        "theme": "Grunnleggende konsepter i søk",
+        "prompt": "Hva er målet i heuristisk søk som bruker A*-algoritmen?",
+        "choices": ["Å minimere forgreiningsfaktoren", "Å finne den raskeste løsningen uavhengig av kostnad", "Å finne en optimal løsning ved å bruke en heuristikk", "Å alltid oppnå maksimal minnebruk"],
+        "answer": "Å finne en optimal løsning ved å bruke en heuristikk",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Problemløsningsmodeller",
+        "prompt": "Hva illustrerer 'studieproblemet' i forelesningen som et eksempel på?",
+        "choices": ["Optimal bruk av tid og ressurser", "Planlegging med uforutsigbare mål", "Effektiv memoreringsteknikk", "Randomisert tilnærming til problemløsning"],
+        "answer": "Optimal bruk av tid og ressurser",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Kostnader i søk",
+        "prompt": "Hvordan kan en agent i AI bruke kostnadsestimatet 'h(n)' til sin fordel?",
+        "choices": ["For å alltid prioritere dyreste løsning", "For å vurdere antall ubrukte noder", "For å estimere den totale kostnaden fra en tilstand til målet", "For å måle minnebruk under søket"],
+        "answer": "For å estimere den totale kostnaden fra en tilstand til målet",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Heuristikk i søk",
+        "prompt": "Hva kreves av en heuristikk for at den skal anses som 'admissibel' i A*-søk?",
+        "choices": ["At den alltid overestimerer kostnaden", "At den underestimerer kostnaden til målet", "At den holder minnebruk konstant", "At den unngår sykluser i grafen"],
+        "answer": "At den underestimerer kostnaden til målet",
+        "difficulty": "8"
+      }
+    ],
+
+  "3: Forelesning 3 – Vilkårsproblem": [
+      {
+        "theme": "Introduksjon til vilkårsproblemer",
+        "prompt": "Hva beskriver et vilkårsproblem (CSP) i kunstig intelligens?",
+        "choices": ["Et problem der løsningen er en sekvens av handlinger", "Et problem med tilordning av verdier til variabler under visse vilkår", "Et problem uten løsningsbetingelser", "Et problem som bare har ett riktig svar"],
+        "answer": "Et problem med tilordning av verdier til variabler under visse vilkår",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Eksempel på vilkårsproblem",
+        "prompt": "I forelesningens eksempel om festinvitasjoner, hva er det viktig å ta hensyn til?",
+        "choices": ["Hvor mange personer som kan være der samtidig", "Hvor mange som har matallergier", "Hvem som ikke kan være sammen", "Hvem som kan bidra til musikken"],
+        "answer": "Hvem som ikke kan være sammen",
+        "difficulty": "3"
+      },
+      {
+        "theme": "Klassifisering av vilkår",
+        "prompt": "Hva er forskjellen mellom harde og svake vilkår i et CSP?",
+        "choices": ["Harde vilkår må oppfylles, mens svake vilkår bør oppfylles", "Harde vilkår gjelder kun én variabel", "Svake vilkår gjelder flere variable", "Svake vilkår krever ingen løsning"],
+        "answer": "Harde vilkår må oppfylles, mens svake vilkår bør oppfylles",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Definering av vilkår",
+        "prompt": "Hvordan kan vilkår i CSP defineres?",
+        "choices": ["Gjennom intensjonelle eller ekstensjonelle metoder", "Kun gjennom ekstensjonelle metoder", "Kun gjennom predikater", "Kun ved hjelp av logiske samanhenger"],
+        "answer": "Gjennom intensjonelle eller ekstensjonelle metoder",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Variable og verdier",
+        "prompt": "Hva er en diskret variabel i et vilkårsproblem?",
+        "choices": ["En variabel som har en kontinuerlig verdi", "En variabel som har et begrenset antall mulige verdier", "En variabel som endres tilfeldig", "En variabel uten verdi"],
+        "answer": "En variabel som har et begrenset antall mulige verdier",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Problemløsningsmetoder",
+        "prompt": "Hvordan fungerer 'generer-og-test' i CSP?",
+        "choices": ["Den prøver alle tilordninger etter tur og tester dem", "Den prøver kun én tilordning om gangen", "Den tester vilkår uten å generere løsninger", "Den oppretter løsninger tilfeldig"],
+        "answer": "Den prøver alle tilordninger etter tur og tester dem",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Kompleksitet",
+        "prompt": "Hvor mange mulige tilordninger finnes i et vilkårsproblem med 10 binære variable?",
+        "choices": ["1024", "1000", "128", "512"],
+        "answer": "1024",
+        "difficulty": "7"
+      },
+      {
+        "theme": "Kompleksitet i CSP",
+        "prompt": "Hva er et problem med å bruke generer-og-test for komplekse CSP-er?",
+        "choices": ["Det er for mye minnebruk", "Det er ineffektivt med store antall kombinasjoner", "Det krever en stor mengde av variabler", "Det fungerer kun for kontinuerlige variabler"],
+        "answer": "Det er ineffektivt med store antall kombinasjoner",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Partiell tilordning",
+        "prompt": "Hva betyr det å bruke en 'partiell tilordning' i CSP?",
+        "choices": ["Alle variabler er tildelt en verdi", "Bare en del av variablene er tildelt en verdi", "Ingen variabler er tildelt en verdi", "Tilordningene er fullstendig inkonsistente"],
+        "answer": "Bare en del av variablene er tildelt en verdi",
+        "difficulty": "5"
+      },
+      {
+        "theme": "CSP som søkeproblem",
+        "prompt": "Hva er målet i et CSP-søk?",
+        "choices": ["Å tilordne verdier til alle variabler slik at vilkårene oppfylles", "Å finne flest mulige løsninger", "Å eliminere alle vilkår", "Å minimere antall variable"],
+        "answer": "Å tilordne verdier til alle variabler slik at vilkårene oppfylles",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Gjesteproblemet",
+        "prompt": "Hva illustrerer 'gjesteproblemet' i CSP?",
+        "choices": ["Tilordning av personer som skal inviteres eller ikke", "Planlegging av tidspunkter for besøk", "Optimal organisering av sitteplasser", "Bestilling av mat til gjester"],
+        "answer": "Tilordning av personer som skal inviteres eller ikke",
+        "difficulty": "3"
+      },
+      {
+        "theme": "Romfordelingsproblemet",
+        "prompt": "I eksempelet med romfordelingsproblemet, hva kan være en utfordring?",
+        "choices": ["Å finne nok rom", "Å sørge for at utstyr er tilgjengelig", "Å redusere antall kurs", "Å minimere antall studenter"],
+        "answer": "Å sørge for at utstyr er tilgjengelig",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Kant-konsistens",
+        "prompt": "Hva betyr kant-konsistens i CSP?",
+        "choices": ["At alle verdier i domenet er konsistente med vilkår", "At hvert par av variable er konsistente", "At bare én variabel er konsistent", "At alle vilkår fjernes"],
+        "answer": "At hvert par av variable er konsistente",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Domene-konsistens",
+        "prompt": "Hva er definisjonen av domene-konsistens i CSP?",
+        "choices": ["Alle verdier i domenet til en variabel er konsistente med vilkåret", "Bare én verdi per variabel er tillatt", "Alle verdier må være like", "Bare én verdi per variabel er inkonsistent"],
+        "answer": "Alle verdier i domenet til en variabel er konsistente med vilkåret",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Reduksjon av domene",
+        "prompt": "Hvordan kan reduksjon av domene hjelpe i CSP?",
+        "choices": ["Ved å redusere antall variable", "Ved å fjerne inkonsistente verdier fra domenet", "Ved å øke antall mulige løsninger", "Ved å eliminere alle vilkår"],
+        "answer": "Ved å fjerne inkonsistente verdier fra domenet",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Vilkårsnettverk",
+        "prompt": "Hva representerer nodene i et vilkårsnettverk?",
+        "choices": ["Variabler og vilkår", "Kun variabler", "Kun vilkår", "Variabler og inkonsistenser"],
+        "answer": "Variabler og vilkår",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Algoritme for kant-konsistens",
+        "prompt": "Hva gjør algoritmen for kant-konsistens i CSP?",
+        "choices": ["Fjerner inkonsistente verdier i domenene til variabler", "Øker antall mulige vilkår", "Legger til flere variabler", "Minimerer antall variable"],
+        "answer": "Fjerner inkonsistente verdier i domenene til variabler",
+        "difficulty": "7"
+      },
+      {
+        "theme": "Domenesplitting",
+        "prompt": "Hva er domenesplitting i CSP?",
+        "choices": ["Å dele opp domenet til en variabel i mindre mengder", "Å øke domenet til en variabel", "Å fjerne variabler fra CSP", "Å kombinere alle verdier til én variabel"],
+        "answer": "Å dele opp domenet til en variabel i mindre mengder",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Optimale løsninger i CSP",
+        "prompt": "Hva betyr det å finne en optimal løsning i CSP?",
+        "choices": ["Å finne en løsning som oppfyller alle vilkår og maksimerer en ønsket målsetting", "Å finne en løsning som bryter minst ett vilkår", "Å redusere antall variable til null", "Å finne en inkonsistent løsning"],
+        "answer": "Å finne en løsning som oppfyller alle vilkår og maksimerer en ønsket målsetting",
+        "difficulty": "7"
+      },
+      {
+        "theme": "Eksempler på vilkår",
+        "prompt": "Hvordan kan vilkår uttrykkes i CSP?",
+        "choices": ["Som predikater eller tillatte kombinasjoner", "Kun som predikater", "Som tallverdier", "Kun som tekstbeskrivelser"],
+        "answer": "Som predikater eller tillatte kombinasjoner",
+        "difficulty": "5"
+      }
+  ],
+
+  "4: Forelesning 4 – Optimeringsteknikker i kunstig intelligens": [
+      {
+        "theme": "Optimeringsproblemer",
+        "prompt": "Hva er målet med et optimeringsproblem i kunstig intelligens?",
+        "choices": ["Å finne en løsning som maksimerer eller minimerer en objektiv funksjon", "Å finne alle mulige løsninger", "Å eliminere alle variabler", "Å skape tilfeldige tilordninger"],
+        "answer": "Å finne en løsning som maksimerer eller minimerer en objektiv funksjon",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Mjuke vilkår",
+        "prompt": "Hva er et eksempel på et mjukt vilkår i en optimeringsoppgave?",
+        "choices": ["Et vilkår som må oppfylles for å finne en løsning", "Et vilkår som bør oppfylles, men ikke nødvendigvis må", "Et vilkår som begrenser antall løsninger", "Et vilkår uten påvirkning på løsningen"],
+        "answer": "Et vilkår som bør oppfylles, men ikke nødvendigvis må",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Fest-problemet",
+        "prompt": "Hvordan formuleres en løsning i fest-problemet?",
+        "choices": ["Som en liste med 0 og 1 som representerer hvem som er tilstede", "Som et sett av variabler med kontinuerlige verdier", "Som en rekke tilfeldige løsninger", "Som en objektiv funksjon"],
+        "answer": "Som en liste med 0 og 1 som representerer hvem som er tilstede",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Lokalt søk",
+        "prompt": "Hva kjennetegner lokalt søk i optimering?",
+        "choices": ["Søker globalt etter optimale løsninger", "Finner løsninger nær hittil beste løsning", "Hopper tilfeldig mellom løsninger", "Ser kun på startverdiene"],
+        "answer": "Finner løsninger nær hittil beste løsning",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Grådig søk",
+        "prompt": "Hva er grådig søk?",
+        "choices": ["En metode som tar den største forbedringen på hvert steg", "En metode som tar tilfeldige valg", "En metode som prøver alle mulige løsninger samtidig", "En metode som kun fungerer for harde vilkår"],
+        "answer": "En metode som tar den største forbedringen på hvert steg",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Simulert herding",
+        "prompt": "Hva gjør sannsynligheten (p) i simulert herding?",
+        "choices": ["Kontrollerer aksept av dårligere løsninger", "Øker temperaturen i løsningen", "Minimerer antall løsninger", "Optimaliserer objektivfunksjonen direkte"],
+        "answer": "Kontrollerer aksept av dårligere løsninger",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Lokale og globale optima",
+        "prompt": "Hva er et lokalt optimum?",
+        "choices": ["Den beste løsningen i hele problemet", "En løsning som er optimal i en lokal del av søkeområdet", "En tilfeldig valgt løsning", "En løsning som minimerer alle variabler"],
+        "answer": "En løsning som er optimal i en lokal del av søkeområdet",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Fest-problemet",
+        "prompt": "Hva skjer i fest-problemet hvis både Randi og Stein er tilstede?",
+        "choices": ["Festens objektiv verdi øker", "Festens objektiv verdi reduseres", "Ingen effekt på objektiv verdien", "De styrer musikken hele kvelden"],
+        "answer": "Festens objektiv verdi reduseres",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Grådig søk - variantar",
+        "prompt": "Hva er en variant av grådig søk?",
+        "choices": ["Modifiser tilfeldige variabler som bidrar negativt", "Velg alltid den dyreste verdien", "Ta ingen avgjørelser", "Se kun på sluttilstanden"],
+        "answer": "Modifiser tilfeldige variabler som bidrar negativt",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Simulert herding",
+        "prompt": "Hva betyr 'temperatur' i simulert herding?",
+        "choices": ["Den kontrollerer sannsynligheten for aksept av dårligere løsninger", "Den kontrollerer antall variabler", "Den bestemmer mengden data", "Den indikerer antall tilgjengelige løsninger"],
+        "answer": "Den kontrollerer sannsynligheten for aksept av dårligere løsninger",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Strålesøk",
+        "prompt": "Hvordan fungerer strålesøk i optimering?",
+        "choices": ["Velger k beste løsninger blant alle naboer i hvert steg", "Prøver alle mulige tilordninger", "Tilfeldig velger en nabo", "Velger kun det globale optimum"],
+        "answer": "Velger k beste løsninger blant alle naboer i hvert steg",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Stokastisk strålesøk",
+        "prompt": "Hvordan velges nye individ i stokastisk strålesøk?",
+        "choices": ["Ved å bruke tilfeldige valg basert på fitness", "Ved å eliminere alle med dårlig fitness", "Kun ved å velge det beste individet", "Ved å ignorere fitness"],
+        "answer": "Ved å bruke tilfeldige valg basert på fitness",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Genetiske algoritmar",
+        "prompt": "Hva er formålet med genetiske algoritmer i optimering?",
+        "choices": ["Simulere evolusjon for å forbedre løsninger", "Prøve alle mulige løsninger", "Redusere størrelsen på søkeområdet", "Kun finne én løsning"],
+        "answer": "Simulere evolusjon for å forbedre løsninger",
+        "difficulty": "7"
+      },
+      {
+        "theme": "Genetiske algoritmer",
+        "prompt": "Hva innebærer 'mutasjon' i genetiske algoritmer?",
+        "choices": ["Endre en variabel tilfeldig i et individ", "Velge kun én foreldrerelasjon", "Ignorere fitness-verdien", "Velge tilfeldige variable"],
+        "answer": "Endre en variabel tilfeldig i et individ",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Simulert herding",
+        "prompt": "Hvorfor starter temperaturen høy og synker i simulert herding?",
+        "choices": ["For å tillate større fleksibilitet i begynnelsen", "For å ignorere fitness", "For å redusere antall variabler", "For å maksimere tilfeldige løsninger"],
+        "answer": "For å tillate større fleksibilitet i begynnelsen",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Grådig søk - variasjon",
+        "prompt": "Hva kan være en ulempe med grådig søk?",
+        "choices": ["Det kan stoppe i lokale optima", "Det krever for mye minne", "Det ser kun på startverdier", "Det reduserer ikke løsninger"],
+        "answer": "Det kan stoppe i lokale optima",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Fitness-funksjon",
+        "prompt": "Hvordan måles 'fitness' i stokastisk strålesøk?",
+        "choices": ["Gjennom en funksjon basert på objektivverdien og temperatur", "Ved å telle antall variable", "Ved å redusere alle tilordninger", "Ved å se på antall naboer"],
+        "answer": "Gjennom en funksjon basert på objektivverdien og temperatur",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Parametre i genetiske algoritmer",
+        "prompt": "Hvilken faktor kan påvirke resultatet i genetiske algoritmer?",
+        "choices": ["Antall generasjoner", "Valg av kun ett individ", "Antall tilfeldige variabler", "Ignorering av fitness"],
+        "answer": "Antall generasjoner",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Simulert herding",
+        "prompt": "Hva er analogien bak simulert herding?",
+        "choices": ["Herding av stål", "En tilfeldighetsprosess", "En økonomisk modell", "En tilfeldig utviklingsprosess"],
+        "answer": "Herding av stål",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Genetiske algoritmer",
+        "prompt": "Hva er et 'eitt-punkts-kryssing' i genetiske algoritmer?",
+        "choices": ["En kryssing der én tilfeldig indeks brukes for å lage nye individer", "En kryssing der hele genet brukes", "En kryssing uten mutasjon", "En kryssing uten foreldre"],
+        "answer": "En kryssing der én tilfeldig indeks brukes for å lage nye individer",
+        "difficulty": "6"
+      }
+  ],
+
+  "5: Forelesning 5 – Planlegging i kunstig intelligens": [
+      {
+        "theme": "Planlegging",
+        "prompt": "Hva er hovedmålet med planlegging i kunstig intelligens?",
+        "choices": ["Å utføre tilfeldige handlinger", "Å definere og oppnå mål gjennom sekvensielle handlinger", "Å analysere kun data", "Å eliminere alle variabler"],
+        "answer": "Å definere og oppnå mål gjennom sekvensielle handlinger",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Servus sitt problem",
+        "prompt": "Hva er målet for roboten Servus i forelesningens eksempel?",
+        "choices": ["Å fylle opp kjøkkenet med tomme glass", "Å plassere så mange fulle glass som mulig på bordene og returnere tomhendt til kjøkkenet", "Å ta alle glass til bord 2", "Å holde seg på kjøkkenet"],
+        "answer": "Å plassere så mange fulle glass som mulig på bordene og returnere tomhendt til kjøkkenet",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Føresetnader for planlegging",
+        "prompt": "Hvilken forutsetning er nødvendig for effektiv planlegging?",
+        "choices": ["At alle handlinger er tilfeldige", "At handlinger er deterministiske og konsekvensene kjente", "At miljøet endrer seg hele tiden", "At handlinger ikke har konsekvenser"],
+        "answer": "At handlinger er deterministiske og konsekvensene kjente",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Tilstandsrepresentasjon",
+        "prompt": "Hva beskriver 'tilstandsrepresentasjon' i planlegging?",
+        "choices": ["En måte å måle tid på", "En beskrivelse av robotens og miljøets nåværende tilstand", "Kun en beskrivelse av starttilstanden", "En vilkårlig valgt handling"],
+        "answer": "En beskrivelse av robotens og miljøets nåværende tilstand",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Handlingar",
+        "prompt": "Hva slags handlinger kan Servus utføre i eksempelet?",
+        "choices": ["Flytte mellom bord og kjøkken og håndtere glass", "Kun bære glass til kjøkkenet", "Stå stille", "Rengjøre bordene"],
+        "answer": "Flytte mellom bord og kjøkken og håndtere glass",
+        "difficulty": "3"
+      },
+      {
+        "theme": "STRIPS",
+        "prompt": "Hva betyr STRIPS i konteksten av planlegging?",
+        "choices": ["Et format for å representere handlinger med forutsetninger og effekter", "Et navn på en robot", "En metode for å eliminere handlinger", "En tilstand uten handlinger"],
+        "answer": "Et format for å representere handlinger med forutsetninger og effekter",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Eksempel på STRIPS-regel",
+        "prompt": "Hva er en forutsetning for at Servus skal sette et glass på bord 1?",
+        "choices": ["Servus er på kjøkkenet", "Servus er ved bord 1, har et fullt glass, og det er plass på bordet", "Servus har ingen glass", "Servus er ferdig med å rydde kjøkkenet"],
+        "answer": "Servus er ved bord 1, har et fullt glass, og det er plass på bordet",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Framoverplanlegging",
+        "prompt": "Hva innebærer framoverplanlegging?",
+        "choices": ["Å starte fra starttilstand og utføre handlinger mot målet", "Å begynne ved målet og søke bakover", "Å fjerne alle mulige handlinger", "Å ignorere starttilstanden"],
+        "answer": "Å starte fra starttilstand og utføre handlinger mot målet",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Tilstandsrom",
+        "prompt": "Hvorfor kan tilstandsrommet for Servus sitt problem bli stort?",
+        "choices": ["Fordi hver handling gir mange mulige nye tilstander", "Fordi det bare finnes én mulig tilstand", "Fordi Servus bare kan holde ett glass", "Fordi miljøet er konstant"],
+        "answer": "Fordi hver handling gir mange mulige nye tilstander",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Regelbaserte handlingar",
+        "prompt": "Hva innebærer kausale regler i regelbaserte handlinger?",
+        "choices": ["De spesifiserer når en egenskap får en ny verdi", "De fjerner alle handlinger", "De skaper tilfeldige verdier", "De eliminerer tilstandsrommet"],
+        "answer": "De spesifiserer når en egenskap får en ny verdi",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Rammereglar",
+        "prompt": "Hva er hensikten med rammeregler?",
+        "choices": ["De spesifiserer når en egenskap beholder sin verdi", "De endrer verdien av en handling", "De sletter alle handlinger", "De spesifiserer nye mål"],
+        "answer": "De spesifiserer når en egenskap beholder sin verdi",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Regresjonsplanlegging",
+        "prompt": "Hva er hovedideen bak regresjonsplanlegging?",
+        "choices": ["Å begynne fra målet og jobbe bakover til starttilstanden", "Å starte fra start og jobbe mot målet", "Å slette handlinger etter hver tilstand", "Å bruke bare en handling for alle mål"],
+        "answer": "Å begynne fra målet og jobbe bakover til starttilstanden",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Regresjonsplanlegging",
+        "prompt": "I hvilket tilfelle brukes regresjonsplanlegging?",
+        "choices": ["Når målet er presist definert", "Når starttilstanden er ukjent", "Når ingen handlinger er kjent", "Når alle handlinger er tilfeldige"],
+        "answer": "Når målet er presist definert",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Servus sitt tilstandsrom",
+        "prompt": "Hvor mange mulige tilstander finnes for Servus sitt problem?",
+        "choices": ["1800", "2000", "1500", "1600"],
+        "answer": "1800",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Handlingar i STRIPS",
+        "prompt": "Hva skjer hvis Servus setter et fullt glass på bordet?",
+        "choices": ["Antallet fulle glass på bordet øker med 1", "Antallet tomme glass på bordet øker", "Ingen endring skjer", "Alle glass på bordet fjernes"],
+        "answer": "Antallet fulle glass på bordet øker med 1",
+        "difficulty": "3"
+      },
+      {
+        "theme": "Planlegging og søk",
+        "prompt": "Hva er en viktig likhet mellom planlegging og søkeproblemer?",
+        "choices": ["Begge involverer søk i et tilstandsrom mot et mål", "Begge ignorerer alle tilstander", "Begge begynner fra målet", "Begge har udefinerte handlinger"],
+        "answer": "Begge involverer søk i et tilstandsrom mot et mål",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Planleggingsproblemer",
+        "prompt": "Hva krever formulering av et planleggingsproblem?",
+        "choices": ["Beskrivelse av tilstander, handlinger og mål", "Kun en beskrivelse av mål", "Kun tilfeldige handlinger", "Ingen beskrivelse av miljøet"],
+        "answer": "Beskrivelse av tilstander, handlinger og mål",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Robotplanlegging",
+        "prompt": "Hva er et praktisk eksempel på planlegging i robotikk?",
+        "choices": ["Servus som plasserer glass på bord", "Kalkulering av økonomiske modeller", "Analyse av store datamengder", "Tilfeldig vandring uten mål"],
+        "answer": "Servus som plasserer glass på bord",
+        "difficulty": "3"
+      },
+      {
+        "theme": "Servus sitt tilstandsrom",
+        "prompt": "Hvilken søkealgoritme kan brukes effektivt for Servus sitt tilstandsrom?",
+        "choices": ["Djupn-først-søk", "Tilfeldig søk", "Tilfeldig valg", "Ingen algoritme"],
+        "answer": "Djupn-først-søk",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Kausale regler",
+        "prompt": "Hva skjer når Servus synger under flytting?",
+        "choices": ["Servus har ingen glass i hendene", "Servus holder ett fullt glass", "Servus flytter fra kjøkkenet", "Servus gjør ingenting"],
+        "answer": "Servus har ingen glass i hendene",
+        "difficulty": "3"
+      }
+  ],
+
+  "6: Forelesning 6 – Maskinlæring i kunstig intelligens": [
+      {
+        "theme": "Introduksjon til maskinlæring",
+        "prompt": "Hva er formålet med maskinlæring?",
+        "choices": ["Å utvikle automatiserte metoder for å lære fra data", "Å lage tilfeldige modeller", "Å analysere kun visuelle data", "Å forutsi kun fremtidige trender"],
+        "answer": "Å utvikle automatiserte metoder for å lære fra data",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Læringsformer",
+        "prompt": "Hva kjennetegner rettleidd læring?",
+        "choices": ["Modellen mottar belønning eller straff", "Treningsdataene inneholder kjente utfall eller klassifikasjoner", "Modellen finner mønstre uten noen klassifikasjon", "Modellen har ikke tilgang til noen data"],
+        "answer": "Treningsdataene inneholder kjente utfall eller klassifikasjoner",
+        "difficulty": "5"
+      },
+      {
+        "theme": "K-næraste naboar",
+        "prompt": "Hva gjør K-næraste naboers algoritme?",
+        "choices": ["Velger en tilfeldig nabo", "Klassifiserer basert på de nærmeste k naboene i dataene", "Endrer data tilfeldig", "Unngår klassifikasjon"],
+        "answer": "Klassifiserer basert på de nærmeste k naboene i dataene",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Jakta på den perfekte fest",
+        "prompt": "Hvordan kan maskinlæring brukes til å forbedre gjestevalg for en fest?",
+        "choices": ["Ved å analysere data om tidligere gjester og deres egenskaper", "Ved å trekke tilfeldige navn", "Ved å unngå bruk av data", "Ved å invitere alle tilgjengelige gjester"],
+        "answer": "Ved å analysere data om tidligere gjester og deres egenskaper",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Indikator-variable",
+        "prompt": "Hvordan kan en kategorisk variabel som 'farge' representeres i maskinlæring?",
+        "choices": ["Ved bruk av indikatorvariabler (f.eks. one-hot encoding)", "Kun som tekstverdier", "Kun som binære verdier", "Som en tilfeldig verdi"],
+        "answer": "Ved bruk av indikatorvariabler (f.eks. one-hot encoding)",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Reelle verdiar",
+        "prompt": "Hvordan beregnes avstanden mellom punkter i k-næraste naboers algoritme?",
+        "choices": ["Ved bruk av Euklidsk distanse", "Ved å telle punktene", "Ved tilfeldig valg av distanse", "Ved en konstant verdi"],
+        "answer": "Ved bruk av Euklidsk distanse",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Normalisering",
+        "prompt": "Hvorfor er normalisering viktig når man bruker Euklidsk distanse?",
+        "choices": ["For å sikre at alle variabler har lik påvirkning på avstanden", "For å ignorere små variabler", "For å øke varians i data", "For å endre verdier til binære"],
+        "answer": "For å sikre at alle variabler har lik påvirkning på avstanden",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Komponentar i læring",
+        "prompt": "Hva er 'induksjon' i maskinlæring?",
+        "choices": ["Prosessen med å utlede regler fra data", "En metode for å eliminere regler", "Tilfeldig valg av data", "En prosess for å ignorere data"],
+        "answer": "Prosessen med å utlede regler fra data",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Hypotese",
+        "prompt": "Hva er en hypotese i maskinlæring?",
+        "choices": ["En modell som forbinder inndata med et predikert utfall", "En tilfeldig regel", "En urelatert gjetning", "En måte å ignorere data på"],
+        "answer": "En modell som forbinder inndata med et predikert utfall",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Bias",
+        "prompt": "Hva betyr Ockhams høvel i konteksten av maskinlæring?",
+        "choices": ["Å foretrekke en enkel hypotese fremfor en kompleks", "Å alltid velge den mest komplekse hypotesen", "Å ignorere datakvalitet", "Å velge tilfeldige data"],
+        "answer": "Å foretrekke en enkel hypotese fremfor en kompleks",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Evaluering av algoritmen",
+        "prompt": "Hvordan beregnes 'korrekthet' i klassifikasjon?",
+        "choices": ["Antall riktig klassifiserte eksempler delt på totalt antall eksempler", "Antall feil klassifiserte eksempler delt på totale feil", "Summen av alle eksempler", "Antall feil klassifiserte eksempler"],
+        "answer": "Antall riktig klassifiserte eksempler delt på totalt antall eksempler",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Forvekslingsmatrise",
+        "prompt": "Hva representerer en forvekslingsmatrise?",
+        "choices": ["En tabell over riktige og feil klassifikasjoner", "En oppsummering av hypoteser", "En metode for datainnsamling", "En måte å normalisere data på"],
+        "answer": "En tabell over riktige og feil klassifikasjoner",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Regresjon",
+        "prompt": "Hva er målet med lineær regresjon?",
+        "choices": ["Å finne en lineær funksjon som best passer data", "Å finne en tilfeldig funksjon", "Å ignorere alle data", "Å velge et fast tall"],
+        "answer": "Å finne en lineær funksjon som best passer data",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Logistisk regresjon",
+        "prompt": "Hva er en anvendelse av logistisk regresjon?",
+        "choices": ["Klassifisering i binære kategorier", "Klassifisering av kun numeriske data", "Regresjon på tilfeldige verdier", "Regresjon uten datainngang"],
+        "answer": "Klassifisering i binære kategorier",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Gradientnedstigning",
+        "prompt": "Hva gjør gradientnedstigning i maskinlæring?",
+        "choices": ["Minimerer feil ved å justere vekter basert på gradienten av en tapsfunksjon", "Øker alltid vekter", "Reduserer antall data", "Ignorerer feilen i data"],
+        "answer": "Minimerer feil ved å justere vekter basert på gradienten av en tapsfunksjon",
+        "difficulty": "7"
+      },
+      {
+        "theme": "Maskinlæringspraksis",
+        "prompt": "Hvorfor deles datasettet i treningssett og testsett?",
+        "choices": ["For å evaluere modellens ytelse på nye data", "For å redusere mengden data", "For å ignorere testdata", "For å finne tilfeldige løsninger"],
+        "answer": "For å evaluere modellens ytelse på nye data",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Overtilpassing",
+        "prompt": "Hva er overtilpassing?",
+        "choices": ["Når modellen lærer data for spesifikt og ikke generaliserer godt", "Når modellen aldri treffer riktig", "Når modellen ignorerer alle data", "Når modellen velger tilfeldige løsninger"],
+        "answer": "Når modellen lærer data for spesifikt og ikke generaliserer godt",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Støy",
+        "prompt": "Hvordan påvirker støy maskinlæring?",
+        "choices": ["Støy kan føre til feil læring og redusere modellens nøyaktighet", "Støy forbedrer alltid modellen", "Støy gjør at modellen ignorerer data", "Støy fører til perfekte prediksjoner"],
+        "answer": "Støy kan føre til feil læring og redusere modellens nøyaktighet",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Evaluering av prediksjonar",
+        "prompt": "Hvordan måles absolutt feil for reelle utfall?",
+        "choices": ["|val(e,Y)-pval(e,Y)|", "|val(e,Y)+pval(e,Y)|", "|val(e,Y)*pval(e,Y)|", "val(e,Y) / pval(e,Y)"],
+        "answer": "|val(e,Y)-pval(e,Y)|",
+        "difficulty": "7"
+      }
+  ],
+
+  "7: Forelesning 7 – Neurale nettverk i kunstig intelligens": [
+      {
+        "theme": "Nevron",
+        "prompt": "Hva er funksjonen til et kunstig nevron i et nevralt nettverk?",
+        "choices": ["Å beregne en vektet sum av inngangsverdier og anvende en aktiveringsfunksjon", "Å lagre data permanent", "Å eliminere støy fra data", "Å oppdage feil i output"],
+        "answer": "Å beregne en vektet sum av inngangsverdier og anvende en aktiveringsfunksjon",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Djuplæring",
+        "prompt": "Hva beskriver djuplæring i nevrale nettverk?",
+        "choices": ["Flere lag med sammenkoblede nevroner", "Enkeltlag med en utgang", "Kun tilfeldige vekter", "Ingen aktiveringsfunksjoner"],
+        "answer": "Flere lag med sammenkoblede nevroner",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Logistisk funksjon",
+        "prompt": "Hva er formelen for den logistiske funksjonen?",
+        "choices": ["1/(1+e^-x)", "x/(1+e^-x)", "1-e^x", "x^2/(1+e^x)"],
+        "answer": "1/(1+e^-x)",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Gradientnedstigning",
+        "prompt": "Hva er hensikten med gradientnedstigning?",
+        "choices": ["Å minimere feil ved å justere vekter basert på gradienten av en tapsfunksjon", "Å øke feil i modellene", "Å lage flere nevrale lag", "Å forsterke alle utgangsverdier"],
+        "answer": "Å minimere feil ved å justere vekter basert på gradienten av en tapsfunksjon",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Aktiveringsfunksjoner",
+        "prompt": "Hvilken aktiveringsfunksjon brukes ofte i djuplæring for å håndtere negative verdier?",
+        "choices": ["ReLU", "Sigmoid", "Tangens hyperbolicus", "Softmax"],
+        "answer": "ReLU",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Multilayer perceptron",
+        "prompt": "Hva kjennetegner et multilayer perceptron?",
+        "choices": ["Flere lag med nevroner der hvert lag er koblet til det neste", "Kun ett lag med nevroner", "Ingen aktiveringsfunksjon", "Tilfeldig vektendring"],
+        "answer": "Flere lag med nevroner der hvert lag er koblet til det neste",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Feiltilbakeføring",
+        "prompt": "Hva er prinsippet bak feiltilbakeføring i djuplæring?",
+        "choices": ["Å justere vektene for å redusere feil", "Å ignorere vektene", "Å forsterke input uten endring", "Å slette alle lag i nettverket"],
+        "answer": "Å justere vektene for å redusere feil",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Overtilpassing",
+        "prompt": "Hva er overtilpassing?",
+        "choices": ["Når en modell tilpasser seg treningdataene for godt og yter dårlig på nye data", "Når en modell aldri tilpasser seg dataene", "Når modellen kun predikerer gjennomsnittsverdier", "Når modellen ignorerer all input"],
+        "answer": "Når en modell tilpasser seg treningdataene for godt og yter dårlig på nye data",
+        "difficulty": "6"
+      },
+      {
+        "theme": "ReLU",
+        "prompt": "Hva returnerer ReLU-aktiveringsfunksjonen for en negativ inputverdi?",
+        "choices": ["0", "1", "Inputverdien selv", "Uendelig"],
+        "answer": "0",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Perceptron",
+        "prompt": "Hva er et perceptron?",
+        "choices": ["En enkel type kunstig nevron som klassifiserer input i to klasser", "Et komplekst nevralt nettverk", "En måte å oppbevare data på", "En metode for datavisualisering"],
+        "answer": "En enkel type kunstig nevron som klassifiserer input i to klasser",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Vekter i lag",
+        "prompt": "Hvor mange vekter finnes i et nettverk med 8 input, ett skjult lag med 6 nevroner, og et output-lag med 5 nevroner?",
+        "choices": ["155", "45", "120", "80"],
+        "answer": "155",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Softmax",
+        "prompt": "Hva gjør softmax-funksjonen i klassifiseringsproblemer?",
+        "choices": ["Den konverterer output til sannsynligheter", "Den setter alle output-verdier til null", "Den skalerer alle vekter til én", "Den endrer inputverdiene tilfeldig"],
+        "answer": "Den konverterer output til sannsynligheter",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Backpropagation",
+        "prompt": "Hva beregner backpropagation i hvert lag?",
+        "choices": ["Gradientene av feilene for å oppdatere vektene", "Kun gjennomsnittsverdiene", "Antall nevroner", "De tilfeldige verdiene"],
+        "answer": "Gradientene av feilene for å oppdatere vektene",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Aktiveringsfunksjoner",
+        "prompt": "Hva er hensikten med en aktiveringsfunksjon i et nevron?",
+        "choices": ["Å introdusere ikke-linearitet", "Å eliminere all input", "Å gjøre alle output like", "Å ignorere gradientene"],
+        "answer": "Å introdusere ikke-linearitet",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Tilbakeformidling",
+        "prompt": "Hva er gradienten i tilbakeformidling?",
+        "choices": ["Den retningen som gir størst reduksjon i feil", "Tilfeldig valgt retning", "En verdi som setter alle vekter til null", "En konstant verdi"],
+        "answer": "Den retningen som gir størst reduksjon i feil",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Djuplæring",
+        "prompt": "Hva gjør 'batch-læring' i gradientnedstigning?",
+        "choices": ["Oppdaterer vektene etter å ha beregnet feil for alle data i en batch", "Oppdaterer vektene etter hver enkelt datapunkt", "Ignorerer feilberegningen", "Tilfeldigvis velger et sett med vekter"],
+        "answer": "Oppdaterer vektene etter å ha beregnet feil for alle data i en batch",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Bias i nevrale nettverk",
+        "prompt": "Hvordan kan bias påvirke et nevralt nettverk?",
+        "choices": ["Ved å forskyve aktiveringen slik at output endres", "Ved å ignorere input", "Ved å redusere antall lag", "Ved å sette alle output til null"],
+        "answer": "Ved å forskyve aktiveringen slik at output endres",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Dropouts",
+        "prompt": "Hva er hensikten med 'dropouts' i et nevralt nettverk?",
+        "choices": ["Å redusere overtilpassing ved tilfeldig å deaktivere nevroner under trening", "Å øke vektene for alle nevroner", "Å ignorere alle inputverdier", "Å øke antall lag"],
+        "answer": "Å redusere overtilpassing ved tilfeldig å deaktivere nevroner under trening",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Optimering",
+        "prompt": "Hva gjør Adam-optimering i nevrale nettverk?",
+        "choices": ["Justere vektene basert på en kombinasjon av gjennomsnittlig gradient og kvadratisk gradient", "Ignorerer alle gradienter", "Bare reduserer vektene", "Øker vektene konstant"],
+        "answer": "Justere vektene basert på en kombinasjon av gjennomsnittlig gradient og kvadratisk gradient",
+        "difficulty": "6"
+      }
+  ],
+
+  "8: Forelesning 8 – Avansert djuplæring i kunstig intelligens": [
+      {
+        "theme": "Avansert arkitektur",
+        "prompt": "Hva er et fullt samankobla nettverk i djuplæring?",
+        "choices": ["Et nettverk der hvert nevron er koblet til alle nevroner i neste lag", "Et nettverk med ingen koblinger", "Et nettverk med kun ett lag", "Et nettverk med bare utdata"],
+        "answer": "Et nettverk der hvert nevron er koblet til alle nevroner i neste lag",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Konvolusjonsnettverk",
+        "prompt": "Hva er et konvolusjonsnettverk best egnet til?",
+        "choices": ["Analyse av bildedata", "Analyse av tekstdata", "Klassifisering uten input", "Generering av tilfeldige tall"],
+        "answer": "Analyse av bildedata",
+        "difficulty": "4"
+      },
+      {
+        "theme": "Filter",
+        "prompt": "Hva er hovedfunksjonen til et filter i et konvolusjonsnettverk?",
+        "choices": ["Å trekke ut spesifikke trekk fra deler av data", "Å endre hele input", "Å fjerne all støy", "Å generere tilfeldige verdier"],
+        "answer": "Å trekke ut spesifikke trekk fra deler av data",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Pooling",
+        "prompt": "Hva gjør et pooling-lag i et konvolusjonsnettverk?",
+        "choices": ["Reduserer dataens dimensjon ved å bruke aggregatverdier som maksimum eller gjennomsnitt", "Øker dataens dimensjon", "Ignorerer alle verdier", "Setter alle verdier til null"],
+        "answer": "Reduserer dataens dimensjon ved å bruke aggregatverdier som maksimum eller gjennomsnitt",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Innplasseringar",
+        "prompt": "Hva betyr innplasseringer (embeddings) i naturlig språkbehandling?",
+        "choices": ["Effektiv representasjon av ord som vektorer i et n-dimensjonalt rom", "Oversetting av tekst", "Lagring av data uten mening", "Fjerning av data"],
+        "answer": "Effektiv representasjon av ord som vektorer i et n-dimensjonalt rom",
+        "difficulty": "5"
+      },
+      {
+        "theme": "RNN",
+        "prompt": "Hva kjennetegner et rekurrent nevralt nettverk (RNN)?",
+        "choices": ["Evnen til å huske tidligere tilstander for å analysere sekvensielle data", "Bruk av én enkelt nevron", "Mangler tilbakeformidling", "Fungerer bare for statiske data"],
+        "answer": "Evnen til å huske tidligere tilstander for å analysere sekvensielle data",
+        "difficulty": "5"
+      },
+      {
+        "theme": "LSTM",
+        "prompt": "Hva er hovedfordelen med LSTM sammenlignet med enkel RNN?",
+        "choices": ["Det har spesialiserte funksjoner for å huske og glemme informasjon over tid", "Det har færre parametere", "Det fungerer bare med binære data", "Det krever ingen treningsdata"],
+        "answer": "Det har spesialiserte funksjoner for å huske og glemme informasjon over tid",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Merksemdsmekanismar",
+        "prompt": "Hva brukes merksemdsmekanismar til i nevrale nettverk?",
+        "choices": ["Å vektlegge viktige deler av data, som ord i en setning, avhengig av kontekst", "Å ignorere all input", "Å redusere alle vekter til null", "Å lage tilfeldige verdier"],
+        "answer": "Å vektlegge viktige deler av data, som ord i en setning, avhengig av kontekst",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Transformers",
+        "prompt": "Hva er en viktig komponent i transformer-arkitekturen?",
+        "choices": ["Merksemdsmekanismar for sekvensanalyse uten rekurrente lag", "Fullt samankobla lag uten aktivering", "Kun ett nevron", "Bare input-lag"],
+        "answer": "Merksemdsmekanismar for sekvensanalyse uten rekurrente lag",
+        "difficulty": "6"
+      },
+      {
+        "theme": "ChatGPT",
+        "prompt": "Hva brukes ChatGPT sitt dekodardel til?",
+        "choices": ["Generering av tekst basert på input og genererte token", "Fjerne alle verdier", "Lage tilfeldige tall", "Analysere kun numeriske data"],
+        "answer": "Generering av tekst basert på input og genererte token",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Diffusjonsnettverk",
+        "prompt": "Hva gjør et diffusjonsnettverk i bilder?",
+        "choices": ["Fjerner støy og forbedrer skarpheten til bilder", "Legger til tilfeldig støy", "Sletter all informasjon", "Genererer binære bilder"],
+        "answer": "Fjerner støy og forbedrer skarpheten til bilder",
+        "difficulty": "6"
+      },
+      {
+        "theme": "1-dimensjonale filter",
+        "prompt": "Hva brukes et 1-dimensjonalt filter til i et konvolusjonsnettverk?",
+        "choices": ["Analyse av sekvensielle data som lyd", "Kun til bilder", "Kun til statiske data", "Tilfeldig endring av verdier"],
+        "answer": "Analyse av sekvensielle data som lyd",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Skip-gram-modell",
+        "prompt": "Hva er formålet med skip-gram-modellen i språkbehandling?",
+        "choices": ["Prediksjon av ord i en tekstsekvens basert på kontekstord", "Oversettelse av tekst", "Lagring av data", "Analysering av kun numeriske verdier"],
+        "answer": "Prediksjon av ord i en tekstsekvens basert på kontekstord",
+        "difficulty": "6"
+      },
+      {
+        "theme": "CBOW-modell",
+        "prompt": "Hva er målet med CBOW (Continuous Bag-of-Words)?",
+        "choices": ["Predikere et ord basert på nærliggende ord i en setning", "Predikere alle ord i en tekst", "Slette alle ord", "Lagge en tilfeldig tekst"],
+        "answer": "Predikere et ord basert på nærliggende ord i en setning",
+        "difficulty": "6"
+      },
+      {
+        "theme": "Vekt-oppdatering",
+        "prompt": "Hva er hovedmålet med tilbakeformidling i et konvolusjonsnettverk?",
+        "choices": ["Å justere vektene i filteret for å minimere feil i output", "Å slette alle vekter", "Å ignorere feil", "Å sette alle vekter til én"],
+        "answer": "Å justere vektene i filteret for å minimere feil i output",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Posisjonskoding",
+        "prompt": "Hva er hensikten med posisjonskoding i transformer-arkitekturer?",
+        "choices": ["Å angi rekkefølgen til elementer i en sekvens", "Å slette alle data", "Å endre alle vekter til null", "Å opprette tilfeldige verdier"],
+        "answer": "Å angi rekkefølgen til elementer i en sekvens",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Datarepresentasjon",
+        "prompt": "Hva betyr det at ord representeres som vektorer i nevrale nettverk?",
+        "choices": ["Ord får en numerisk verdi som representerer deres semantiske betydning", "Ord lagres som tekst", "Ord deles opp i bokstaver", "Ord får en tilfeldig verdi"],
+        "answer": "Ord får en numerisk verdi som representerer deres semantiske betydning",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Max-pooling",
+        "prompt": "Hva gjør max-pooling i et konvolusjonsnettverk?",
+        "choices": ["Velger den største verdien fra hver region for å redusere dataens størrelse", "Velger den minste verdien", "Summerer alle verdier", "Lager en gjennomsnittsverdi"],
+        "answer": "Velger den største verdien fra hver region for å redusere dataens størrelse",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Embeddings",
+        "prompt": "Hva betyr embeddings i konteksten av språkmodeller?",
+        "choices": ["Representasjon av ord som kontinuerlige vektorer i et flerdimensjonalt rom", "Oversetting av ord til tekst", "Lagring av bilder", "Generering av støy"],
+        "answer": "Representasjon av ord som kontinuerlige vektorer i et flerdimensjonalt rom",
+        "difficulty": "5"
+      },
+      {
+        "theme": "Transformers",
+        "prompt": "Hva gjør softmax-funksjonen i transformer-arkitekturer?",
+        "choices": ["Omregner output til sannsynligheter for klassifisering", "Fjerner alle data", "Genererer tilfeldig output", "Endrer alle verdier til null"],
+        "answer": "Omregner output til sannsynligheter for klassifisering",
+        "difficulty": "5"
+      }
+  ]
+
+}

@@ -1,0 +1,19 @@
+{
+  "1: Geografi": [
+    {
+        "prompt": "What is the largest continent by land area?",
+        "choices": ["Africa", "Asia", "Europe", "North America"],
+        "answer": "Asia"
+    },
+    {
+        "prompt": "Which river is the longest in the world?",
+        "choices": ["Nile River", "Amazon River", "Yangtze River", "Mississippi River"],
+        "answer": "Nile River"
+    },
+    {
+        "prompt": "Which country has the most coastline?",
+        "choices": ["Australia", "Canada", "Russia", "United States"],
+        "answer": "Canada"
+    }
+  ]
+}

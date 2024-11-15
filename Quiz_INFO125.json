@@ -1,0 +1,2617 @@
+{
+    "1 Lecture: Crash Course": [
+        {
+            "prompt": "What is a Set?",
+            "choices": ["A list of numbers", "A collection of distinct objects", "A sequence of events", "A type of function"],
+            "answer": "A collection of distinct objects"
+        },
+        {
+            "prompt": "What does the Roster Notation in Set Theory represent?",
+            "choices": ["A mathematical equation", "A list of all elements in a set", "A graphical representation of sets", "A subset of a universal set"],
+            "answer": "A list of all elements in a set"
+        },
+        {
+            "prompt": "What is meant by the Cardinality of a Set?",
+            "choices": ["The type of elements in the set", "The sum of all elements in the set", "The number of distinct elements in the set", "The intersection of two sets"],
+            "answer": "The number of distinct elements in the set"
+        },
+        {
+            "prompt": "What represents an Empty Set?",
+            "choices": ["{0}", "{ }", "{1}", "{null}"],
+            "answer": "{ }"
+        },
+        {
+            "prompt": "Which of these is a Universal Set?",
+            "choices": ["A set containing no elements", "A set containing selected elements", "A set containing all possible elements under consideration", "A set containing infinite elements"],
+            "answer": "A set containing all possible elements under consideration"
+        },
+        {
+            "prompt": "What is a Subset?",
+            "choices": ["A set with more elements than the original set", "A set with elements only from another set", "A set with unique elements not found in another set", "A set that contains all the elements of another set"],
+            "answer": "A set that contains all the elements of another set"
+        },
+        {
+            "prompt": "What is the Union of Sets A and B (A∪B)?",
+            "choices": ["Set containing elements in both A and B", "Set containing elements in A but not in B", "Set containing elements common to A and B", "Set containing all elements of A and B, but no others"],
+            "answer": "Set containing all elements of A and B, but no others"
+        },
+        {
+            "prompt": "What is the Intersection of Sets A and B (A∩B)?",
+            "choices": ["Set containing elements unique to A and B", "Set containing all elements of A and B", "Set containing elements common to both A and B", "Set containing elements of A excluding those in B"],
+            "answer": "Set containing elements common to both A and B"
+        },
+        {
+            "prompt": "What is Set Difference (A \\ B)?",
+            "choices": ["Set containing elements in B not in A", "Set containing elements in A and not in B", "Set containing all elements of A and B", "Set containing common elements of A and B"],
+            "answer": "Set containing elements in A and not in B"
+        },
+        {
+            "prompt": "What is Symmetric Difference (A∆B)?",
+            "choices": ["Set containing elements in A but not in B and vice versa", "Set containing all elements of A and B", "Set containing common elements of A and B", "Set containing unique elements of A and B"],
+            "answer": "Set containing elements in A but not in B and vice versa"
+        },
+        {
+            "prompt": "What is a Complement Set?",
+            "choices": ["Set containing elements not in another set", "Set containing all elements of another set", "Set containing no elements", "Set containing identical elements of another set"],
+            "answer": "Set containing elements not in another set"
+        },
+        {
+            "prompt": "What is a Power Set?",
+            "choices": ["Set containing all elements of a set", "Set containing the square of each element", "Set containing all subsets of a set", "Set containing only the largest element"],
+            "answer": "Set containing all subsets of a set"
+        },
+        {
+            "prompt": "What defines a Sequence?",
+            "choices": ["Collection with unordered elements", "Collection with ordered elements", "Collection with repeated elements", "Collection with unique elements"],
+            "answer": "Collection with ordered elements"
+        },
+        {
+            "prompt": "What is a Cartesian Product?",
+            "choices": ["Product of the number of elements in two sets", "Sum of elements from two sets", "Set of all ordered pairs from two sets", "Intersection of two sets"],
+            "answer": "Set of all ordered pairs from two sets"
+        },
+        {
+            "prompt": "What is Propositional Logic?",
+            "choices": ["Study of numerical relationships", "Study of natural language", "Study of logical relationships between propositions", "Study of historical texts"],
+            "answer": "Study of logical relationships between propositions"
+        },
+        {
+            "prompt": "What is a Truth Value?",
+            "choices": ["Probability of a statement being true", "Value determining the falsity of a proposition", "Value indicating whether a proposition is true or false", "Numerical value assigned to a proposition"],
+            "answer": "Value indicating whether a proposition is true or false"
+        },
+        {
+            "prompt": "What does a Truth Table represent?",
+            "choices": ["Table showing variables and their possible values", "Table showing the outcomes of mathematical operations", "Table showing the truth values of compound propositions", "Table showing different sets and their elements"],
+            "answer": "Table showing the truth values of compound propositions"
+        },
+        {
+            "prompt": "What is Negation in logic (¬P)?",
+            "choices": ["Affirming the truth of a proposition", "Changing the subject of a proposition", "Denying the truth of a proposition", "Doubling the truth value of a proposition"],
+            "answer": "Denying the truth of a proposition"
+        },
+        {
+            "prompt": "What does Conjunction (P ∧ Q) mean?",
+            "choices": ["Either P or Q is true", "Both P and Q are true", "P is true, but Q is not", "P and Q are never true together"],
+            "answer": "Both P and Q are true"
+        },
+        {
+            "prompt": "What is Implication (P → Q)?",
+            "choices": ["If P is true, then Q is also true", "P and Q are always true", "P is true only if Q is false", "P and Q are mutually exclusive"],
+            "answer": "If P is true, then Q is also true"
+        },
+        {
+            "prompt": "What is the main purpose of using Set-builder Notation in Set Theory?",
+            "choices": ["To list all elements of a set explicitly", "To describe the common property of all elements", "To define the cardinality of a set", "To denote the union of two sets"],
+            "answer": "To describe the common property of all elements"
+        },
+        {
+            "prompt": "What is true about elements in a set?",
+            "choices": ["Their order matters", "They can be repeated", "They are denoted with capital letters", "Repetition of elements does not matter"],
+            "answer": "Repetition of elements does not matter"
+        },
+        {
+            "prompt": "What does it mean if two sets are equal?",
+            "choices": ["They have the same cardinality", "They contain exactly the same elements", "One is a subset of the other", "They share some common elements"],
+            "answer": "They contain exactly the same elements"
+        },
+        {
+            "prompt": "What are Multisets?",
+            "choices": ["Sets with unordered elements", "Sets where elements can repeat", "Sets with an infinite number of elements", "Sets containing other sets"],
+            "answer": "Sets where elements can repeat"
+        },
+        {
+            "prompt": "What is a Cartesian Product of sets A and B?",
+            "choices": ["The union of A and B", "The set of all ordered pairs from A and B", "The intersection of A and B", "The difference between A and B"],
+            "answer": "The set of all ordered pairs from A and B"
+        },
+        {
+            "prompt": "What is the primary study of Propositional Logic?",
+            "choices": ["Relationships between sets", "Cardinality of sets", "Logical relationships between propositions", "Order of elements in sequences"],
+            "answer": "Logical relationships between propositions"
+        },
+        {
+            "prompt": "In propositional logic, what does the '¬' symbol represent?",
+            "choices": ["Conjunction", "Disjunction", "Negation", "Implication"],
+            "answer": "Negation"
+        },
+        {
+            "prompt": "What does the logical connective '∧' signify?",
+            "choices": ["And/Conjunction", "Or/Disjunction", "If-then/Implication", "Neither-nor/Negation"],
+            "answer": "And/Conjunction"
+        },
+        {
+            "prompt": "Which of the following represents an Implication in propositional logic?",
+            "choices": ["P ∧ Q", "P ∨ Q", "P → Q", "¬P"],
+            "answer": "P → Q"
+        },
+        {
+            "prompt": "What is the significance of De Morgan's Laws in logic?",
+            "choices": ["They define the properties of set union and intersection", "They relate the negation of conjunctions and disjunctions", "They establish the fundamental properties of cardinality", "They describe the relationship between sets and subsets"],
+            "answer": "They relate the negation of conjunctions and disjunctions"
+        }
+    ],
+    "2 Lecture: Database Concepts Quiz": [
+        {
+            "prompt": "What is the primary definition of data?",
+            "choices": ["A set of numbers used for calculations", "Known facts that can be recorded and have implicit meaning", "Information stored electronically", "A collection of names and addresses"],
+            "answer": "Known facts that can be recorded and have implicit meaning"
+        },
+        {
+            "prompt": "What does a database primarily represent?",
+            "choices": ["A collection of random data", "A list of names and addresses", "A collection of related data", "A series of spreadsheets"],
+            "answer": "A collection of related data"
+        },
+        {
+            "prompt": "What is meant by 'miniworld' in the context of databases?",
+            "choices": ["A small database", "A representation of some aspect of the real world", "An application that uses a database", "The user interface of a database"],
+            "answer": "A representation of some aspect of the real world"
+        },
+        {
+            "prompt": "What is a key property of a database?",
+            "choices": ["It contains only text data", "It must be less than 1 TB in size", "It is a representation of some aspect of the real world", "It is always public"],
+            "answer": "It is a representation of some aspect of the real world"
+        },
+        {
+            "prompt": "In a university database, what relationship exists in the miniworld?",
+            "choices": ["Students take courses and achieve grades", "Students teach courses", "Courses require departments", "Grades define student intelligence"],
+            "answer": "Students take courses and achieve grades"
+        },
+        {
+            "prompt": "What does the term 'Database System' refer to?",
+            "choices": ["Database + Data Model", "Database + DBMS", "Database + User Interface", "Database + Applications"],
+            "answer": "Database + DBMS"
+        },
+        {
+            "prompt": "What is the role of a DBMS?",
+            "choices": ["To store data in spreadsheets", "To facilitate the process of defining, constructing, manipulating, and sharing databases", "To provide internet access to databases", "To create data for businesses"],
+            "answer": "To facilitate the process of defining, constructing, manipulating, and sharing databases"
+        },
+        {
+            "prompt": "What does 'data independence' in a DBMS mean?",
+            "choices": ["Data is stored independently of its users", "Data can be manipulated without knowing how it is stored", "Users can access data without a DBMS", "Data is not dependent on software"],
+            "answer": "Data can be manipulated without knowing how it is stored"
+        },
+        {
+            "prompt": "What is a primary advantage of using a DBMS?",
+            "choices": ["Increased data redundancy", "Redundancy control", "Simpler data structures", "Easier data duplication"],
+            "answer": "Redundancy control"
+        },
+        {
+            "prompt": "How can DBMSs be classified based on the number of users?",
+            "choices": ["Single-user systems and multi-user systems", "Online and offline systems", "Small and large systems", "Public and private systems"],
+            "answer": "Single-user systems and multi-user systems"
+        },
+        {
+            "prompt": "What is a 'centralized' DBMS?",
+            "choices": ["A DBMS that is stored in a single location", "A DBMS with a single user", "A DBMS managed by a central authority", "A DBMS with centralized data processing"],
+            "answer": "A DBMS that is stored in a single location"
+        },
+        {
+            "prompt": "What is a key characteristic of 'hierarchical' DBMS?",
+            "choices": ["Data is organized in a tree-like structure", "Data is stored in a linear sequence", "All data is interconnected", "Data is organized in a circular fashion"],
+            "answer": "Data is organized in a tree-like structure"
+        },
+        {
+            "prompt": "What is an 'entity' in an Entity-Relationship model?",
+            "choices": ["A relationship between data items", "A real-world object or event", "A type of data model", "A type of DBMS"],
+            "answer": "A real-world object or event"
+        },
+        {
+            "prompt": "What does 'data abstraction' mean in the context of databases?",
+            "choices": ["Removing redundant data", "Hiding the complexities of data storage from the user", "Summarizing large data sets", "Abstracting data into graphical formats"],
+            "answer": "Hiding the complexities of data storage from the user"
+        },
+        {
+            "prompt": "What is the purpose of a database schema?",
+            "choices": ["To provide a physical storage path for data", "To describe the database's structure, data types, and constraints", "To store user information", "To hold the actual data in the database"],
+            "answer": "To describe the database's structure, data types, and constraints"
+        },
+        {
+            "prompt": "What does 'DBMS Catalog' contain?",
+            "choices": ["A list of all databases", "A collection of data only", "Information on file structures, types, storage formats, and data constraints", "A directory of users"],
+            "answer": "Information on file structures, types, storage formats, and data constraints"
+        },
+        {
+            "prompt": "What is the role of 'meta-data' in a DBMS?",
+            "choices": ["It stores the actual data in the database", "It holds the database's backup information", "It describes the structure of the database", "It is the interface for users to access the database"],
+            "answer": "It describes the structure of the database"
+        },
+        {
+            "prompt": "What is the 'logical design' phase in database design?",
+            "choices": ["Collecting and analyzing data requirements", "Transforming the high-level conceptual model into an implementation data model", "Specifying internal storage structures and access paths", "Creating a physical representation of the database"],
+            "answer": "Transforming the high-level conceptual model into an implementation data model"
+        },
+        {
+            "prompt": "What is a 'transaction' in the context of databases?",
+            "choices": ["A request to update the database structure", "A process that includes database accesses like reading or updating records", "A financial transaction recorded in a database", "A single user accessing the database"],
+            "answer": "A process that includes database accesses like reading or updating records"
+        },
+        {
+            "prompt": "What is the main function of a 'query' in a database?",
+            "choices": ["To create new data tables", "To update existing data", "To request specific data from the database", "To delete data from the database"],
+            "answer": "To request specific data from the database"
+        },
+        {
+            "prompt": "What does 'redundancy control' in a DBMS ensure?",
+            "choices": ["No user can access the database", "Data is duplicated for backup purposes", "Data is not unnecessarily duplicated", "Redundant hardware is used for storing data"],
+            "answer": "Data is not unnecessarily duplicated"
+        },
+        {
+            "prompt": "What is a 'distributed' DBMS?",
+            "choices": ["A DBMS that supports a single user", "A DBMS that is spread across multiple locations", "A DBMS for distributing data to users", "A DBMS that distributes data across different formats"],
+            "answer": "A DBMS that is spread across multiple locations"
+        },
+        {
+            "prompt": "What is the importance of 'data models' in a DBMS?",
+            "choices": ["They determine the physical location of data", "They help in visualizing and structuring the data", "They are used for creating backups", "They define user access levels"],
+            "answer": "They help in visualizing and structuring the data"
+        },
+        {
+            "prompt": "What is 'data dependence' in the context of file-based systems?",
+            "choices": ["Dependence on a single type of data", "The inability to access data without specific software", "Programs are dependent on the specific format of data files", "Data is dependent on user access"],
+            "answer": "Programs are dependent on the specific format of data files"
+        },
+        {
+            "prompt": "What is a 'relational' data model?",
+            "choices": ["A model based on hierarchical structures", "A model where data is organized in tables", "A model that focuses on relationships only", "A model based on a single table"],
+            "answer": "A model where data is organized in tables"
+        },
+        {
+            "prompt": "What is an example of data independence in a DBMS?",
+            "choices": ["Changing the structure of a database without affecting the application programs", "Accessing data without user authentication", "Storing data independently of the DBMS", "Manipulating data without a database schema"],
+            "answer": "Changing the structure of a database without affecting the application programs"
+        },
+        {
+            "prompt": "What is a significant advantage of using a relational data model?",
+            "choices": ["It requires less storage space", "It organizes data in a hierarchical manner", "It facilitates easy data manipulation and retrieval with SQL", "It is best for representing complex relationships"],
+            "answer": "It facilitates easy data manipulation and retrieval with SQL"
+        },
+        {
+            "prompt": "What does 'Program-data independence' in a DBMS signify?",
+            "choices": ["Programs are not dependent on the physical storage of data", "Data cannot be manipulated by programming", "Programs are independent of the database schema", "Data is stored independently of the programming language used"],
+            "answer": "Programs are not dependent on the physical storage of data"
+        },
+        {
+            "prompt": "In the context of database design, what is 'Conceptual Design'?",
+            "choices": ["Creating a physical representation of the database", "Transforming data requirements into a high-level conceptual model", "Collecting and analyzing data requirements", "Developing user interfaces for the database"],
+            "answer": "Transforming data requirements into a high-level conceptual model"
+        },
+        {
+            "prompt": "What role does a 'Database Schema' play in a DBMS?",
+            "choices": ["It stores the actual data", "It acts as the user interface", "It represents the logical configuration of all or part of a database", "It manages the database's user access controls"],
+            "answer": "It represents the logical configuration of all or part of a database"
+        }
+    ],
+    "3 Lecture: ER Model": [
+        {
+            "prompt": "What is the primary purpose of an Entity in the ER model?",
+            "choices": ["To define relationships between data", "To represent a real-world object or concept", "To store the actual data", "To describe the structure of the database"],
+            "answer": "To represent a real-world object or concept"
+        },
+        {
+            "prompt": "What characterizes a Composite Attribute in the ER model?",
+            "choices": ["It cannot be divided", "It is derived from other attributes", "It consists of multiple attributes", "It holds numeric values only"],
+            "answer": "It consists of multiple attributes"
+        },
+        {
+            "prompt": "In the ER model, what is an Entity Set?",
+            "choices": ["A collection of databases", "A single entity", "A collection of similar types of entities", "The physical storage of entities"],
+            "answer": "A collection of similar types of entities"
+        },
+        {
+            "prompt": "What is a 'Derived Attribute' in the ER model?",
+            "choices": ["An attribute that is underlined", "An attribute computed from other attributes", "The most important attribute", "An attribute that cannot be changed"],
+            "answer": "An attribute computed from other attributes"
+        },
+        {
+            "prompt": "How is a 'Weak Entity' represented in an ER diagram?",
+            "choices": ["With a dashed line", "With a double rectangular box", "With a single rectangular box", "With an underline"],
+            "answer": "With a double rectangular box"
+        },
+        {
+            "prompt": "What does a 'Relationship' in the ER model represent?",
+            "choices": ["Data storage format", "Connection between entities", "Attributes of an entity", "Database schema"],
+            "answer": "Connection between entities"
+        },
+        {
+            "prompt": "In the ER model, what is 'Cardinality'?",
+            "choices": ["Number of attributes in an entity", "The primary key of an entity", "Number of possible relationships", "Maximum number of times an entity can participate in a relationship"],
+            "answer": "Maximum number of times an entity can participate in a relationship"
+        },
+        {
+            "prompt": "What represents a 'Strong Entity' in the ER model?",
+            "choices": ["An entity with a dashed line", "An entity dependent on another entity", "An entity that has its own key attribute", "An entity represented with a double line"],
+            "answer": "An entity that has its own key attribute"
+        },
+        {
+            "prompt": "How is Total Participation of an entity in a relationship depicted in the ER model?",
+            "choices": ["With a dashed line", "With a double line", "With an arrow", "With a single line"],
+            "answer": "With a double line"
+        },
+        {
+            "prompt": "What is a 'Ternary Relationship' in the ER model?",
+            "choices": ["A relationship between three entities", "A relationship with three attributes", "A relationship with a degree of three", "A recursive relationship on three levels"],
+            "answer": "A relationship between three entities"
+        },
+        {
+            "prompt": "What defines a Key Attribute in the ER model?",
+            "choices": ["An attribute that is optional", "An attribute that can have multiple values", "An attribute with unique values for each entity", "An attribute that connects two entities"],
+            "answer": "An attribute with unique values for each entity"
+        },
+        {
+            "prompt": "What is the significance of NULL values in the ER model?",
+            "choices": ["Indicates a compulsory attribute", "Represents a unique attribute", "Signifies unknown or inapplicable information", "Denotes a key attribute"],
+            "answer": "Signifies unknown or inapplicable information"
+        },
+        {
+            "prompt": "What is a Binary Relationship in the ER model?",
+            "choices": ["A relationship between two attributes", "A relationship involving two entities", "A relationship with two key attributes", "A relationship defined by two databases"],
+            "answer": "A relationship involving two entities"
+        },
+        {
+            "prompt": "What does a 'Double Line' in the ER model indicate about participation?",
+            "choices": ["Partial participation", "No participation", "Total participation", "Optional participation"],
+            "answer": "Total participation"
+        },
+        {
+            "prompt": "What is the meaning of 'Existence Dependency' in the ER model?",
+            "choices": ["An entity exists independently", "An entity’s existence depends on another entity", "Two entities can exist without any relationship", "An entity exists only in a particular database"],
+            "answer": "An entity’s existence depends on another entity"
+        },
+        {
+            "prompt": "In the ER model, what is the purpose of 'Min-Max Notation'?",
+            "choices": ["To indicate the minimum and maximum values of attributes", "To show the minimum and maximum number of entities in a relationship", "To define the size of the database", "To limit the number of attributes in an entity"],
+            "answer": "To show the minimum and maximum number of entities in a relationship"
+        },
+        {
+            "prompt": "What does a 'Weak Entity' in the ER model imply?",
+            "choices": ["The entity is not important", "The entity lacks a primary key", "The entity does not have any relationships", "The entity is only temporarily in the database"],
+            "answer": "The entity lacks a primary key"
+        },
+        {
+            "prompt": "What is the characteristic of a 'Multivalued Attribute' in the ER model?",
+            "choices": ["It can have only one value", "It can have multiple values for a single entity", "It cannot be linked to any entity", "It represents a key attribute"],
+            "answer": "It can have multiple values for a single entity"
+        },
+        {
+            "prompt": "What does 'Cardinality Ratio' represent in the ER model?",
+            "choices": ["The number of attributes in an entity", "The ratio of entities in a relationship", "The size of the database", "The data type of the attribute"],
+            "answer": "The ratio of entities in a relationship"
+        },
+        {
+            "prompt": "In ER modeling, what is a 'Ternary Relationship'?",
+            "choices": ["A relationship involving three attributes", "A relationship among three entities", "A relationship with three key attributes", "A relationship depicted with three lines"],
+            "answer": "A relationship among three entities"
+        },
+        {
+            "prompt": "What is an 'Attribute Domain' in the ER model?",
+            "choices": ["A set of possible values for an attribute", "The physical location where the attribute is stored", "A unique identifier for each attribute", "The maximum size of an attribute"],
+            "answer": "A set of possible values for an attribute"
+        },
+        {
+            "prompt": "In the ER model, what is a 'Recursive Relationship'?",
+            "choices": ["A relationship between entities from different entity sets", "A relationship between an entity and itself", "A relationship that cannot be broken down further", "A relationship with a fixed number of entities"],
+            "answer": "A relationship between an entity and itself"
+        },
+        {
+            "prompt": "What is the function of 'Participation Constraints' in the ER model?",
+            "choices": ["To limit the number of entities in a relationship", "To define the types of entities in a relationship", "To specify mandatory and optional participation", "To constrain the physical storage of entities"],
+            "answer": "To specify mandatory and optional participation"
+        },
+        {
+            "prompt": "What does an 'Associative Entity' in the ER model allow for?",
+            "choices": ["Connecting entities without attributes", "Modeling many-to-many relationships", "Storing data about relationships", "Linking weak entities to strong entities"],
+            "answer": "Storing data about relationships"
+        },
+        {
+            "prompt": "How is a 'N-ary Relationship' defined in the ER model?",
+            "choices": ["A relationship involving any number of entities", "A relationship that only involves binary connections", "A relationship with a fixed size of entities", "A relationship that cannot have more than three entities"],
+            "answer": "A relationship involving any number of entities"
+        },
+        {
+            "prompt": "In the ER model, what are 'Superclass' and 'Subclass' entities?",
+            "choices": ["Entities without any attributes", "Entities in a many-to-many relationship", "Entities in an inheritance hierarchy", "Entities that are not related"],
+            "answer": "Entities in an inheritance hierarchy"
+        },
+        {
+            "prompt": "What is the significance of an 'Aggregation' in the ER model?",
+            "choices": ["It aggregates data from multiple databases", "It treats a relationship as a higher-level entity", "It combines attributes into a single attribute", "It refers to the sum of all entities"],
+            "answer": "It treats a relationship as a higher-level entity"
+        },
+        {
+            "prompt": "How does a 'Disjoint Constraint' affect subclasses in the ER model?",
+            "choices": ["It requires them to have overlapping entities", "It prevents them from having common entities", "It combines them into a single subclass", "It relates them to different superclasses"],
+            "answer": "It prevents them from having common entities"
+        },
+        {
+            "prompt": "What is a 'Non-Identifying Relationship' in the ER model?",
+            "choices": ["A relationship that does not define the entity’s identity", "A relationship that is not important", "A relationship without a primary key", "A relationship that cannot be visually represented"],
+            "answer": "A relationship that does not define the entity’s identity"
+        },
+        {
+            "prompt": "What does 'Generalization' in the ER model typically involve?",
+            "choices": ["Combining several entities into a single entity", "Creating a new entity from existing entities", "Defining a general entity type from specialized entities", "Separating an entity into multiple entities"],
+            "answer": "Defining a general entity type from specialized entities"
+        }
+    ],
+    "4 Lecture: EER Model": [
+    {
+        "prompt": "What does EER stand for in database modeling?",
+        "choices": ["Entity-Enrichment-Relationship", "Enhanced-Entity-Relationship", "Entity-Extension-Relationship", "Entity-Encapsulation-Relationship"],
+        "answer": "Enhanced-Entity-Relationship"
+    },
+    {
+        "prompt": "What is a subclass in the context of an EER diagram?",
+        "choices": ["A class that inherits properties from a superclass", "A class with no attributes", "The primary class in a database", "A class unrelated to a superclass"],
+        "answer": "A class that inherits properties from a superclass"
+    },
+    {
+        "prompt": "In EER, what does specialization represent?",
+        "choices": ["Combining multiple entities into one", "Creating a new entity independent of existing entities", "Creating a set of subclasses from an entity", "Removing attributes from an entity to simplify it"],
+        "answer": "Creating a set of subclasses from an entity"
+    },
+    {
+        "prompt": "What is generalization in the context of EER diagrams?",
+        "choices": ["Dividing a single entity into multiple entities", "Combining several entities into a single, more generalized entity", "Removing attributes from an entity", "Adding new attributes to an existing entity"],
+        "answer": "Combining several entities into a single, more generalized entity"
+    },
+    {
+        "prompt": "In an EER diagram, what does an 'ISA' relationship signify?",
+        "choices": ["An entity is the same as another entity", "A superclass-subclass relationship", "An entity is independent of another entity", "A peer-to-peer relationship between entities"],
+        "answer": "A superclass-subclass relationship"
+    },
+    {
+        "prompt": "What are shared subclasses in the EER model?",
+        "choices": ["Subclasses that share the same attributes", "Subclasses that belong to more than one superclass", "Subclasses without any superclass", "Subclasses unique to one entity"],
+        "answer": "Subclasses that belong to more than one superclass"
+    },
+    {
+        "prompt": "How is an attribute inheritance represented in EER diagrams?",
+        "choices": ["Through dashed lines", "With an arrow pointing to the subclass", "By directly listing under subclasses", "Subclasses do not inherit attributes"],
+        "answer": "By directly listing under subclasses"
+    },
+    {
+        "prompt": "What is a union type or category in EER?",
+        "choices": ["A type that unites several subclasses into one superclass", "A unique subclass shared by multiple superclasses", "A collection of entities from different entity types", "A subclass that is a union of multiple attributes"],
+        "answer": "A collection of entities from different entity types"
+    },
+    {
+        "prompt": "In EER, what does disjointness constraint imply for subclasses?",
+        "choices": ["Subclasses can have overlapping entities", "Entities can belong to more than one subclass", "Entities must belong to exactly one of the subclasses", "All subclasses must have disjoint attributes"],
+        "answer": "Entities must belong to exactly one of the subclasses"
+    },
+    {
+        "prompt": "What is the completeness constraint in an EER diagram?",
+        "choices": ["Every entity must be a member of some subclass", "Entities are not required to be a member of any subclass", "Entities must be complete with all attributes", "Entities must fully participate in a relationship"],
+        "answer": "Every entity must be a member of some subclass"
+    },
+    {
+        "prompt": "What does the double line notation in EER represent?",
+        "choices": ["Total participation of an entity in a relationship", "Partial participation of an entity in a relationship", "A weak entity set", "A strong relationship between entities"],
+        "answer": "Total participation of an entity in a relationship"
+    },
+    {
+        "prompt": "What is an aggregation in the context of EER?",
+        "choices": ["Combining several attributes into one", "Treating a relationship as an entity", "Merging two entities into one", "Creating a new subclass from existing entities"],
+        "answer": "Treating a relationship as an entity"
+    },
+    {
+        "prompt": "What is a weak entity set in EER modeling?",
+        "choices": ["An entity that does not have a primary key", "An entity that depends on another entity for its existence", "A set of entities with weak attributes", "An entity set that is rarely used in the database"],
+        "answer": "An entity that depends on another entity for its existence"
+    },
+    {
+        "prompt": "In EER, what does a dashed line usually represent?",
+        "choices": ["Strong relationship", "Weak entity set", "Optional participation in a relationship", "Primary key constraint"],
+        "answer": "Optional participation in a relationship"
+    },
+    {
+        "prompt": "What is the role of attributes in EER diagrams?",
+        "choices": ["To establish relationships between entities", "To define properties or characteristics of entities", "To indicate primary keys only", "To show the number of entities in a set"],
+        "answer": "To define properties or characteristics of entities"
+    },
+    {
+        "prompt": "How are multi-valued attributes represented in an EER diagram?",
+        "choices": ["With a double oval", "With a dashed oval", "With an underlined oval", "With a square"],
+        "answer": "With a double oval"
+    },
+    {
+        "prompt": "In an EER model, what are derived attributes?",
+        "choices": ["Attributes computed from other attributes", "Attributes inherited from a superclass", "Primary key attributes", "Attributes that are optional"],
+        "answer": "Attributes computed from other attributes"
+    },
+    {
+        "prompt": "What does an ellipse represent in an EER diagram?",
+        "choices": ["Entity", "Relationship", "Attribute", "Constraint"],
+        "answer": "Attribute"
+    },
+    {
+        "prompt": "In EER, how is a composite attribute depicted?",
+        "choices": ["With a double ellipse", "With connected ellipses", "With a dashed ellipse", "As a separate rectangle"],
+        "answer": "With connected ellipses"
+    },
+    {
+        "prompt": "What does the term 'specialization hierarchy' mean in EER modeling?",
+        "choices": ["The arrangement of entities in a top-down manner", "A hierarchy where entities are specialized into subclasses", "The categorization of entities based on their attributes", "The structure of entities organized by their keys"],
+        "answer": "A hierarchy where entities are specialized into subclasses"
+    }
+],
+    "5 Lecture: Relational Model": [
+    {
+        "prompt": "What is the primary characteristic of a tuple in a relational model?",
+        "choices": ["It is a set of relations", "It is a collection of databases", "It is a row in a table", "It is a type of database schema"],
+        "answer": "It is a row in a table"
+    },
+    {
+        "prompt": "In the relational model, what does a 'relation' typically represent?",
+        "choices": ["A database", "A table", "A column in a table", "A data type"],
+        "answer": "A table"
+    },
+    {
+        "prompt": "What is a 'domain' in the context of relational databases?",
+        "choices": ["A set of allowable values for a given attribute", "The database software used", "A collection of related tables", "The physical location of the database server"],
+        "answer": "A set of allowable values for a given attribute"
+    },
+    {
+        "prompt": "What does 'atomic value' mean in a relational database?",
+        "choices": ["A value that can be divided into smaller values", "A value that cannot be further subdivided", "The smallest unit of data in a database", "A value that is not important"],
+        "answer": "A value that cannot be further subdivided"
+    },
+    {
+        "prompt": "What does the term 'relation schema' refer to in a relational model?",
+        "choices": ["The layout of the database", "The structure of a table, including its attributes and their types", "The relationships between different tables", "The programming schema used to access the database"],
+        "answer": "The structure of a table, including its attributes and their types"
+    },
+    {
+        "prompt": "How are attributes represented in the relational model?",
+        "choices": ["As rows", "As tables", "As columns", "As databases"],
+        "answer": "As columns"
+    },
+    {
+        "prompt": "In a relational model, what is 'referential integrity'?",
+        "choices": ["Keeping data secure from external threats", "Ensuring all references between tables are valid", "Maintaining the consistency and accuracy of data", "Ensuring that all relations are properly normalized"],
+        "answer": "Ensuring all references between tables are valid"
+    },
+    {
+        "prompt": "What is a 'superkey' in a relational database?",
+        "choices": ["A key that is used to unlock the database", "A primary key with additional attributes", "A set of one or more attributes that, taken collectively, allow us to identify uniquely a tuple in the relation", "An encrypted key for securing the database"],
+        "answer": "A set of one or more attributes that, taken collectively, allow us to identify uniquely a tuple in the relation"
+    },
+    {
+        "prompt": "In relational databases, what is a 'candidate key'?",
+        "choices": ["Any key that could be used as a primary key", "A key that is likely to become a foreign key", "A key used only in certain queries", "A backup for the primary key"],
+        "answer": "Any key that could be used as a primary key"
+    },
+    {
+        "prompt": "What does the 'entity integrity constraint' ensure in a relational model?",
+        "choices": ["All entities are correctly modeled", "No primary key attribute can have a null value", "Entities are related to each other correctly", "Each entity has a unique identifier"],
+        "answer": "No primary key attribute can have a null value"
+    },
+    {
+        "prompt": "In a relational model, what is the significance of a 'primary key'?",
+        "choices": ["It is the most important key in the database", "It is a key used for external connections", "It uniquely identifies each tuple in a relation", "It is a key that can never change"],
+        "answer": "It uniquely identifies each tuple in a relation"
+    },
+    {
+        "prompt": "What is a 'foreign key' in a relational database?",
+        "choices": ["A key from an external database", "A key used for linking two relations", "A backup key for the primary key", "A key that uniquely identifies tuples within its own relation"],
+        "answer": "A key used for linking two relations"
+    },
+    {
+        "prompt": "What does normalization aim to achieve in a relational database?",
+        "choices": ["Optimize performance", "Reduce data redundancy and improve data integrity", "Simplify database design", "Ensure data security"],
+        "answer": "Reduce data redundancy and improve data integrity"
+    },
+    {
+        "prompt": "How are NULL values interpreted in a relational database?",
+        "choices": ["As zero values", "As empty strings", "As unknown or inapplicable values", "As placeholders for future data"],
+        "answer": "As unknown or inapplicable values"
+    },
+    {
+        "prompt": "What is the role of 'attributes' in a relational table?",
+        "choices": ["They define the types of relationships between tables", "They are the primary keys of a table", "They define the properties of entities stored in a table", "They specify the database version"],
+        "answer": "They define the properties of entities stored in a table"
+    },
+    {
+        "prompt": "In the context of relational databases, what is a 'tuple'?",
+        "choices": ["A specific row in a table", "A type of database query", "A database management system", "A column in a table"],
+        "answer": "A specific row in a table"
+    },
+    {
+        "prompt": "What does the term 'relation instance' refer to in a relational model?",
+        "choices": ["A specific state of a relational database", "An individual table within a database", "A single tuple within a relation", "A temporary relation created during a query"],
+        "answer": "A specific state of a relational database"
+    },
+    {
+        "prompt": "In relational databases, what is meant by the 'degree' of a relation?",
+        "choices": ["The number of tuples it contains", "The number of attributes it has", "Its level of importance in the database", "The number of relations it is connected to"],
+        "answer": "The number of attributes it has"
+    },
+    {
+        "prompt": "What is the significance of 'order of tuples' in a relation in a relational model?",
+        "choices": ["It determines how fast data can be accessed", "It is essential for maintaining data integrity", "There is no significance; tuples can appear in any order", "It determines the relation's primary key"],
+        "answer": "There is no significance; tuples can appear in any order"
+    },
+    {
+        "prompt": "In a relational database, what does 'data integrity' ensure?",
+        "choices": ["Data is stored efficiently", "Data is accurate and consistent throughout the database", "Data can be accessed quickly", "Data is encrypted and secure"],
+        "answer": "Data is accurate and consistent throughout the database"
+    }
+],
+    "6 Lecture: SQL": [
+    {
+        "prompt": "What does SQL stand for?",
+        "choices": ["Structured Query Language", "Simple Query Language", "Sequential Query Language", "Standard Query Language"],
+        "answer": "Structured Query Language"
+    },
+    {
+        "prompt": "SQL is primarily used for what purpose?",
+        "choices": ["Programming web applications", "Creating and managing databases", "Designing user interfaces", "Developing operating systems"],
+        "answer": "Creating and managing databases"
+    },
+    {
+        "prompt": "What is a 'Table' in SQL terminology?",
+        "choices": ["A command to organize data", "A collection of related data entries", "A graphical representation of data", "A storage space for files"],
+        "answer": "A collection of related data entries"
+    },
+    {
+        "prompt": "In SQL, what is a 'Row' also known as?",
+        "choices": ["Tuple", "Attribute", "Field", "Record"],
+        "answer": "Tuple"
+    },
+    {
+        "prompt": "What type of SQL command is 'CREATE'?",
+        "choices": ["Data Definition Language", "Data Manipulation Language", "Data Control Language", "Transaction Control Language"],
+        "answer": "Data Definition Language"
+    },
+    {
+        "prompt": "Which SQL statement is used to remove a table and its data?",
+        "choices": ["REMOVE TABLE", "DELETE TABLE", "DROP TABLE", "CLEAR TABLE"],
+        "answer": "DROP TABLE"
+    },
+    {
+        "prompt": "What does 'DDL' stand for in SQL?",
+        "choices": ["Data Definition Language", "Data Design Language", "Database Development Language", "Data Directive Language"],
+        "answer": "Data Definition Language"
+    },
+    {
+        "prompt": "Which command in SQL is used to retrieve data from a database?",
+        "choices": ["GET", "SELECT", "FETCH", "RETRIEVE"],
+        "answer": "SELECT"
+    },
+    {
+        "prompt": "In SQL, what is a 'Column' also known as?",
+        "choices": ["Tuple", "Attribute", "Field", "Record"],
+        "answer": "Attribute"
+    },
+    {
+        "prompt": "What does 'DML' stand for in SQL?",
+        "choices": ["Data Manipulation Language", "Database Management Language", "Data Modeling Language", "Document Markup Language"],
+        "answer": "Data Manipulation Language"
+    },
+    {
+        "prompt": "What is the purpose of the 'WHERE' clause in SQL?",
+        "choices": ["To specify the database to use", "To sort the result set", "To specify the tables to retrieve from", "To filter the result set based on a condition"],
+        "answer": "To filter the result set based on a condition"
+    },
+    {
+        "prompt": "What is the default sorting order of the 'ORDER BY' clause in SQL?",
+        "choices": ["Descending", "Ascending", "Alphabetical", "Numerical"],
+        "answer": "Ascending"
+    },
+    {
+        "prompt": "In SQL, which command is used to update existing data in a table?",
+        "choices": ["MODIFY", "CHANGE", "UPDATE", "ALTER"],
+        "answer": "UPDATE"
+    },
+    {
+        "prompt": "Which SQL keyword is used to sort the result set of a query?",
+        "choices": ["SORT", "ARRANGE", "ORDER BY", "GROUP BY"],
+        "answer": "ORDER BY"
+    },
+    {
+        "prompt": "What does the 'GROUP BY' clause do in SQL?",
+        "choices": ["Sorts the result set", "Combines the result set based on columns", "Filters the result set", "Updates groups of records"],
+        "answer": "Combines the result set based on columns"
+    },
+    {
+        "prompt": "In SQL, what does 'UNIQUE' constraint ensure?",
+        "choices": ["No duplicate values in a column", "Only one row in the table", "Unique data types in each column", "Unique table names in a database"],
+        "answer": "No duplicate values in a column"
+    },
+    {
+        "prompt": "What is a 'Primary Key' in SQL?",
+        "choices": ["A key used to link tables", "A unique identifier for each table", "A unique identifier for each row in a table", "The main key of the database"],
+        "answer": "A unique identifier for each row in a table"
+    },
+    {
+        "prompt": "What is the purpose of the 'JOIN' clause in SQL?",
+        "choices": ["To combine rows from two or more tables", "To join a new database", "To append data to a table", "To create a link between databases"],
+        "answer": "To combine rows from two or more tables"
+    },
+    {
+        "prompt": "Which statement in SQL is used to delete data from a table?",
+        "choices": ["REMOVE", "DELETE", "DROP", "CLEAR"],
+        "answer": "DELETE"
+    },
+    {
+        "prompt": "What does 'CASCADE' do in the context of foreign keys in SQL?",
+        "choices": ["Automatically updates or deletes rows in a linked table", "Prevents deletion of linked rows", "Duplicates rows in another table", "Secures the database integrity"],
+        "answer": "Automatically updates or deletes rows in a linked table"
+    },
+    {
+        "prompt": "In SQL, what is a 'Foreign Key'?",
+        "choices": ["A key that links to a primary key in another table", "A key from an external database", "A unique identifier for each table", "A backup key for the primary key"],
+        "answer": "A key that links to a primary key in another table"
+    },
+    {
+        "prompt": "What does the 'INSERT INTO' statement do in SQL?",
+        "choices": ["Updates existing data in a table", "Inserts new rows into a table", "Deletes rows from a table", "Creates a new table"],
+        "answer": "Inserts new rows into a table"
+    },
+    {
+        "prompt": "In SQL, what is an 'Index' used for?",
+        "choices": ["Sorting data in a table", "Speeding up searches and queries", "Defining the structure of a table", "Creating relationships between tables"],
+        "answer": "Speeding up searches and queries"
+    },
+    {
+        "prompt": "Which constraint ensures that a column cannot have a NULL value in SQL?",
+        "choices": ["UNIQUE", "NOT NULL", "PRIMARY KEY", "FOREIGN KEY"],
+        "answer": "NOT NULL"
+    },
+    {
+        "prompt": "What does the 'ALTER TABLE' command do in SQL?",
+        "choices": ["Changes data in a table", "Alters user permissions", "Modifies the structure of an existing table", "Alters the data type of a column"],
+        "answer": "Modifies the structure of an existing table"
+    },
+    {
+        "prompt": "What is the function of the 'HAVING' clause in SQL?",
+        "choices": ["Specifies the search condition for groups", "Defines the columns to be returned", "Sets conditions for the 'UPDATE' statement", "Filters rows after the 'ORDER BY' clause"],
+        "answer": "Specifies the search condition for groups"
+    },
+    {
+        "prompt": "Which SQL function is used to count the number of rows in a database table?",
+        "choices": ["SUM()", "COUNT()", "AVG()", "TOTAL()"],
+        "answer": "COUNT()"
+    },
+    {
+        "prompt": "In SQL, what is a 'View'?",
+        "choices": ["A virtual table based on the result-set of an SQL statement", "A graphical interface for database management", "A saved query in a database", "A type of user interface in database software"],
+        "answer": "A virtual table based on the result-set of an SQL statement"
+    },
+    {
+        "prompt": "What is the purpose of the 'CHECK' constraint in SQL?",
+        "choices": ["To ensure that all values in a column meet a specific condition", "To check the integrity of the database", "To verify the correctness of SQL syntax", "To confirm user permissions"],
+        "answer": "To ensure that all values in a column meet a specific condition"
+    },
+    {
+        "prompt": "What is the main advantage of using SQL Views?",
+        "choices": ["They provide a backup of the database", "They increase the security by restricting direct access to the underlying tables", "They automatically update the database schema", "They replace the need for actual tables"],
+        "answer": "They increase the security by restricting direct access to the underlying tables"
+    }
+    ],
+    "7 Lecture: From EER to RM": [
+    {
+        "prompt": "What does EER stand for in database modeling?",
+        "choices": ["Entity-Enrichment-Relationship", "Enhanced-Entity-Relationship", "Entity-Extension-Relationship", "Entity-Encapsulation-Relationship"],
+        "answer": "Enhanced-Entity-Relationship"
+    },
+    {
+        "prompt": "What is added to ER in EER?",
+        "choices": ["Subclass-Superclass", "Specialization-Generalization", "Category-Union type", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "prompt": "How many steps are there in the mapping algorithm for ER model constructs to relations?",
+        "choices": ["5", "7", "9", "11"],
+        "answer": "7"
+    },
+    {
+        "prompt": "For EER model constructs, how many additional steps are required in the mapping algorithm?",
+        "choices": ["2", "3", "4", "5"],
+        "answer": "2"
+    },
+    {
+        "prompt": "What is the first step in mapping a Strong Entity from EER to Relational Model?",
+        "choices": ["Choosing a key attribute as a Primary key", "Creating a relation R for each regular Strong Entity type E", "Including simple components of composite attributes", "Mapping binary relationships"],
+        "answer": "Creating a relation R for each regular Strong Entity type E"
+    },
+    {
+        "prompt": "What does a Weak Entity type require in its relation in the Relational Model?",
+        "choices": ["Primary key attributes of the relation as foreign keys", "Composite attributes", "A unique identifier", "A reference to a Strong Entity"],
+        "answer": "Primary key attributes of the relation as foreign keys"
+    },
+    {
+        "prompt": "What determines the primary key of a Weak Entity's relation in the Relational Model?",
+        "choices": ["The primary key of the owner and the partial key of the weak entity", "The attributes of the weak entity", "The foreign keys of the relation", "The total number of attributes"],
+        "answer": "The primary key of the owner and the partial key of the weak entity"
+    },
+    {
+        "prompt": "In the context of EER to RM mapping, what does 'total participation' refer to?",
+        "choices": ["All entities are mandatory in the relationship", "Every entity must be a member of some subclass", "All entities participate in at least one relationship", "All attributes of the entity are required"],
+        "answer": "All entities are mandatory in the relationship"
+    },
+    {
+        "prompt": "What is the primary purpose of the mapping algorithm for ER and EER?",
+        "choices": ["To ensure data redundancy", "To optimize database performance", "To transform conceptual schema into relational schema", "To simplify database design"],
+        "answer": "To transform conceptual schema into relational schema"
+    },
+    {
+        "prompt": "In mapping ER and EER models, what are entity types transformed into?",
+        "choices": ["Attributes", "Tables", "Foreign keys", "Primary keys"],
+        "answer": "Tables"
+    },
+    {
+        "prompt": "What approach is most useful for mapping Binary 1:1 Relationship in EER to RM?",
+        "choices": ["Foreign key approach", "Merged relation approach", "Relationship relation approach", "Composite key approach"],
+        "answer": "Foreign key approach"
+    },
+    {
+        "prompt": "In the context of 1:1 relationship mapping, what is the foreign key approach?",
+        "choices": ["Creating a third relation for cross-referencing", "Merging both entities and relationships into one relation", "Choosing one relation and including the primary key of the other as a foreign key", "Creating a composite key from both entities"],
+        "answer": "Choosing one relation and including the primary key of the other as a foreign key"
+    },
+    {
+        "prompt": "What does the Relationship relation approach involve for Binary 1:1 relationships?",
+        "choices": ["Setting up a third relation for cross-referencing primary keys", "Merging the two entities into one", "Creating a composite primary key", "Including a foreign key in one of the entities"],
+        "answer": "Setting up a third relation for cross-referencing primary keys"
+    },
+    {
+        "prompt": "For Binary 1:N relationships, what is a common mapping approach?",
+        "choices": ["Foreign key approach", "Merged relation approach", "Relationship relation approach", "Composite key approach"],
+        "answer": "Foreign key approach"
+    },
+    {
+        "prompt": "What are the two possible approaches for mapping Binary M:N Relationships in EER to RM?",
+        "choices": ["Foreign key and merged relation approach", "Composite key and relationship relation approach", "Foreign key and relationship relation approach", "Merged relation and composite key approach"],
+        "answer": "Foreign key and relationship relation approach"
+    },
+    {
+        "prompt": "What is created for each multivalued attribute in EER to RM mapping?",
+        "choices": ["A new relation", "A composite attribute", "A foreign key reference", "A primary key"],
+        "answer": "A new relation"
+    },
+    {
+        "prompt": "How are n-ary relationship types (n>2) handled in EER to RM mapping?",
+        "choices": ["By creating a new relation", "By merging them with an existing relation", "By creating a composite primary key", "By ignoring them"],
+        "answer": "By creating a new relation"
+    },
+    {
+        "prompt": "In mapping n-ary relationships, what forms the primary key of the new relation?",
+        "choices": ["Combination of all foreign keys referencing the related entities", "Composite attributes of the relationship", "A new surrogate key", "Primary key of one of the participating entities"],
+        "answer": "Combination of all foreign keys referencing the related entities"
+    },
+    {
+        "prompt": "What does the mapping of specialization in EER to RM involve?",
+        "choices": ["Creating separate relations for each subclass", "Merging subclasses into one relation", "Creating a new relation for the superclass", "Defining new foreign keys for each subclass"],
+        "answer": "Creating separate relations for each subclass"
+    },
+    {
+        "prompt": "How are generalizations handled in the mapping process from EER to RM?",
+        "choices": ["By creating separate relations for each subclass", "By merging all subclasses into a single relation", "By creating a new relation for the superclass only", "By using boolean type attributes indicating subclass membership"],
+        "answer": "By merging all subclasses into a single relation"
+    },{
+        "prompt": "When mapping a subclass in EER to RM, what does Option 8A involve?",
+        "choices": ["Creating separate relations for each subclass", "Merging subclass with the superclass", "Using a surrogate key for entities", "Creating a relation for the superclass with foreign keys for each subclass"],
+        "answer": "Creating separate relations for each subclass"
+    },
+    {
+        "prompt": "What is the approach in Option 8B for mapping disjoint subclasses in EER to RM?",
+        "choices": ["Creating separate relations for each subclass", "Merging subclass with the superclass", "Using a surrogate key for entities", "Creating a relation for the superclass with foreign keys for each subclass"],
+        "answer": "Creating separate relations for each subclass"
+    },
+    {
+        "prompt": "In Option 8C, how are disjoint subclasses with total participation mapped?",
+        "choices": ["By creating separate relations for each subclass", "By merging subclass with the superclass", "Using a surrogate key for entities", "Creating a relation for the superclass with foreign keys for each subclass"],
+        "answer": "By merging subclass with the superclass"
+    },
+    {
+        "prompt": "What does Option 8D involve when mapping disjoint subclasses in EER to RM?",
+        "choices": ["Creating separate relations for each subclass", "Merging subclass with the superclass", "Using a surrogate key for entities", "Creating a relation for the superclass with foreign keys for each subclass"],
+        "answer": "Using a surrogate key for entities"
+    },
+    {
+        "prompt": "How is a Union Type (category) handled in the mapping process from EER to RM?",
+        "choices": ["By creating a new relation for the union type", "By merging it with one of the superclasses", "By defining a surrogate key", "By using boolean type attributes indicating subclass membership"],
+        "answer": "By creating a new relation for the union type"
+    },
+    {
+        "prompt": "What is the primary key of a Union Type in EER to RM mapping?",
+        "choices": ["The primary keys of all superclasses", "A new surrogate key", "The primary key of the dominant superclass", "Combination of primary keys and foreign keys"],
+        "answer": "A new surrogate key"
+    },
+    {
+        "prompt": "In the context of Union Types, how are the superclasses handled?",
+        "choices": ["Extended with foreign keys referencing the surrogate key", "Merged into a single relation", "Maintained as separate entities", "Ignored in the mapping process"],
+        "answer": "Extended with foreign keys referencing the surrogate key"
+    }
+],
+    "8 Lecture: Relational Algebra": [
+    {
+        "Prompt": "What was developed before the SQL language?",
+        "Choices": ["Relational Model", "Relational Algebra and Calculus", "Entity-Relationship Model", "Database Management Systems"],
+        "Answer": "Relational Algebra and Calculus"
+    },
+    {
+        "Prompt": "What is a Relational Algebra Expression?",
+        "Choices": ["A query language", "A sequence of relational algebra operations", "A type of relational database", "A data modeling technique"],
+        "Answer": "A sequence of relational algebra operations"
+    },
+    {
+        "Prompt": "What does the Selection operation in Relational Algebra do?",
+        "Choices": ["Combines two relations", "Chooses a subset of tuples", "Renames attributes", "Performs arithmetic operations"],
+        "Answer": "Chooses a subset of tuples"
+    },
+    {
+        "Prompt": "What does the Projection operation in Relational Algebra return?",
+        "Choices": ["A set of all attributes", "A subset of the attributes", "All rows that meet a condition", "A renamed relation"],
+        "Answer": "A subset of the attributes"
+    },
+    {
+        "Prompt": "Which operation combines tuples from two relations?",
+        "Choices": ["Selection", "Join", "Projection", "Union"],
+        "Answer": "Join"
+    },
+    {
+        "Prompt": "What is the result of a Cartesian Product operation?",
+        "Choices": ["A set of tuples from one relation", "Unique tuples from two relations", "All possible combinations of tuples", "Tuples that satisfy a specific condition"],
+        "Answer": "All possible combinations of tuples"
+    },
+    {
+        "Prompt": "What does the Union operation in Relational Algebra do?",
+        "Choices": ["Combines related tuples", "Finds common tuples", "Combines all unique tuples", "Renames relations"],
+        "Answer": "Combines all unique tuples"
+    },
+    {
+        "Prompt": "What type of operation is Intersection in Relational Algebra?",
+        "Choices": ["Unary", "Binary", "Ternary", "Quaternary"],
+        "Answer": "Binary"
+    },
+    {
+        "Prompt": "What is the purpose of the Rename operation in Relational Algebra?",
+        "Choices": ["To select tuples", "To combine relations", "To rename relation or attribute names", "To project attributes"],
+        "Answer": "To rename relation or attribute names"
+    },
+    {
+        "Prompt": "What does a Set Difference operation yield?",
+        "Choices": ["All tuples in one relation", "Tuples common to two relations", "Tuples in one relation but not the other", "All possible tuples from two relations"],
+        "Answer": "Tuples in one relation but not the other"
+    },
+    {
+        "Prompt": "Is the Selection operation in Relational Algebra commutative?",
+        "Choices": ["Yes", "No", "Depends on the conditions", "Not applicable"],
+        "Answer": "Yes"
+    },
+    {
+        "Prompt": "What does a Natural Join do?",
+        "Choices": ["Joins on all attributes", "Joins on common attributes", "Joins based on a specified condition", "Renames joined relations"],
+        "Answer": "Joins on common attributes"
+    },
+    {
+        "Prompt": "What does the Generalised Projection operation allow?",
+        "Choices": ["Only attribute selection", "Renaming attributes", "Functions of attributes in the projection list", "Joining relations"],
+        "Answer": "Functions of attributes in the projection list"
+    },
+    {
+        "Prompt": "Which operation is used to retrieve rows from a relation?",
+        "Choices": ["Selection", "Projection", "Join", "Union"],
+        "Answer": "Selection"
+    },
+    {
+        "Prompt": "What type of operation is a Join?",
+        "Choices": ["Unary", "Binary", "Ternary", "Aggregate"],
+        "Answer": "Binary"
+    },
+    {
+        "Prompt": "What is the result of intersecting two relations?",
+        "Choices": ["All tuples in both relations", "Tuples unique to one relation", "Tuples common to both relations", "A combination of all tuples"],
+        "Answer": "Tuples common to both relations"
+    },
+    {
+        "Prompt": "What operation is used to combine tuples based on a condition?",
+        "Choices": ["Selection", "Projection", "Join", "Union"],
+        "Answer": "Join"
+    },
+    {
+        "Prompt": "What does the Aggregate function in Relational Algebra do?",
+        "Choices": ["Renames attributes", "Performs basic statistical queries", "Joins relations", "Selects tuples"],
+        "Answer": "Performs basic statistical queries"
+    },
+    {
+        "Prompt": "In Relational Algebra, what is the result of a Union operation?",
+        "Choices": ["A set of tuples that satisfy a condition", "All tuples from one relation", "A combination of tuples from two relations", "A new relation with renamed attributes"],
+        "Answer": "A combination of tuples from two relations"
+    },
+    {
+        "Prompt": "Which operation retrieves columns from a relation?",
+        "Choices": ["Selection", "Projection", "Join", "Union"],
+        "Answer": "Projection"
+    },
+    {
+        "Prompt": "What is an EquiJoin in Relational Algebra?",
+        "Choices": ["A join based on equality comparisons", "A join that produces an equal number of tuples", "A natural join", "A join with no conditions"],
+        "Answer": "A join based on equality comparisons"
+    },
+    {
+        "Prompt": "What is a primary purpose of the Divide operation in Relational Algebra?",
+        "Choices": ["To find tuples common in two relations", "To combine tuples from two relations", "To separate a relation into two", "To perform arithmetic division on attributes"],
+        "Answer": "To find tuples common in two relations"
+    },
+    {
+        "Prompt": "What operation is used to filter tuples based on a condition?",
+        "Choices": ["Selection", "Projection", "Join", "Union"],
+        "Answer": "Selection"
+    },
+    {
+        "Prompt": "What results from the Cross Product of two relations?",
+        "Choices": ["A single combined relation", "A set of tuples from both relations", "All possible pairs of tuples", "Tuples that satisfy a join condition"],
+        "Answer": "All possible pairs of tuples"
+    },
+    {
+        "Prompt": "What is the result of the Set Difference operation R - S?",
+        "Choices": ["Tuples in R or S", "Tuples in both R and S", "Tuples in R but not in S", "Tuples in S but not in R"],
+        "Answer": "Tuples in R but not in S"
+    },
+    {
+        "Prompt": "What does the Rename operation ρ do in Relational Algebra?",
+        "Choices": ["Selects specific tuples", "Combines relations", "Renames a relation or attributes", "Projects specific attributes"],
+        "Answer": "Renames a relation or attributes"
+    },
+    {
+        "Prompt": "Which operation allows the combination of related tuples into a single tuple?",
+        "Choices": ["Projection", "Selection", "Join", "Union"],
+        "Answer": "Join"
+    },
+    {
+        "Prompt": "What operation in Relational Algebra is used to choose a subset of the tuples from a relation?",
+        "Choices": ["Selection", "Projection", "Join", "Union"],
+        "Answer": "Selection"
+    },
+    {
+        "Prompt": "What does the Intersection operation yield?",
+        "Choices": ["A set of all tuples in one relation", "A set of tuples common to two relations", "A new relation with combined tuples", "A relation with renamed attributes"],
+        "Answer": "A set of tuples common to two relations"
+    },
+    {
+        "Prompt": "What is the significance of the Cartesian Product in Relational Algebra?",
+        "Choices": ["To filter tuples", "To rename relations", "To create all possible tuple combinations", "To perform arithmetic operations"],
+        "Answer": "To create all possible tuple combinations"
+    }
+],
+    "9 Lecture: SQL part 2": [
+    {
+        "prompt": "What is the primary use of JOIN clause in SQL?",
+        "choices": ["To create new tables", "To delete rows from a table", "To combine rows from two or more tables", "To update records in a table"],
+        "answer": "To combine rows from two or more tables"
+    },
+    {
+        "prompt": "Which SQL join returns all rows from tables where the key record of one table is equal to the key records of another table?",
+        "choices": ["INNER JOIN", "LEFT JOIN", "RIGHT JOIN", "FULL JOIN"],
+        "answer": "INNER JOIN"
+    },
+    {
+        "prompt": "What is an EQUIJOIN in SQL?",
+        "choices": ["Join using the LIKE operator", "Join using non-equality comparison operators", "Join using equality comparison operators", "Join without any specific condition"],
+        "answer": "Join using equality comparison operators"
+    },
+    {
+        "prompt": "What does a LEFT JOIN return in SQL?",
+        "choices": ["All records from the left table only", "All records from the right table only", "All records from both tables", "All records from the left table and matched records from the right table"],
+        "answer": "All records from the left table and matched records from the right table"
+    },
+    {
+        "prompt": "How is NULL treated in SQL?",
+        "choices": ["As a zero value", "As an empty string", "As a unique value", "As an unknown or unavailable value"],
+        "answer": "As an unknown or unavailable value"
+    },
+    {
+        "prompt": "What is the result of NULL = NULL in SQL?",
+        "choices": ["True", "False", "Unknown", "Syntax Error"],
+        "answer": "Unknown"
+    },
+    {
+        "prompt": "What type of logic does SQL use for NULL values?",
+        "choices": ["Two-valued logic", "Three-valued logic", "Four-valued logic", "Binary logic"],
+        "answer": "Three-valued logic"
+    },
+    {
+        "prompt": "In SQL, which join returns all rows from one table and only those rows from the secondary table where the joined condition is satisfied?",
+        "choices": ["INNER JOIN", "OUTER JOIN", "CROSS JOIN", "SELF JOIN"],
+        "answer": "OUTER JOIN"
+    },
+    {
+        "prompt": "What does a RIGHT JOIN return in SQL?",
+        "choices": ["All records from the left table and matched records from the right table", "All records from the right table and matched records from the left table", "All records from the left table only", "All records from the right table only"],
+        "answer": "All records from the right table and matched records from the left table"
+    },
+    {
+        "prompt": "In SQL, what does a FULL JOIN do?",
+        "choices": ["Returns records when there is a match in one of the tables", "Returns all records when there is a match in both tables", "Combines and returns all records from both tables", "Returns records from the left table"],
+        "answer": "Combines and returns all records from both tables"
+    },
+    {
+        "prompt": "What is a Nested Query in SQL?",
+        "choices": ["A query that is embedded within a function", "A query that is embedded within another query", "A query used to create nested tables", "A query that returns nested data structures"],
+        "answer": "A query that is embedded within another query"
+    },
+    {
+        "prompt": "What do Aggregate functions in SQL do?",
+        "choices": ["Combine multiple rows into a single row", "Split a single row into multiple rows", "Delete multiple rows in a single command", "Update multiple rows in a single command"],
+        "answer": "Combine multiple rows into a single row"
+    },
+    {
+        "prompt": "What is the purpose of GROUP BY in SQL?",
+        "choices": ["To sort the result set", "To group the result set by one or more columns", "To filter rows from the result set", "To combine rows from different tables"],
+        "answer": "To group the result set by one or more columns"
+    },
+    {
+        "prompt": "Which SQL statement is used to create a virtual table?",
+        "choices": ["CREATE VIEW", "CREATE VIRTUAL TABLE", "CREATE TABLE", "CREATE INDEX"],
+        "answer": "CREATE VIEW"
+    },
+    {
+        "prompt": "What is the main difference between a base table and a view in SQL?",
+        "choices": ["A base table is temporary, while a view is permanent", "A base table is physical, while a view is virtual", "A base table cannot be queried, while a view can", "A base table can hold data, while a view cannot"],
+        "answer": "A base table is physical, while a view is virtual"
+    },
+    {
+        "prompt": "What is the significance of a view in SQL?",
+        "choices": ["To store physical data", "To speed up queries", "To represent a subset of the data", "To create new data structures"],
+        "answer": "To represent a subset of the data"
+    },
+    {
+        "prompt": "What is a common use of a view in SQL?",
+        "choices": ["Data insertion", "Data backup", "Data security", "Data analysis"],
+        "answer": "Data security"
+    },
+    {
+        "prompt": "How is a view created in SQL?",
+        "choices": ["Using the CREATE VIEW statement", "Using the CREATE TABLE statement", "Automatically by the database system", "Using the INSERT INTO statement"],
+        "answer": "Using the CREATE VIEW statement"
+    },
+    {
+        "prompt": "In SQL, which clause is used to filter records that have NULL in a specific column?",
+        "choices": ["WHERE IS NULL", "WHERE IS NOT NULL", "WHERE = NULL", "WHERE <> NULL"],
+        "answer": "WHERE IS NULL"
+    },
+    {
+        "prompt": "What is the correct syntax to check for NOT NULL in SQL?",
+        "choices": ["WHERE column_name IS NOT NULL", "WHERE column_name IS NULL", "WHERE column_name != NULL", "WHERE column_name = NOT NULL"],
+        "answer": "WHERE column_name IS NOT NULL"
+    }
+],
+    "10 Lecture: Normalization":[
+    {
+        "prompt": "What is the primary goal of normalization in database design?",
+        "choices": ["Optimizing query speed", "Reducing redundancy and anomalies", "Increasing data security", "Simplifying user interface"],
+        "answer": "Reducing redundancy and anomalies"
+    },
+    {
+        "prompt": "What does the First Normal Form (1NF) require?",
+        "choices": ["Removal of all composite attributes", "No multi-valued attributes", "Primary keys for all tables", "Foreign key references"],
+        "answer": "No multi-valued attributes"
+    },
+    {
+        "prompt": "Which normal form requires the removal of partial dependencies on a composite key?",
+        "choices": ["First Normal Form (1NF)", "Second Normal Form (2NF)", "Third Normal Form (3NF)", "Boyce-Codd Normal Form (BCNF)"],
+        "answer": "Second Normal Form (2NF)"
+    },
+    {
+        "prompt": "What is a transitive dependency in the context of database normalization?",
+        "choices": ["A functional dependency between two or more non-key attributes", "A direct relationship between two key attributes", "A dependency between a key attribute and a non-key attribute", "An indirect relationship between two non-key attributes through another non-key attribute"],
+        "answer": "An indirect relationship between two non-key attributes through another non-key attribute"
+    },
+    {
+        "prompt": "Which normal form is primarily concerned with eliminating transitive dependencies?",
+        "choices": ["First Normal Form (1NF)", "Second Normal Form (2NF)", "Third Normal Form (3NF)", "Boyce-Codd Normal Form (BCNF)"],
+        "answer": "Third Normal Form (3NF)"
+    },
+    {
+        "prompt": "What distinguishes the Boyce-Codd Normal Form (BCNF) from the Third Normal Form?",
+        "choices": ["BCNF is less strict than 3NF", "BCNF requires no multivalued dependencies", "BCNF is stricter than 3NF in terms of functional dependencies", "BCNF and 3NF are essentially the same"],
+        "answer": "BCNF is stricter than 3NF in terms of functional dependencies"
+    },
+    {
+        "prompt": "What type of anomaly does normalization primarily aim to reduce?",
+        "choices": ["Security anomalies", "Performance anomalies", "Update anomalies", "Compression anomalies"],
+        "answer": "Update anomalies"
+    },
+    {
+        "prompt": "Why is it important to avoid null values in relational database design?",
+        "choices": ["To prevent security vulnerabilities", "To ensure data integrity", "To optimize query performance", "To reduce storage requirements"],
+        "answer": "To ensure data integrity"
+    },
+    {
+        "prompt": "In database normalization, what is a 'functional dependency'?",
+        "choices": ["A relationship where a function depends on multiple tables", "A relationship where one attribute uniquely determines another", "A requirement for functions to be dependent on procedures", "A dependency that occurs in functions but not in stored procedures"],
+        "answer": "A relationship where one attribute uniquely determines another"
+    },
+    {
+        "prompt": "What is the primary reason for decomposing a table in the normalization process?",
+        "choices": ["To reduce the size of the database", "To increase query complexity", "To eliminate redundancy and dependencies", "To comply with user requirements"],
+        "answer": "To eliminate redundancy and dependencies"
+    },
+    {
+        "prompt": "In the context of normalization, what is a 'candidate key'?",
+        "choices": ["A key that is likely to be used in the future", "A key that is under consideration for primary key status", "A key that uniquely identifies each record without redundancy", "A foreign key that is also a primary key in another table"],
+        "answer": "A key that uniquely identifies each record without redundancy"
+    },
+    {
+        "prompt": "What is a partial dependency in database design?",
+        "choices": ["A dependency on only part of a composite primary key", "A dependency that is not fully enforced", "A dependency that occurs occasionally", "A temporary dependency used during transactions"],
+        "answer": "A dependency on only part of a composite primary key"
+    },
+    {
+        "prompt": "How does the Third Normal Form (3NF) improve upon the Second Normal Form (2NF)?",
+        "choices": ["By removing transitive dependencies", "By introducing composite keys", "By allowing partial dependencies", "By reducing the number of tables"],
+        "answer": "By removing transitive dependencies"
+    },
+    {
+        "prompt": "What is an example of an update anomaly in an unnormalized database?",
+        "choices": ["Inability to insert data without a primary key", "Inconsistent data after an update", "Loss of data during deletion", "Slower performance due to indexing"],
+        "answer": "Inconsistent data after an update"
+    },
+    {
+        "prompt": "What is the significance of atomicity in the First Normal Form (1NF)?",
+        "choices": ["Each table must be able to be split into smaller tables", "Each attribute must be indivisible", "Each transaction must be treated as a single unit", "Each record must have a unique identifier"],
+        "answer": "Each attribute must be indivisible"
+    },
+    {
+        "prompt": "In normalization, what is the role of decomposing a table?",
+        "choices": ["To create a backup of the table", "To split the table into smaller, more manageable tables with reduced redundancy", "To simplify the table structure for user understanding", "To enhance the security of the data within the table"],
+        "answer": "To split the table into smaller, more manageable tables with reduced redundancy"
+    },
+    {
+        "prompt": "What is the result of successful normalization?",
+        "choices": ["A single, large table with all data", "Multiple, related tables with minimized redundancy", "Increased data duplication for backup purposes", "Simplified tables with combined data types"],
+        "answer": "Multiple, related tables with minimized redundancy"
+    },
+    {
+        "prompt": "Why is it important to eliminate redundancy in database tables?",
+        "choices": ["To improve the aesthetics of the database", "To prevent data integrity issues and update anomalies", "To comply with regulatory standards", "To increase the storage capacity of the database"],
+        "answer": "To prevent data integrity issues and update anomalies"
+    },
+    {
+        "prompt": "In which normal form is a relation if it has no partial or transitive dependencies?",
+        "choices": ["First Normal Form (1NF)", "Second Normal Form (2NF)", "Third Normal Form (3NF)", "Boyce-Codd Normal Form (BCNF)"],
+        "answer": "Third Normal Form (3NF)"
+    },
+    {
+        "prompt": "What is an insertion anomaly in database design?",
+        "choices": ["Inability to insert data due to foreign key constraints", "Errors during data insertion due to table locks", "Inability to add records without adding redundant data", "Duplicate records being inserted into a table"],
+        "answer": "Inability to add records without adding redundant data"
+    }
+],
+    "11 Lecture: Physical data organization": [
+    {
+        "prompt": "What is the main storage medium for databases?",
+        "choices": ["Solid State Drives", "Hard Disk Drives", "Optical Drives", "Flash Drives"],
+        "answer": "Hard Disk Drives"
+    },
+    {
+        "prompt": "What is a block in the context of database storage?",
+        "choices": ["A collection of tables", "The unit of data transfer between disk and memory", "A single record in a database", "A type of data compression technique"],
+        "answer": "The unit of data transfer between disk and memory"
+    },
+    {
+        "prompt": "Which of the following is an efficient data access technique on HDDs?",
+        "choices": ["Proper organization of data on disk", "Random data placement", "Using a single buffer", "Storing data in non-contiguous blocks"],
+        "answer": "Proper organization of data on disk"
+    },
+    {
+        "prompt": "What is the purpose of buffering in database systems?",
+        "choices": ["To enhance data security", "To deal with the speed difference between CPU and storage devices", "To increase data redundancy", "To perform data backup operations"],
+        "answer": "To deal with the speed difference between CPU and storage devices"
+    },
+    {
+        "prompt": "What is a buffer in the context of databases?",
+        "choices": ["A part of the CPU", "A storage device", "A part of main memory used for data transfer", "A type of database software"],
+        "answer": "A part of main memory used for data transfer"
+    },
+    {
+        "prompt": "What does the Buffer Manager in a DBMS do?",
+        "choices": ["Manages user access to the database", "Handles security protocols", "Responds to requests for data and manages buffer usage", "Oversees database backups"],
+        "answer": "Responds to requests for data and manages buffer usage"
+    },
+    {
+        "prompt": "What is double buffering?",
+        "choices": ["Storing two copies of data for backup", "Using two buffers to increase I/O operation efficiency", "A technique for data encryption", "A method of data compression"],
+        "answer": "Using two buffers to increase I/O operation efficiency"
+    },
+    {
+        "prompt": "What is the primary characteristic of a heap file organization?",
+        "choices": ["Data is stored based on a hashing algorithm", "Data is stored in a sorted order", "Records are placed in the order they are inserted", "Data is stored in a hierarchical structure"],
+        "answer": "Records are placed in the order they are inserted"
+    },
+    {
+        "prompt": "What is an advantage of sorted file organization?",
+        "choices": ["Low cost for data insertion", "Efficient reading of records", "No need for indexing", "High data redundancy"],
+        "answer": "Efficient reading of records"
+    },
+    {
+        "prompt": "What is the main disadvantage of heap file organization?",
+        "choices": ["High cost of data insertion", "Inefficient reading of records", "High storage requirement", "Complex data retrieval algorithms"],
+        "answer": "Inefficient reading of records"
+    },
+    {
+        "prompt": "What is internal hashing in database storage?",
+        "choices": ["A method to secure internal data", "An algorithm for memory management", "A technique for organizing files into array slots", "A protocol for data transmission"],
+        "answer": "A technique for organizing files into array slots"
+    },
+    {
+        "prompt": "What is a hash function in the context of database storage?",
+        "choices": ["A function for data encryption", "A function that maps keys to addresses in a hash table", "A data compression function", "A function for user authentication"],
+        "answer": "A function that maps keys to addresses in a hash table"
+    },
+    {
+        "prompt": "What is collision in hashing, and how is it resolved?",
+        "choices": ["Data corruption during hashing, resolved by data recovery techniques", "Two keys mapping to the same address, resolved by collision resolution methods", "A system crash due to hashing, resolved by rebooting", "Data loss during hashing, resolved by backups"],
+        "answer": "Two keys mapping to the same address, resolved by collision resolution methods"
+    },
+    {
+        "prompt": "What is external hashing?",
+        "choices": ["A hashing method used for external drives", "A hashing method for mapping keys to disk storage", "A security measure for external network threats", "A method for hashing user credentials"],
+        "answer": "A hashing method for mapping keys to disk storage"
+    },
+    {
+        "prompt": "What is a bucket in the context of external hashing?",
+        "choices": ["A memory segment for temporary data storage", "A unit in a hash table that holds multiple records", "A part of the CPU that processes hashed data", "A database tool for data recovery"],
+        "answer": "A unit in a hash table that holds multiple records"
+    },
+    {
+        "prompt": "What is extendible hashing?",
+        "choices": ["A hashing technique that allows for hash table expansion", "A method to extend the size of database files", "An encryption technique for hashed data", "A data retrieval method for large databases"],
+        "answer": "A hashing technique that allows for hash table expansion"
+    },
+    {
+        "prompt": "In database storage, what is meant by 'global depth' in extendible hashing?",
+        "choices": ["The total number of records in the database", "The overall security depth of the hashing algorithm", "The number of bits used to index into the hash table directory", "The maximum size of a hash table"],
+        "answer": "The number of bits used to index into the hash table directory"
+    },
+    {
+        "prompt": "What does 'local depth' refer to in extendible hashing?",
+        "choices": ["The individual security level of each record", "The number of bits used for addressing within a single bucket", "The local storage requirement for each hash table", "The depth of data analysis in a local system"],
+        "answer": "The number of bits used for addressing within a single bucket"
+    },
+    {
+        "prompt": "What is the primary benefit of using extendible hashing for databases?",
+        "choices": ["Enhanced security for database transactions", "Reduced space requirements for data storage", "Dynamic accommodation of growing data with minimal reorganization", "Simplified data retrieval algorithms"],
+        "answer": "Dynamic accommodation of growing data with minimal reorganization"
+    },
+    {
+        "prompt": "What is a collision resolution method in hashing?",
+        "choices": ["A technique for resolving system crashes due to hashing", "A method for handling data loss during hashing", "A strategy for addressing hash key collisions", "A protocol for securing hashed data"],
+        "answer": "A strategy for addressing hash key collisions"
+    }
+],
+    "12 Lecture: Working with DB using general programming language": [
+    {
+        "prompt": "What is a primary reason for using a general programming language to interact with databases?",
+        "choices": ["To improve the database's graphical interface", "For easier data entry", "To implement complex logic and control flows", "To increase the database's storage capacity"],
+        "answer": "To implement complex logic and control flows"
+    },
+    {
+        "prompt": "Which module in Python is commonly used for connecting to a MySQL database?",
+        "choices": ["pyMySQL", "mysql-connector", "SQLAlchemy", "sqlite3"],
+        "answer": "mysql-connector"
+    },
+    {
+        "prompt": "What is the purpose of a cursor in database programming?",
+        "choices": ["To navigate through the database", "To manage the current connection to the database", "To execute and manage the results of SQL queries", "To store the database schema"],
+        "answer": "To execute and manage the results of SQL queries"
+    },
+    {
+        "prompt": "Which method in Python is used to execute an SQL command?",
+        "choices": ["execute()", "run()", "query()", "command()"],
+        "answer": "execute()"
+    },
+    {
+        "prompt": "What is the purpose of the fetchone() method in database programming?",
+        "choices": ["To retrieve the entire result set of a query", "To retrieve the next row of a query result", "To reset the cursor position in the result set", "To fetch metadata of the database"],
+        "answer": "To retrieve the next row of a query result"
+    },
+    {
+        "prompt": "What is a transaction in the context of database operations?",
+        "choices": ["A single SQL query", "A series of operations treated as a single logical unit", "A connection to a database", "A method of transferring data between tables"],
+        "answer": "A series of operations treated as a single logical unit"
+    },
+    {
+        "prompt": "What does ACID stand for in database transactions?",
+        "choices": ["Accuracy, Consistency, Integrity, Durability", "Atomicity, Consistency, Isolation, Durability", "Authentication, Confidentiality, Integrity, Durability", "Atomicity, Connection, Isolation, Durability"],
+        "answer": "Atomicity, Consistency, Isolation, Durability"
+    },
+    {
+        "prompt": "In Python, how do you start a transaction when using mysql-connector?",
+        "choices": ["Begin transaction", "Start transaction", "conn.begin()", "No explicit method; a transaction starts with any query"],
+        "answer": "No explicit method; a transaction starts with any query"
+    },
+    {
+        "prompt": "Which method is used to apply the changes of a transaction to the database?",
+        "choices": ["commit()", "apply()", "save()", "fix()"],
+        "answer": "commit()"
+    },
+    {
+        "prompt": "What does the rollback() method do in the context of database transactions?",
+        "choices": ["It saves the current state of the database", "It undoes all changes made in the current transaction", "It rolls back the database to its initial state", "It restarts the current transaction from the beginning"],
+        "answer": "It undoes all changes made in the current transaction"
+    },
+    {
+        "prompt": "In Python's mysql-connector, how do you fetch all rows of a query result?",
+        "choices": ["fetchall()", "get_all_rows()", "retrieve()", "select_all()"],
+        "answer": "fetchall()"
+    },
+    {
+        "prompt": "What is the purpose of the MySQL Connector/Python?",
+        "choices": ["To enhance the MySQL database performance", "To create MySQL databases", "To connect Python applications to MySQL databases", "To back up MySQL databases"],
+        "answer": "To connect Python applications to MySQL databases"
+    },
+    {
+        "prompt": "What is the correct way to handle exceptions in Python while working with databases?",
+        "choices": ["Using if-else statements", "Using try-except blocks", "Using error checking functions", "Using a special database exception handler"],
+        "answer": "Using try-except blocks"
+    },
+    {
+        "prompt": "Which SQL statement is used to create a new table in a database?",
+        "choices": ["CREATE TABLE", "NEW TABLE", "MAKE TABLE", "BUILD TABLE"],
+        "answer": "CREATE TABLE"
+    },
+    {
+        "prompt": "How do you insert data into a table in SQL?",
+        "choices": ["INSERT INTO", "ADD TO", "PUT IN", "SET INTO"],
+        "answer": "INSERT INTO"
+    },
+    {
+        "prompt": "What is the purpose of the PRIMARY KEY in a database table?",
+        "choices": ["To unlock the database", "To identify each record uniquely", "To increase the performance", "To categorize the data"],
+        "answer": "To identify each record uniquely"
+    },
+    {
+        "prompt": "In Python, how do you handle the situation when a database connection fails?",
+        "choices": ["Reconnect in a loop", "Use an exception block", "Print an error message", "Terminate the program"],
+        "answer": "Use an exception block"
+    },
+    {
+        "prompt": "What does CRUD stand for in database operations?",
+        "choices": ["Create, Read, Update, Delete", "Connect, Read, Update, Disconnect", "Create, Retrieve, Upload, Download", "Connect, Retrieve, Utilize, Disconnect"],
+        "answer": "Create, Read, Update, Delete"
+    },
+    {
+        "prompt": "In Python, which statement is used to open a connection to a database?",
+        "choices": ["open_connection()", "connect()", "database.connect()", "db.open()"],
+        "answer": "connect()"
+    },
+    {
+        "prompt": "How is sensitive data like passwords typically handled in database connection strings?",
+        "choices": ["Encrypted before use", "Stored in plain text", "Not used at all", "Masked with special characters"],
+        "answer": "Encrypted before use"
+    }
+],
+    "13 Lecture: introduction to noSQL": [
+    {
+        "prompt": "What does 'NoSQL' stand for?",
+        "choices": ["No SQL", "Not Only SQL", "Non-Operational SQL", "Not Operational SQL"],
+        "answer": "Not Only SQL"
+    },
+    {
+        "prompt": "Which of the following is a characteristic of NoSQL databases?",
+        "choices": ["Fixed schema", "Relational data model", "Schema-less design", "ACID transactions"],
+        "answer": "Schema-less design"
+    },
+    {
+        "prompt": "What type of data model is used in key-value NoSQL databases?",
+        "choices": ["Graph-based", "Document-oriented", "Column-oriented", "Key-value pairs"],
+        "answer": "Key-value pairs"
+    },
+    {
+        "prompt": "Which NoSQL database is known for its wide-column store?",
+        "choices": ["MongoDB", "Redis", "Cassandra", "Neo4j"],
+        "answer": "Cassandra"
+    },
+    {
+        "prompt": "What is a primary advantage of using NoSQL databases?",
+        "choices": ["Complex transactions", "Strong consistency", "Scalability and flexibility", "Fixed data models"],
+        "answer": "Scalability and flexibility"
+    },
+    {
+        "prompt": "In NoSQL databases, what does 'BLOB' stand for?",
+        "choices": ["Binary Large Object", "Basic Large Object", "Binary Logical Object", "Basic Logical Object"],
+        "answer": "Binary Large Object"
+    },
+    {
+        "prompt": "Which NoSQL database type is best suited for hierarchical data storage?",
+        "choices": ["Key-value store", "Document store", "Wide-column store", "Graph database"],
+        "answer": "Document store"
+    },
+    {
+        "prompt": "What is a graph database primarily used for?",
+        "choices": ["Storing structured data", "Managing relationships and connections", "Storing large binary objects", "Key-value storage"],
+        "answer": "Managing relationships and connections"
+    },
+    {
+        "prompt": "How do NoSQL databases typically handle schema changes?",
+        "choices": ["Through rigid schema updates", "They do not allow schema changes", "Using flexible, dynamic schemas", "By locking the database for updates"],
+        "answer": "Using flexible, dynamic schemas"
+    },
+    {
+        "prompt": "What is a major feature of document-oriented NoSQL databases?",
+        "choices": ["Data stored in tables", "Data stored as key-value pairs", "Data stored as documents", "Data stored in fixed formats"],
+        "answer": "Data stored as documents"
+    },
+    {
+        "prompt": "Which of the following is an example of a NoSQL database?",
+        "choices": ["MySQL", "Oracle", "MongoDB", "SQL Server"],
+        "answer": "MongoDB"
+    },
+    {
+        "prompt": "What kind of scalability does NoSQL databases typically provide?",
+        "choices": ["Vertical scaling only", "Horizontal scaling only", "Both vertical and horizontal scaling", "No scalability"],
+        "answer": "Both vertical and horizontal scaling"
+    },
+    {
+        "prompt": "Why are NoSQL databases considered good for big data applications?",
+        "choices": ["Due to their relational nature", "For their strict ACID compliance", "Because of their schema flexibility and scalability", "For their single-node architecture"],
+        "answer": "Because of their schema flexibility and scalability"
+    },
+    {
+        "prompt": "In NoSQL databases, what is 'sharding'?",
+        "choices": ["Data encryption method", "Backup and recovery process", "Data distribution technique", "Access control mechanism"],
+        "answer": "Data distribution technique"
+    },
+    {
+        "prompt": "Which of the following is a feature of key-value NoSQL databases?",
+        "choices": ["Complex query capabilities", "Relationship management", "Simple, fast retrieval based on key", "Hierarchical data storage"],
+        "answer": "Simple, fast retrieval based on key"
+    },
+    {
+        "prompt": "How do NoSQL databases generally handle ACID properties?",
+        "choices": ["Strict adherence to ACID properties", "No support for ACID properties", "Relaxed consistency models", "ACID properties at the application layer"],
+        "answer": "Relaxed consistency models"
+    },
+    {
+        "prompt": "What is a common use case for graph NoSQL databases?",
+        "choices": ["E-commerce transactions", "Social network analysis", "Storing large media files", "Financial accounting systems"],
+        "answer": "Social network analysis"
+    },
+    {
+        "prompt": "Which of the following is not a typical characteristic of NoSQL databases?",
+        "choices": ["High availability", "Fixed schema", "Flexible data models", "Scalability"],
+        "answer": "Fixed schema"
+    },
+    {
+        "prompt": "What is a major benefit of the column-family store in NoSQL?",
+        "choices": ["Optimized for transactional data", "Efficient for graph-based data", "Ideal for read-heavy workloads", "Best for unstructured data"],
+        "answer": "Efficient for graph-based data"
+    },
+    {
+        "prompt": "Why is NoSQL considered an effective solution for distributed systems?",
+        "choices": ["Because of its relational data model", "Due to strong schema requirements", "Because of its support for varied data models and scalability", "Due to its single-node design"],
+        "answer": "Because of its support for varied data models and scalability"
+    }
+],
+    "14 Lecture: Different noSQL databases": [
+    {
+        "prompt": "Which NoSQL database type is optimized for retrieving key-based data?",
+        "choices": ["Document Store", "Graph Database", "Key-Value Store", "Column-Family Store"],
+        "answer": "Key-Value Store"
+    },
+    {
+        "prompt": "What is a common use case for graph databases?",
+        "choices": ["Storing hierarchical data", "Managing relationships between data points", "Storing large binary objects", "Efficiently querying key-based data"],
+        "answer": "Managing relationships between data points"
+    },
+    {
+        "prompt": "Which NoSQL database is known for its document-oriented storage?",
+        "choices": ["Redis", "Cassandra", "MongoDB", "HBase"],
+        "answer": "MongoDB"
+    },
+    {
+        "prompt": "In a column-family store, how is data typically organized?",
+        "choices": ["In tables with rows and columns", "As a collection of documents", "In key-value pairs", "In nodes and edges"],
+        "answer": "In tables with rows and columns"
+    },
+    {
+        "prompt": "What is a BLOB in the context of NoSQL databases?",
+        "choices": ["A specific type of data query", "A security feature", "Binary Large Object", "Basic Large Operational Byte"],
+        "answer": "Binary Large Object"
+    },
+    {
+        "prompt": "Which NoSQL database is best suited for real-time analytics and monitoring?",
+        "choices": ["MongoDB", "Neo4j", "Redis", "CouchDB"],
+        "answer": "Redis"
+    },
+    {
+        "prompt": "What type of NoSQL database is Cassandra?",
+        "choices": ["Key-Value Store", "Document Store", "Graph Database", "Column-Family Store"],
+        "answer": "Column-Family Store"
+    },
+    {
+        "prompt": "How do document databases typically store their data?",
+        "choices": ["In XML format", "In JSON or BSON format", "As tables with rows and columns", "In a graph structure"],
+        "answer": "In JSON or BSON format"
+    },
+    {
+        "prompt": "What is a major advantage of key-value stores?",
+        "choices": ["Complex querying capabilities", "Ability to store structured data", "High scalability and simple design", "Efficient storage of relationship data"],
+        "answer": "High scalability and simple design"
+    },
+    {
+        "prompt": "Which database type is ideal for handling interconnected data and complex networks?",
+        "choices": ["Graph Databases", "Key-Value Stores", "Document Stores", "Column-Family Stores"],
+        "answer": "Graph Databases"
+    },
+    {
+        "prompt": "What is a primary feature of column-family stores like Cassandra?",
+        "choices": ["Storing data in JSON format", "Organizing data in columns for fast reads and writes", "Storing data as key-value pairs", "Managing data in a graph structure"],
+        "answer": "Organizing data in columns for fast reads and writes"
+    },
+    {
+        "prompt": "In which scenario would a document database like MongoDB be most efficient?",
+        "choices": ["When dealing with relational data", "For applications requiring complex transactional operations", "When working with semi-structured data like JSON", "For applications that primarily require key-value access"],
+        "answer": "When working with semi-structured data like JSON"
+    },
+    {
+        "prompt": "What distinguishes graph databases from other NoSQL databases?",
+        "choices": ["Their use of SQL-like query language", "Storage of data in key-value pairs", "Emphasis on the relationships between data points", "Data organization in a tabular format"],
+        "answer": "Emphasis on the relationships between data points"
+    },
+    {
+        "prompt": "Why are key-value stores highly performant for read/write operations?",
+        "choices": ["Due to their complex indexing mechanisms", "Because of the relational data model they use", "Owing to their simple data model and lack of relational overhead", "Because they use graph-based data structures"],
+        "answer": "Owing to their simple data model and lack of relational overhead"
+    },
+    {
+        "prompt": "Which NoSQL database is typically used for large-scale data warehousing?",
+        "choices": ["MongoDB", "Redis", "Neo4j", "Cassandra"],
+        "answer": "Cassandra"
+    },
+    {
+        "prompt": "How does a graph database like Neo4j store its data?",
+        "choices": ["In a tabular format with rows and columns", "As key-value pairs", "In JSON format", "Using nodes and edges"],
+        "answer": "Using nodes and edges"
+    },
+    {
+        "prompt": "What kind of data is best suited for storage in a document database?",
+        "choices": ["Highly structured data with complex relationships", "Data that fits a uniform structure", "Semi-structured or unstructured data", "Data requiring extensive use of key-based retrieval"],
+        "answer": "Semi-structured or unstructured data"
+    },
+    {
+        "prompt": "For which purpose would a column-family store like HBase be the most appropriate choice?",
+        "choices": ["When rapid development and flexibility are required", "For applications that need to handle a variety of data types", "For storing large amounts of data with minimal structure", "When handling large-scale data with a need for efficient reads and writes"],
+        "answer": "When handling large-scale data with a need for efficient reads and writes"
+    },
+    {
+        "prompt": "In what scenario is a key-value store like Redis less suitable?",
+        "choices": ["For applications requiring fast access to data by key", "When data has a simple, flat structure", "For applications that require complex querying and data relationships", "For scenarios requiring high scalability"],
+        "answer": "For applications that require complex querying and data relationships"
+    },
+    {
+        "prompt": "Which feature is a primary advantage of using a document store database?",
+        "choices": ["Ability to handle ACID transactions", "Efficient storage of relationship-intensive data", "Flexibility in handling semi-structured data like JSON or XML", "Optimized storage for key-value pairs"],
+        "answer": "Flexibility in handling semi-structured data like JSON or XML"
+    }
+],
+    "15 Lecture: Limits to the relation model, ACID, CAP": [
+    {
+        "prompt": "What does the 'Distributed Model' primarily focus on in data management?",
+        "choices": ["Centralizing data storage", "Distributing data across multiple servers", "Using a single server for all operations", "Storing data in a non-relational format"],
+        "answer": "Distributing data across multiple servers"
+    },
+    {
+        "prompt": "What is 'Sharding' in the context of database systems?",
+        "choices": ["Encrypting database data", "Distributing data across different servers", "Replicating data for backup", "Compressing data for storage efficiency"],
+        "answer": "Distributing data across different servers"
+    },
+    {
+        "prompt": "In database systems, what is the main purpose of 'Replication'?",
+        "choices": ["To increase data redundancy", "To distribute database load", "To synchronize data across servers", "To enhance data security"],
+        "answer": "To synchronize data across servers"
+    },
+    {
+        "prompt": "What is the primary advantage of a 'Single Server Model' in databases?",
+        "choices": ["Scalability", "Data distribution", "Simplicity and ease of management", "Data redundancy"],
+        "answer": "Simplicity and ease of management"
+    },
+    {
+        "prompt": "What does 'Master-Slave Replication' in databases involve?",
+        "choices": ["A single server handling all operations", "Equal distribution of data across all nodes", "One primary node and multiple secondary nodes", "Complete data decentralization"],
+        "answer": "One primary node and multiple secondary nodes"
+    },
+    {
+        "prompt": "What is 'Auto-Sharding' in NoSQL databases?",
+        "choices": ["Automatic data encryption", "Self-managed data distribution across servers", "Automated data backup", "Self-tuning of database queries"],
+        "answer": "Self-managed data distribution across servers"
+    },
+    {
+        "prompt": "In 'Master-Slave Replication', what is the role of the 'Master' node?",
+        "choices": ["To only read data", "To handle both read and write operations", "To coordinate slave nodes", "To store backup data"],
+        "answer": "To handle both read and write operations"
+    },
+    {
+        "prompt": "What is a key characteristic of 'Peer-to-Peer Replication' in databases?",
+        "choices": ["Centralized data control", "A single node for all writes", "Equal responsibility among nodes", "Hierarchical node structure"],
+        "answer": "Equal responsibility among nodes"
+    },
+    {
+        "prompt": "How does 'Peer-to-Peer Replication' handle node failures?",
+        "choices": ["By shutting down the system", "Through manual intervention", "By redistributing the load to other nodes", "It does not handle node failures"],
+        "answer": "By redistributing the load to other nodes"
+    },
+    {
+        "prompt": "What is a major disadvantage of 'Master-Slave Replication'?",
+        "choices": ["Slow read operations", "Inability to handle large data sets", "Potential for data inconsistency", "Complexity in setup"],
+        "answer": "Potential for data inconsistency"
+    },
+    {
+        "prompt": "What is a primary benefit of combining 'Sharding' and 'Replication'?",
+        "choices": ["Reduced data storage needs", "Enhanced data security", "Improved load balancing", "Simplified data management"],
+        "answer": "Improved load balancing"
+    },
+    {
+        "prompt": "What is the main challenge in switching from Relational to NoSQL databases?",
+        "choices": ["Data encryption standards", "Managing data consistency", "Physical data storage", "Query language differences"],
+        "answer": "Managing data consistency"
+    },
+    {
+        "prompt": "Which replication method can handle node failure without losing data access?",
+        "choices": ["Master-Slave Replication", "Single Server Model", "Peer-to-Peer Replication", "Sharding"],
+        "answer": "Peer-to-Peer Replication"
+    },
+    {
+        "prompt": "In the context of distributed databases, what is a 'Write-Write Conflict'?",
+        "choices": ["Two users reading the same data simultaneously", "Two users updating the same data simultaneously", "A user trying to write data to an unavailable node", "A conflict between read and write operations"],
+        "answer": "Two users updating the same data simultaneously"
+    },
+    {
+        "prompt": "What is the primary focus of the 'CAP Theorem' in distributed systems?",
+        "choices": ["Data encryption and security", "Balancing consistency, availability, and partition tolerance", "Improving query performance", "Data replication and sharding"],
+        "answer": "Balancing consistency, availability, and partition tolerance"
+    },
+        {
+        "prompt": "What does the 'AP' category in the CAP theorem emphasize?",
+        "choices": ["Atomicity and Partition Tolerance", "Availability and Partition Tolerance", "Atomicity and Performance", "Availability and Performance"],
+        "answer": "Availability and Partition Tolerance"
+    },
+    {
+        "prompt": "In the CAP Theorem, what is 'Consistency'?",
+        "choices": ["All nodes see the same data at the same time", "The system continues to operate despite network failures", "The database remains usable even during parts of the network failing", "Data is replicated across different nodes of a database"],
+        "answer": "All nodes see the same data at the same time"
+    },
+    {
+        "prompt": "What is 'Map-Reduce' primarily used for?",
+        "choices": ["Data replication", "Transactional processing", "Parallel processing of big data", "Database sharding"],
+        "answer": "Parallel processing of big data"
+    },
+    {
+        "prompt": "What does the 'Map' function do in Map-Reduce?",
+        "choices": ["Reduces the data into a single value", "Transforms raw data into a different format", "Processes each data item and emits key-value pairs", "Combines values from different nodes"],
+        "answer": "Processes each data item and emits key-value pairs"
+    },
+    {
+        "prompt": "In the context of Map-Reduce, what does the 'Reduce' function do?",
+        "choices": ["Converts data into a map", "Processes each key-value pair to generate output", "Combines all maps into a single output", "Aggregates values by keys to produce a final result"],
+        "answer": "Aggregates values by keys to produce a final result"
+    },
+    {
+        "prompt": "In the CAP Theorem, what does 'Partition Tolerance' refer to?",
+        "choices": ["Tolerance for inconsistent data", "Ability to handle network partitions", "Tolerance for data partitioning", "Ability to work with partitioned databases"],
+        "answer": "Ability to handle network partitions"
+    },
+    {
+        "prompt": "What is a major challenge when transitioning from Relational Databases to NoSQL?",
+        "choices": ["Implementing ACID properties", "Maintaining data consistency", "Data partitioning", "Implementing Map-Reduce"],
+        "answer": "Maintaining data consistency"
+    },
+    {
+        "prompt": "Which database category is usually associated with strong consistency?",
+        "choices": ["NoSQL databases", "Relational databases", "Graph databases", "AP databases in the CAP theorem"],
+        "answer": "Relational databases"
+    },
+    {
+        "prompt": "What is 'Eventual Consistency' in database systems?",
+        "choices": ["Immediate consistency after each transaction", "Consistency achieved over time", "Consistency in case of system failures", "Consistent performance across operations"],
+        "answer": "Consistency achieved over time"
+    },
+    {
+        "prompt": "In the CAP Theorem, which of the following is a correct combination?",
+        "choices": ["Consistency and Availability", "Availability and Partition Tolerance", "Consistency and Partition Tolerance", "Consistency, Availability, and Partition Tolerance"],
+        "answer": "Availability and Partition Tolerance"
+    },
+    {
+        "prompt": "How does 'Eventual Consistency' differ from 'Strong Consistency'?",
+        "choices": ["Eventual Consistency allows for temporary data discrepancies", "Eventual Consistency is faster than Strong Consistency", "Eventual Consistency is only used in relational databases", "Strong Consistency does not guarantee data integrity"],
+        "answer": "Eventual Consistency allows for temporary data discrepancies"
+    }
+    ],
+    "16 Lab1: Proportional Logic": [
+    {
+        "prompt": "Consider two propositions, P and Q. Create a truth table for the expression: P ∧ ¬Q (P AND NOT Q).",
+        "choices": [
+            "A) P: T, T, F, F; Q: T, F, T, F; Result: T, F, F, F",
+            "B) P: T, T, F, F; Q: T, F, T, F; Result: F, T, F, F",
+            "C) P: T, T, F, F; Q: T, F, T, F; Result: F, F, T, T",
+            "D) P: T, T, F, F; Q: T, F, T, F; Result: T, T, F, F"
+        ],
+        "answer": "B) P: T, T, F, F; Q: T, F, T, F; Result: F, T, F, F"
+    },
+    {
+        "prompt": "Create a truth table for the implication P → Q (P IMPLIES Q).",
+        "choices": [
+            "A) P: T, T, F, F; Q: T, F, T, F; Result: T, F, T, T",
+            "B) P: T, T, F, F; Q: T, F, T, F; Result: T, T, F, F",
+            "C) P: T, T, F, F; Q: T, F, T, F; Result: F, T, T, T",
+            "D) P: T, T, F, F; Q: T, F, T, F; Result: T, T, T, F"
+        ],
+        "answer": "C) P: T, T, F, F; Q: T, F, T, F; Result: F, T, T, T"
+    },
+    {
+        "prompt": "What is the truth table for the exclusive OR (XOR) operation P ⊕ Q?",
+        "choices": [
+            "A) P: T, T, F, F; Q: T, F, T, F; Result: F, T, T, F",
+            "B) P: T, T, F, F; Q: T, F, T, F; Result: T, F, F, T",
+            "C) P: T, T, F, F; Q: T, F, T, F; Result: T, T, T, T",
+            "D) P: T, T, F, F; Q: T, F, T, F; Result: F, F, F, F"
+        ],
+        "answer": "A) P: T, T, F, F; Q: T, F, T, F; Result: F, T, T, F"
+    },
+    {
+        "prompt": "Determine the truth table for the conjunction P ∧ Q (P AND Q).",
+        "choices": [
+            "A) P: T, T, F, F; Q: T, F, T, F; Result: T, F, F, F",
+            "B) P: T, T, F, F; Q: T, F, T, F; Result: F, T, F, F",
+            "C) P: T, T, F, F; Q: T, F, T, F; Result: F, F, T, T",
+            "D) P: T, T, F, F; Q: T, F, T, F; Result: T, T, F, F"
+        ],
+        "answer": "A) P: T, T, F, F; Q: T, F, T, F; Result: T, F, F, F"
+    },
+    {
+        "prompt": "What is the truth table for the disjunction P ∨ Q (P OR Q)?",
+        "choices": [
+            "A) P: T, T, F, F; Q: T, F, T, F; Result: T, T, T, F",
+            "B) P: T, T, F, F; Q: T, F, T, F; Result: T, F, F, T",
+            "C) P: T, T, F, F; Q: T, F, T, F; Result: F, T, T, T",
+            "D) P: T, T, F, F; Q: T, F, T, F; Result: T, T, F, F"
+        ],
+        "answer": "A) P: T, T, F, F; Q: T, F, T, F; Result: T, T, T, F"
+    },
+    {
+        "prompt": "Evaluate the truth table for the expression ¬(P ∧ ¬Q).",
+        "choices": [
+            "A) P: T, T, F, F; Q: T, F, T, F; Result: F, F, T, T",
+            "B) P: T, T, F, F; Q: T, F, T, F; Result: T, F, F, T",
+            "C) P: T, T, F, F; Q: T, F, T, F; Result: F, T, T, F",
+            "D) P: T, T, F, F; Q: T, F, T, F; Result: T, T, T, T"
+        ],
+        "answer": "D) P: T, T, F, F; Q: T, F, T, F; Result: T, T, T, T"
+    },
+    {
+        "prompt": "Create a truth table for the expression ¬P ∨ (Q → R).",
+        "choices": [
+            "A) P: T, F; Q: T, F; R: T, F; Result: F, T, T, T, T, F, T, T",
+            "B) P: T, F; Q: T, F; R: T, F; Result: T, F, T, T, F, T, T, T",
+            "C) P: T, F; Q: T, F; R: T, F; Result: T, T, T, T, F, F, T, T",
+            "D) P: T, F; Q: T, F; R: T, F; Result: T, T, F, F, T, T, T, T"
+        ],
+        "answer": "C) P: T, F; Q: T, F; R: T, F; Result: T, T, T, T, F, F, T, T"
+    },
+    {
+        "prompt": "Determine the truth table for (P ∨ Q) ∧ ¬(P ∧ Q), which represents the XOR operation.",
+        "choices": [
+            "A) P: T, T, F, F; Q: T, F, T, F; Result: F, T, T, F",
+            "B) P: T, T, F, F; Q: T, F, T, F; Result: T, F, F, T",
+            "C) P: T, T, F, F; Q: T, F, T, F; Result: T, T, T, T",
+            "D) P: T, T, F, F; Q: T, F, T, F; Result: F, F, F, F"
+        ],
+        "answer": "A) P: T, T, F, F; Q: T, F, T, F; Result: F, T, T, F"
+    },
+    {
+        "prompt": "Evaluate the truth table for (P → Q) ∧ (¬P ∨ R).",
+        "choices": [
+            "A) P: T, F; Q: T, F; R: T, F; Result: T, F, T, T, T, T, T, F",
+            "B) P: T, F; Q: T, F; R: T, F; Result: T, T, F, F, T, T, T, T",
+            "C) P: T, F; Q: T, F; R: T, F; Result: T, T, T, T, F, F, T, T",
+            "D) P: T, F; Q: T, F; R: T, F; Result: F, T, T, T, T, T, F, F"
+        ],
+        "answer": "D) P: T, F; Q: T, F; R: T, F; Result: F, T, T, T, T, T, F, F"
+    }
+],
+    "17 Lab2: Cardinality ratio and Entity relations": [
+    {
+        "prompt": "What is the cardinality ratio between Student and SocialSecurityCard?",
+        "choices": ["1:1", "1:N", "N:1", "M:N"],
+        "answer": "1:1"
+    },
+    {
+        "prompt": "What is the typical cardinality ratio between Student and Teacher?",
+        "choices": ["1:1", "1:N", "N:1", "M:N"],
+        "answer": "M:N"
+    },
+    {
+        "prompt": "In an ER diagram, what relationship type would ClassRoom and Wall most likely have?",
+        "choices": ["1:1", "1:N", "N:1", "M:N"],
+        "answer": "1:1"
+    },
+    {
+        "prompt": "What is the cardinality ratio between Country and CurrentPresident?",
+        "choices": ["1:1", "1:N", "N:1", "M:N"],
+        "answer": "1:1"
+    },
+    {
+        "prompt": "How would you describe the relationship between Course and TextBook?",
+        "choices": ["1:1", "1:N", "N:1", "M:N"],
+        "answer": "1:N"
+    },
+    {
+        "prompt": "In a database, what is the cardinality ratio between Item and Order?",
+        "choices": ["1:1", "1:N", "N:1", "M:N"],
+        "answer": "N:1"
+    },
+    {
+        "prompt": "What is the most likely cardinality ratio for Student and Class?",
+        "choices": ["1:1", "1:N", "N:1", "M:N"],
+        "answer": "M:N"
+    },
+    {
+        "prompt": "Which of these represents the cardinality ratio between Class and Instructor?",
+        "choices": ["1:1", "1:N", "N:1", "M:N"],
+        "answer": "1:N"
+    },
+    {
+        "prompt": "In an ER diagram for a university database, how would you describe the relationship between Instructor and Office?",
+        "choices": ["1:1", "1:N", "N:1", "M:N"],
+        "answer": "1:1"
+    },
+    {
+        "prompt": "What is the cardinality ratio between E-bay Auction item and E-bay bid?",
+        "choices": ["1:1", "1:N", "N:1", "M:N"],
+        "answer": "1:N"
+    },
+    {
+        "prompt": "Which of the following is a strong (non-weak) entity type in a BANK database ER diagram?",
+        "choices": ["Bank", "Branch", "Account", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "prompt": "Is 'Branch' a weak entity type in a BANK database ER diagram?",
+        "choices": ["Yes", "No"],
+        "answer": "No"
+    },
+    {
+        "prompt": "In the U.S. House of Representatives ER diagram, what kind of relationship exists between STATE and CONGRESSPERSON?",
+        "choices": ["1:1", "1:N", "N:1", "M:N"],
+        "answer": "1:N"
+    },
+    {
+        "prompt": "How would you represent the relationship between CONGRESSPERSON and BILL in the ER diagram?",
+        "choices": ["One-to-One", "One-to-Many", "Many-to-One", "Many-to-Many"],
+        "answer": "Many-to-Many"
+    },
+    {
+        "prompt": "In an ER diagram of the U.S. House of Representatives, which attribute is suitable as a primary key for CONGRESSPERSON?",
+        "choices": ["Name", "District", "Start_date", "Political Party"],
+        "answer": "District"
+    }
+],
+    "18 Lab2: ER-diagram and relationships": [
+    {
+        "prompt": "In an ER diagram, which symbol is typically used to represent a 'many' relationship?",
+        "choices": ["A diamond", "A double line", "A single line", "A crow's foot"],
+        "answer": "A crow's foot"
+    },
+    {
+        "prompt": "What does an oval in an ER diagram represent?",
+        "choices": ["Entity", "Attribute", "Relationship", "Constraint"],
+        "answer": "Attribute"
+    },
+    {
+        "prompt": "Which of the following best describes a composite attribute in an ER diagram?",
+        "choices": ["An attribute that can have multiple values", "An attribute that is derived from other attributes", "An attribute that is composed of other attributes", "An attribute that is key to the entity"],
+        "answer": "An attribute that is composed of other attributes"
+    },
+    {
+        "prompt": "In an ER diagram, a derived attribute is indicated by",
+        "choices": ["A dashed oval", "A solid oval", "A double oval", "A diamond"],
+        "answer": "A dashed oval"
+    },
+    {
+        "prompt": "What kind of relationship in an ER diagram indicates that an entity is part of another entity?",
+        "choices": ["Aggregation", "Composition", "Generalization", "Association"],
+        "answer": "Composition"
+    },
+    {
+        "prompt": "In an ER diagram, what does a rectangle represent?",
+        "choices": ["Entity Set", "Attribute", "Relationship", "Cardinality"],
+        "answer": "Entity Set"
+    },
+    {
+        "prompt": "Which ER diagram feature specifically represents a 'whole-to-part' relationship?",
+        "choices": ["Aggregation", "Composition", "Generalization", "Multiplicity"],
+        "answer": "Aggregation"
+    },
+    {
+        "prompt": "In an ER diagram, a relationship that is optional and not mandatory is indicated by",
+        "choices": ["A single line", "A double line", "A dashed line", "An arrow"],
+        "answer": "A dashed line"
+    },
+    {
+        "prompt": "What does a diamond shape in an ER diagram typically represent?",
+        "choices": ["Entity", "Attribute", "Relationship", "Key"],
+        "answer": "Relationship"
+    },
+    {
+        "prompt": "In an ER diagram, which symbol typically denotes a weak entity?",
+        "choices": ["A rectangle with double borders", "A rectangle with dashed borders", "A diamond shape", "A circle"],
+        "answer": "A rectangle with double borders"
+    },
+    {
+        "prompt": "What type of relationship in an ER diagram allows an entity to be related to itself?",
+        "choices": ["Recursive relationship", "Binary relationship", "Ternary relationship", "Self-referential relationship"],
+        "answer": "Recursive relationship"
+    },
+    {
+        "prompt": "In an ER diagram, what does a many-to-many relationship indicate?",
+        "choices": ["Each entity in the relationship can relate to multiple instances of the other", "Each entity is related to only one instance of the other", "The relationship is optional for both entities", "The relationship is mandatory for both entities"],
+        "answer": "Each entity in the relationship can relate to multiple instances of the other"
+    },
+    {
+        "prompt": "How is a one-to-one relationship represented in an ER diagram?",
+        "choices": ["A single line connecting the entities", "A crow's foot at both ends of the relationship line", "A crow's foot at one end of the relationship line", "A dashed line connecting the entities"],
+        "answer": "A single line connecting the entities"
+    },
+    {
+        "prompt": "What does a 'total participation' of an entity in a relationship in an ER diagram mean?",
+        "choices": ["The entity is completely optional in the relationship", "Every instance of the entity is involved in the relationship", "The entity is partially involved in the relationship", "The entity is the dominant part of the relationship"],
+        "answer": "Every instance of the entity is involved in the relationship"
+    },
+    {
+        "prompt": "In an ER diagram, an identifying relationship is typically used for",
+        "choices": ["Strong entities", "Weak entities", "Attributes", "Recursive relationships"],
+        "answer": "Weak entities"
+    },
+    {
+        "prompt": "How would you describe a ternary relationship in an ER diagram?",
+        "choices": ["A relationship between two entities", "A relationship between three entities", "A recursive relationship", "A many-to-many relationship"],
+        "answer": "A relationship between three entities"
+    },
+    {
+        "prompt": "In an ER diagram, what does an arrow from entity A to entity B represent?",
+        "choices": ["A one-to-one relationship", "A one-to-many relationship from A to B", "A many-to-one relationship from A to B", "A many-to-many relationship"],
+        "answer": "A one-to-many relationship from A to B"
+    },
+    {
+        "prompt": "What is implied when an attribute in an ER diagram is connected to more than one entity?",
+        "choices": ["Composite attribute", "Multivalued attribute", "Derived attribute", "Shared attribute"],
+        "answer": "Shared attribute"
+    },
+    {
+        "prompt": "In an ER model, a relationship is said to be 'disjoint' when",
+        "choices": ["It cannot have overlapping entity instances", "It is a many-to-many relationship", "It involves weak entities", "It connects more than two entities"],
+        "answer": "It cannot have overlapping entity instances"
+    },
+    {
+        "prompt": "How is an optional relationship represented in an ER diagram?",
+        "choices": ["By a double line", "By a single line", "By a dashed line", "By an arrow"],
+        "answer": "By a dashed line"
+    }
+],
+    "19 Lab3: EER-diagram and EER compared to ER": [
+    {
+        "prompt": "In an EER diagram, how is a subclass represented in relation to its superclass?",
+        "choices": ["A dotted line", "A solid line", "A double line", "A dashed line"],
+        "answer": "A solid line"
+    },
+    {
+        "prompt": "What symbol in an EER diagram represents a 'category' or 'union type'?",
+        "choices": ["Triangle", "Circle", "Rectangle", "Diamond"],
+        "answer": "Triangle"
+    },
+    {
+        "prompt": "How are key attributes of a weak entity represented in an EER diagram?",
+        "choices": ["Underlined with a dashed line", "Underlined with a solid line", "Highlighted in bold", "Enclosed in a double rectangle"],
+        "answer": "Underlined with a dashed line"
+    },
+    {
+        "prompt": "What feature of EER diagrams allows for representation of specialization and generalization?",
+        "choices": ["Composite attributes", "Multi-valued attributes", "Inheritance", "Aggregation"],
+        "answer": "Inheritance"
+    },
+    {
+        "prompt": "In EER diagrams, what does a double diamond represent?",
+        "choices": ["Weak relationship", "Strong relationship", "Identifying relationship", "Non-identifying relationship"],
+        "answer": "Weak relationship"
+    },
+    {
+        "prompt": "How are total specialization and partial specialization differentiated in EER diagrams?",
+        "choices": ["By using different colors", "Using a full line for total and a dashed line for partial", "By the shape of the entity", "By labeling the relationship"],
+        "answer": "Using a full line for total and a dashed line for partial"
+    },
+    {
+        "prompt": "What does an overlapping constraint in an EER diagram indicate?",
+        "choices": ["Entities can be members of more than one subclass", "Entities must be a member of only one subclass", "Entities cannot be part of any subclass", "Entities are part of a weak entity set"],
+        "answer": "Entities can be members of more than one subclass"
+    },
+    {
+        "prompt": "How is a multi-valued attribute represented in an EER diagram?",
+        "choices": ["Double ovals", "Single oval", "Dashed oval", "Rectangle"],
+        "answer": "Double ovals"
+    },
+    {
+        "prompt": "In EER diagrams, how are exclusive subclasses of a superclass depicted?",
+        "choices": ["With a disjoint constraint", "By overlapping symbols", "Using a dashed line", "With a union symbol"],
+        "answer": "With a disjoint constraint"
+    },
+    {
+        "prompt": "What does an aggregation in an EER diagram represent?",
+        "choices": ["A whole-part relationship", "A weak entity set", "An inheritance hierarchy", "A multi-valued attribute"],
+        "answer": "A whole-part relationship"
+    },
+    {
+        "prompt": "What is a primary difference between ER and EER diagrams?",
+        "choices": ["EER diagrams can represent more complex relationships", "ER diagrams support weak entities, but EER diagrams do not", "EER diagrams use different symbols than ER diagrams", "ER diagrams represent inheritance, EER diagrams do not"],
+        "answer": "EER diagrams can represent more complex relationships"
+    },
+    {
+        "prompt": "Which concept is unique to EER diagrams compared to standard ER diagrams?",
+        "choices": ["Entities", "Relationships", "Specialization/Generalization", "Attributes"],
+        "answer": "Specialization/Generalization"
+    },
+    {
+        "prompt": "What feature common to both ER and EER diagrams is used to represent real-world entities?",
+        "choices": ["Diamonds", "Ovals", "Rectangles", "Lines"],
+        "answer": "Rectangles"
+    },
+    {
+        "prompt": "How are relationships typically depicted in both ER and EER diagrams?",
+        "choices": ["Rectangles", "Ovals", "Diamonds", "Dashed lines"],
+        "answer": "Diamonds"
+    },
+    {
+        "prompt": "Which of the following is true for both ER and EER diagrams?",
+        "choices": ["They can represent multi-valued attributes", "They use triangles to represent relationships", "Only EER diagrams can represent weak entities", "Only ER diagrams support attributes"],
+        "answer": "They can represent multi-valued attributes"
+    },
+    {
+        "prompt": "What aspect of ER diagrams is enhanced in EER diagrams?",
+        "choices": ["Entity representation", "Attribute details", "Hierarchy and inheritance", "Basic relationships"],
+        "answer": "Hierarchy and inheritance"
+    },
+    {
+        "prompt": "In which diagram type are subclasses more explicitly represented?",
+        "choices": ["ER diagrams", "EER diagrams", "Both equally", "Neither"],
+        "answer": "EER diagrams"
+    },
+    {
+        "prompt": "Which diagram type is generally more suitable for complex database applications?",
+        "choices": ["ER diagrams", "EER diagrams", "Both equally", "Neither"],
+        "answer": "EER diagrams"
+    },
+    {
+        "prompt": "What is a similarity between ER and EER diagrams in terms of attributes?",
+        "choices": ["Both use double ovals for derived attributes", "Both use dashed lines for multi-valued attributes", "Both can represent key, composite, and derived attributes", "Attributes are not represented in ER diagrams"],
+        "answer": "Both can represent key, composite, and derived attributes"
+    },
+    {
+        "prompt": "In terms of complexity and detail, how do ER and EER diagrams compare?",
+        "choices": ["ER diagrams are more complex", "EER diagrams are more complex", "They are equally complex", "Complexity depends on the specific model, not the diagram type"],
+        "answer": "EER diagrams are more complex"
+    }
+
+],
+    "20 Lab3: Integrety constraints": [
+    {
+        "prompt": "What type of integrity constraint is violated when inserting an employee with an SSN that already exists in the database?",
+        "choices": ["Referential integrity", "Domain integrity", "Entity integrity", "User-defined integrity"],
+        "answer": "Entity integrity"
+    },
+    {
+        "prompt": "If a new project is inserted with a department number that does not exist, which integrity constraint is breached?",
+        "choices": ["Entity integrity", "Domain integrity", "Referential integrity", "User-defined integrity"],
+        "answer": "Referential integrity"
+    },
+    {
+        "prompt": "Deleting an employee who is a manager of a department affects which type of integrity?",
+        "choices": ["Referential integrity", "Entity integrity", "Domain integrity", "User-defined integrity"],
+        "answer": "Referential integrity"
+    },
+    {
+        "prompt": "Modifying a dependent's SSN to a value that doesn't exist in the EMPLOYEE table violates what?",
+        "choices": ["Entity integrity", "Domain integrity", "Referential integrity", "User-defined integrity"],
+        "answer": "Referential integrity"
+    },
+    {
+        "prompt": "What happens if you try to insert a tuple into EMPLOYEE with a non-numeric salary?",
+        "choices": ["Violates domain integrity", "Violates entity integrity", "Violates referential integrity", "Violates user-defined integrity"],
+        "answer": "Violates domain integrity"
+    },
+    {
+        "prompt": "Deleting a project that has ongoing works-on relationships affects which integrity?",
+        "choices": ["Referential integrity", "Entity integrity", "Domain integrity", "User-defined integrity"],
+        "answer": "Referential integrity"
+    },
+    {
+        "prompt": "Inserting a dependent with an invalid date of birth (like '1990-02-30') violates which constraint?",
+        "choices": ["Domain integrity", "Entity integrity", "Referential integrity", "User-defined integrity"],
+        "answer": "Domain integrity"
+    },
+    {
+        "prompt": "Changing the manager SSN in the DEPARTMENT table to an SSN not present in EMPLOYEE violates which constraint?",
+        "choices": ["Entity integrity", "Domain integrity", "Referential integrity", "User-defined integrity"],
+        "answer": "Referential integrity"
+    },
+    {
+        "prompt": "Inserting a new employee without specifying a mandatory field like SSN violates what?",
+        "choices": ["User-defined integrity", "Domain integrity", "Entity integrity", "Referential integrity"],
+        "answer": "Entity integrity"
+    },
+    {
+        "prompt": "What type of integrity is violated if an employee's salary is updated to a negative value?",
+        "choices": ["Domain integrity", "Entity integrity", "Referential integrity", "User-defined integrity"],
+        "answer": "Domain integrity"
+    },
+    {
+        "prompt": "Modifying the MGRSSN attribute in the DEPARTMENT table to a non-existent SSN affects which integrity?",
+        "choices": ["Referential integrity", "Entity integrity", "Domain integrity", "User-defined integrity"],
+        "answer": "Referential integrity"
+    },
+    {
+        "prompt": "Deleting an employee who is listed as an emergency contact for another employee affects what?",
+        "choices": ["Entity integrity", "Referential integrity", "User-defined integrity", "Domain integrity"],
+        "answer": "Referential integrity"
+    },
+    {
+        "prompt": "If a new project is added with a non-existing project number, it violates which constraint?",
+        "choices": ["Entity integrity", "Domain integrity", "Referential integrity", "User-defined integrity"],
+        "answer": "Entity integrity"
+    },
+    {
+        "prompt": "Modifying an employee's SSN to a format that doesn't match the SSN format violates what?",
+        "choices": ["Referential integrity", "Domain integrity", "Entity integrity", "User-defined integrity"],
+        "answer": "Domain integrity"
+    },
+    {
+        "prompt": "Deleting a department that is referenced by projects violates which type of integrity?",
+        "choices": ["Referential integrity", "Entity integrity", "Domain integrity", "User-defined integrity"],
+        "answer": "Referential integrity"
+    },
+    {
+        "prompt": "What happens if a tuple is inserted in the WORKS_ON table with an ESSN not in the EMPLOYEE table?",
+        "choices": ["Violates entity integrity", "Violates referential integrity", "Violates domain integrity", "Violates user-defined integrity"],
+        "answer": "Violates referential integrity"
+    },
+    {
+        "prompt": "What integrity constraint is violated by inserting a project with an invalid date format in the start date?",
+        "choices": ["Domain integrity", "Entity integrity", "Referential integrity", "User-defined integrity"],
+        "answer": "Domain integrity"
+    },
+    {
+        "prompt": "Changing an employee's birth date to a future date violates which type of integrity?",
+        "choices": ["User-defined integrity", "Referential integrity", "Entity integrity", "Domain integrity"],
+        "answer": "Domain integrity"
+    },
+    {
+        "prompt": "Inserting an employee with a salary that violates the company's salary range policy affects what?",
+        "choices": ["Referential integrity", "Entity integrity", "Domain integrity", "User-defined integrity"],
+        "answer": "User-defined integrity"
+    },
+    {
+        "prompt": "What constraint is violated if a project name is changed to a name that already exists for another project?",
+        "choices": ["Entity integrity", "Domain integrity", "Referential integrity", "User-defined integrity"],
+        "answer": "Entity integrity"
+    }
+],
+    "21 Lab4: Keys": [
+    {
+        "prompt": "What defines a candidate key in a database table?",
+        "choices": [
+            "A key that can be used to uniquely identify any row in the table",
+            "A key that is currently used as the primary key",
+            "Any key that is a foreign key",
+            "A key that cannot be null"
+        ],
+        "answer": "A key that can be used to uniquely identify any row in the table"
+    },
+    {
+        "prompt": "What is a primary key in a database schema?",
+        "choices": [
+            "A key that uniquely identifies each record in a table",
+            "A set of keys that identifies records in another table",
+            "Any key that is used frequently in queries",
+            "The most important candidate key"
+        ],
+        "answer": "A key that uniquely identifies each record in a table"
+    },
+    {
+        "prompt": "Which attribute is most likely to be a foreign key in a 'BOOK_BORROWED' table?",
+        "choices": [
+            "Issue_date",
+            "Return_date",
+            "Book_isbn",
+            "Ssn"
+        ],
+        "answer": "Book_isbn"
+    },
+    {
+        "prompt": "In a database schema, what is the purpose of a foreign key?",
+        "choices": [
+            "To provide a unique identifier for each table",
+            "To link a record in one table to a record in another table",
+            "To speed up database queries",
+            "To store complex data types"
+        ],
+        "answer": "To link a record in one table to a record in another table"
+    },
+    {
+        "prompt": "What is a composite key?",
+        "choices": [
+            "A key made up of multiple attributes to uniquely identify a record",
+            "A key that combines primary and foreign keys",
+            "A primary key duplicated in another table",
+            "A key that is composed of all the fields in the table"
+        ],
+        "answer": "A key made up of multiple attributes to uniquely identify a record"
+    },
+    {
+        "prompt": "How can you identify a primary key from a set of candidate keys?",
+        "choices": [
+            "It is always the first candidate key",
+            "It is chosen based on its relevance to the business logic",
+            "It is the key with the least number of attributes",
+            "It is the key that is easiest to remember"
+        ],
+        "answer": "It is chosen based on its relevance to the business logic"
+    },
+    {
+        "prompt": "What could lead to a violation of referential integrity in a database?",
+        "choices": [
+            "Adding a new primary key",
+            "Deleting a record that is referenced by a foreign key in another table",
+            "Inserting a record with a unique primary key",
+            "Updating a record without changing its primary key"
+        ],
+        "answer": "Deleting a record that is referenced by a foreign key in another table"
+    },
+    {
+        "prompt": "Which scenario requires the use of a composite key?",
+        "choices": [
+            "When no single attribute can uniquely identify a record",
+            "When the table has more than ten columns",
+            "When the primary key is too long",
+            "When the table is linked to multiple other tables"
+        ],
+        "answer": "When no single attribute can uniquely identify a record"
+    },
+    {
+        "prompt": "What happens when a candidate key is set as a primary key?",
+        "choices": [
+            "It cannot be changed or deleted",
+            "It becomes the only key used in the table",
+            "It must be referenced by a foreign key in another table",
+            "It uniquely identifies each record in the table"
+        ],
+        "answer": "It uniquely identifies each record in the table"
+    },
+    {
+        "prompt": "In a relational schema, what is typically true about a foreign key?",
+        "choices": [
+            "It must be the same as the primary key in the same table",
+            "It is always a unique key in its own table",
+            "It references a primary key in another table",
+            "It cannot be null"
+        ],
+        "answer": "It references a primary key in another table"
+    },
+    {
+        "prompt": "How does a surrogate key function in a database?",
+        "choices": [
+            "It replaces a composite key for simplicity",
+            "It acts as a foreign key to improve query performance",
+            "It is used to secure sensitive data",
+            "It functions as a backup for the primary key"
+        ],
+        "answer": "It replaces a composite key for simplicity"
+    },
+    {
+        "prompt": "In a relational database, what is a 'natural key'?",
+        "choices": [
+            "A key that is artificially generated for convenience",
+            "A key based on a real-world, meaningful attribute",
+            "A key that is always numeric",
+            "A key generated by the database system"
+        ],
+        "answer": "A key based on a real-world, meaningful attribute"
+    },
+    {
+        "prompt": "What is the main difference between a natural key and a surrogate key?",
+        "choices": [
+            "Natural keys are created by users, while surrogate keys are created by the system",
+            "Natural keys have business meaning, while surrogate keys do not",
+            "Surrogate keys can be changed, but natural keys cannot",
+            "Natural keys are always numeric, while surrogate keys are alphanumeric"
+        ],
+        "answer": "Natural keys have business meaning, while surrogate keys do not"
+    },
+    {
+        "prompt": "When is it appropriate to use a surrogate key?",
+        "choices": [
+            "When the natural key is too long or complex",
+            "When the table does not have any candidate keys",
+            "When the primary key needs to be encrypted",
+            "When the database does not support composite keys"
+        ],
+        "answer": "When the natural key is too long or complex"
+    },
+    {
+        "prompt": "What is an attribute domain in the context of a database schema?",
+        "choices": [
+            "The range of values that a primary key can take",
+            "The total number of records in a table",
+            "The set of permissible values for an attribute",
+            "The physical storage space allocated for an attribute"
+        ],
+        "answer": "The set of permissible values for an attribute"
+    },
+    {
+        "prompt": "In the context of databases, what does 'normalization' primarily aim to achieve?",
+        "choices": [
+            "Simplifying the database design",
+            "Reducing data redundancy and improving data integrity",
+            "Increasing the speed of database queries",
+            "Encrypting sensitive data"
+        ],
+        "answer": "Reducing data redundancy and improving data integrity"
+    },
+    {
+        "prompt": "What is the purpose of defining a check constraint on an attribute in a database?",
+        "choices": [
+            "To ensure data integrity by limiting the values that can be stored in the attribute",
+            "To link the attribute to another table as a foreign key",
+            "To index the attribute for faster query performance",
+            "To encrypt the data stored in the attribute"
+        ],
+        "answer": "To ensure data integrity by limiting the values that can be stored in the attribute"
+    },
+    {
+        "prompt": "Why might a database designer choose to denormalize a database schema?",
+        "choices": [
+            "To improve query performance in certain situations",
+            "To increase data redundancy for backup purposes",
+            "To make the database schema easier to understand",
+            "To comply with data protection regulations"
+        ],
+        "answer": "To improve query performance in certain situations"
+    },
+    {
+        "prompt": "What is the impact of setting an attribute as 'not null' in a database table?",
+        "choices": [
+            "It becomes a primary key",
+            "It cannot store any numeric values",
+            "A value must be provided for this attribute in every record",
+            "It is automatically indexed for faster searches"
+        ],
+        "answer": "A value must be provided for this attribute in every record"
+    }
+],
+    "22 Lab4: SQL-commands": [
+    {
+        "prompt": "What SQL command is used to create a new database?",
+        "choices": ["CREATE DATABASE", "NEW DATABASE", "CREATE DB", "INITIALIZE DATABASE"],
+        "answer": "CREATE DATABASE"
+    },
+    {
+        "prompt": "In SQL, which command is used to create a new table?",
+        "choices": ["CREATE TABLE", "NEW TABLE", "MAKE TABLE", "BUILD TABLE"],
+        "answer": "CREATE TABLE"
+    },
+    {
+        "prompt": "How do you add a new row of data to an existing table in SQL?",
+        "choices": ["ADD DATA", "INSERT INTO", "UPDATE TABLE", "NEW ROW"],
+        "answer": "INSERT INTO"
+    },
+    {
+        "prompt": "Which SQL statement is used to remove a table and all its data from the database?",
+        "choices": ["REMOVE TABLE", "DELETE TABLE", "DROP TABLE", "CLEAR TABLE"],
+        "answer": "DROP TABLE"
+    },
+    {
+        "prompt": "In SQL, how do you select all columns from a table?",
+        "choices": ["SELECT *", "SELECT ALL", "SELECT EVERYTHING", "SELECT COLUMNS"],
+        "answer": "SELECT *"
+    },
+    {
+        "prompt": "Which SQL constraint ensures that no duplicate values are entered in a column?",
+        "choices": ["PRIMARY KEY", "UNIQUE", "CHECK", "FOREIGN KEY"],
+        "answer": "UNIQUE"
+    },
+    {
+        "prompt": "How is a foreign key defined in an SQL 'CREATE TABLE' command?",
+        "choices": ["FOREIGN KEY (column_name)", "REFERENCES (other_table)", "FOREIGN KEY REFERENCES (other_table)", "FOREIGN KEY (column_name) REFERENCES other_table(column_name)"],
+        "answer": "FOREIGN KEY (column_name) REFERENCES other_table(column_name)"
+    },
+    {
+        "prompt": "In SQL, which data type is most appropriate for storing a 100-character address?",
+        "choices": ["VARCHAR(100)", "TEXT", "STRING(100)", "CHAR(100)"],
+        "answer": "VARCHAR(100)"
+    },
+    {
+        "prompt": "What does the SQL 'ALTER TABLE' command do?",
+        "choices": ["Changes the data in a table", "Updates table relationships", "Modifies the structure of an existing table", "Alters the name of the table"],
+        "answer": "Modifies the structure of an existing table"
+    },
+    {
+        "prompt": "In SQL, how do you specify a column to hold date values?",
+        "choices": ["DATE", "DATETIME", "TIMESTAMP", "TIME"],
+        "answer": "DATE"
+    },
+    {
+        "prompt": "Which SQL statement is used to remove specific rows from a table?",
+        "choices": ["REMOVE", "DELETE", "DROP", "CLEAR"],
+        "answer": "DELETE"
+    },
+    {
+        "prompt": "What is the purpose of the 'WHERE' clause in SQL?",
+        "choices": ["To specify a condition for data manipulation", "To define a relationship between tables", "To list the tables in a database", "To set permissions for database users"],
+        "answer": "To specify a condition for data manipulation"
+    },
+    {
+        "prompt": "How do you create a column with an auto-incrementing integer in SQL?",
+        "choices": ["AUTO_INCREMENT", "INCREMENT", "AUTO_INCREASE", "AUTO_NUMBER"],
+        "answer": "AUTO_INCREMENT"
+    },
+    {
+        "prompt": "What is the correct SQL syntax to return only distinct (different) values?",
+        "choices": ["SELECT DISTINCT", "SELECT UNIQUE", "SELECT DIFFERENT", "SELECT VARIOUS"],
+        "answer": "SELECT DISTINCT"
+    },
+    {
+        "prompt": "Which clause is used in SQL to sort the result set?",
+        "choices": ["SORT BY", "ORDER BY", "ARRANGE BY", "GROUP BY"],
+        "answer": "ORDER BY"
+    },
+    {
+        "prompt": "What is the correct SQL syntax to update data in a database table?",
+        "choices": ["UPDATE tablename SET column1 = value1", "MODIFY tablename SET column1 = value1", "CHANGE tablename column1 TO value1", "EDIT tablename SET column1 = value1"],
+        "answer": "UPDATE tablename SET column1 = value1"
+    },
+    {
+        "prompt": "How do you select a subset of rows from a table in SQL using specific criteria?",
+        "choices": ["SELECT * WITH condition", "SELECT * WHERE condition", "SELECT * IF condition", "SELECT * FILTER BY condition"],
+        "answer": "SELECT * WHERE condition"
+    },
+    {
+        "prompt": "In SQL, how do you join two tables together using a common column?",
+        "choices": ["COMBINE", "LINK", "JOIN", "CONNECT"],
+        "answer": "JOIN"
+    },
+    {
+        "prompt": "What SQL clause is used to group rows that have the same values in specified columns?",
+        "choices": ["GROUP BY", "COLLECT BY", "ASSEMBLE BY", "CONGREGATE BY"],
+        "answer": "GROUP BY"
+    },
+    {
+        "prompt": "In SQL, which statement is used to add, delete, or modify columns in an existing table?",
+        "choices": ["MODIFY TABLE", "UPDATE TABLE", "CHANGE TABLE", "ALTER TABLE"],
+        "answer": "ALTER TABLE"
+    }
+]
+
+}

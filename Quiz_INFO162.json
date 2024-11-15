@@ -1,0 +1,1723 @@
+{
+  "1: NASA - TLX":
+  [
+      {
+        "prompt": "What does NASA-TLX stand for in the context of Human-Computer Interaction?",
+        "choices": ["National Aeronautics and Space Administration - Task Load Index", "New Advances in System Assessment - Task Load Examination", "Neural Adaptive System Analysis - Task Load Experiment", "None of the above"],
+        "answer": "National Aeronautics and Space Administration - Task Load Index"
+      },
+      {
+        "prompt": "How many dimensions are used to assess workload in the NASA-TLX?",
+        "choices": ["3", "5", "6", "7"],
+        "answer": "5"
+      },
+      {
+        "prompt": "Which of the following is NOT one of the six components used to assess workload in NASA-TLX?",
+        "choices": ["Mental Demand", "Physical Demand", "Perceived Usability", "Effort"],
+        "answer": "Perceived Usability"
+      },
+      {
+        "prompt": "How are the scores for each dimension in NASA-TLX typically recorded?",
+        "choices": ["On a scale from 1 to 10", "On a scale from 0 to 100", "On a scale from 0 to 20", "On a scale from -5 to 5"],
+        "answer": "On a scale from 0 to 20"
+      },
+      {
+        "prompt": "How is the overall workload score calculated in NASA-TLX?",
+        "choices": ["By averaging the scores of all dimensions", "By summing the scores of all dimensions", "By taking the maximum score among all dimensions", "By multiplying the scores of all dimensions"],
+        "answer": "By summing the scores of all dimensions"
+      },
+      {
+        "prompt": "In what context is NASA-TLX commonly used?",
+        "choices": ["Medical research", "Air traffic control", "Video game development", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "prompt": "How sensitive is NASA-TLX in detecting workload differences?",
+        "choices": ["Highly sensitive", "Moderately sensitive", "Not sensitive", "Sensitivity varies depending on the application"],
+        "answer": "Highly sensitive"
+      },
+      {
+        "prompt": "What is one limitation of NASA-TLX as a workload assessment tool?",
+        "choices": ["It is too easy to administer", "It relies solely on self-reporting", "It cannot measure cognitive workload", "It is limited to five dimensions"],
+        "answer": "It relies solely on self-reporting"
+      },
+      {
+        "prompt": "Can NASA-TLX be adapted for different applications and domains?",
+        "choices": ["No, it is specific to space missions", "Yes, it is adaptable to various domains", "Only if approved by NASA", "It cannot be adapted"],
+        "answer": "Yes, it is adaptable to various domains"
+      },
+      {
+        "prompt": "How can NASA-TLX scores be improved for a user interface?",
+        "choices": ["By increasing mental demand", "By reducing effort required", "By adding physical demand", "By ignoring user feedback"],
+        "answer": "By reducing effort required"
+      }
+    ],
+  "2: ISO-9241":
+  [
+    {
+      "prompt": "What is ISO-9241 in the context of Human-Computer Interaction?",
+      "choices": ["An international standard for web design", "A guideline for conducting user interviews", "A framework for usability testing", "An international standard for ergonomic design of computer systems"],
+      "answer": "An international standard for ergonomic design of computer systems"
+    },
+    {
+      "prompt": "Which organization is responsible for the development and maintenance of the ISO-9241 standard?",
+      "choices": ["World Health Organization (WHO)", "International Organization for Standardization (ISO)", "United Nations (UN)", "European Space Agency (ESA)"],
+      "answer": "International Organization for Standardization (ISO)"
+    },
+    {
+      "prompt": "What is the primary focus of ISO-9241?",
+      "choices": ["User interface aesthetics", "User interface responsiveness", "User experience design", "User-centered ergonomic design"],
+      "answer": "User-centered ergonomic design"
+    },
+    {
+      "prompt": "ISO-9241 provides guidelines for designing computer systems to enhance what aspect of the user experience?",
+      "choices": ["Visual appeal", "Speed of interaction", "Usability and user comfort", "Data security"],
+      "answer": "Usability and user comfort"
+    },
+    {
+      "prompt": "Which of the following is NOT one of the parts of ISO-9241?",
+      "choices": ["ISO 9241-1: Ergonomic requirements for office work with visual display terminals (VDTs)", "ISO 9241-10: Dialogue principles", "ISO 9241-50: User interface interaction with augmented reality (AR) systems", "ISO 9241-110: Dialogue management"],
+      "answer": "ISO 9241-50: User interface interaction with augmented reality (AR) systems"
+    },
+    {
+      "prompt": "What is the purpose of ISO-9241-10: Dialogue principles?",
+      "choices": ["To provide guidelines for designing virtual reality (VR) interfaces", "To establish principles for effective human-computer dialogue", "To define color standards for user interfaces", "To specify hardware requirements for computer systems"],
+      "answer": "To establish principles for effective human-computer dialogue"
+    },
+    {
+      "prompt": "Which ISO-9241 standard specifically focuses on the design of accessible software for people with disabilities?",
+      "choices": ["ISO 9241-20: Accessibility of human-computer interfaces", "ISO 9241-100: Guidelines for human-centered design", "ISO 9241-30: Interaction principles", "ISO 9241-150: Ergonomics of the thermal environment"],
+      "answer": "ISO 9241-20: Accessibility of human-computer interfaces"
+    },
+    {
+      "prompt": "ISO-9241 emphasizes the importance of involving users throughout which phase of the design process?",
+      "choices": ["Conceptual design", "Prototyping", "Testing and evaluation", "Implementation"],
+      "answer": "Testing and evaluation"
+    },
+    {
+      "prompt": "What role does ISO-9241 play in improving the quality of human-computer interaction?",
+      "choices": ["It provides guidelines for enhancing user creativity", "It defines standards for data encryption", "It establishes principles for user interface aesthetics", "It sets standards for ergonomic design to enhance usability"],
+      "answer": "It sets standards for ergonomic design to enhance usability"
+    },
+    {
+      "prompt": "Which of the following is a key benefit of adhering to ISO-9241 standards in HCI design?",
+      "choices": ["Reduced development time", "Increased marketing opportunities", "Enhanced user satisfaction and usability", "Higher software licensing fees"],
+      "answer": "Enhanced user satisfaction and usability"
+    }
+  ],
+  "3: Evaluation Methods":
+  [
+    {
+      "prompt": "Which evaluation method involves observing users as they interact with a system to identify usability issues?",
+      "choices": ["Heuristic Evaluation", "Cognitive Walkthrough", "Usability Testing", "Card Sorting"],
+      "answer": "Usability Testing"
+    },
+    {
+      "prompt": "What is the primary goal of a Cognitive Walkthrough?",
+      "choices": ["Identifying heuristic violations", "Assessing user satisfaction", "Evaluating system performance", "Understanding user thought processes"],
+      "answer": "Understanding user thought processes"
+    },
+    {
+      "prompt": "Which evaluation method involves experts evaluating a system against a set of usability heuristics?",
+      "choices": ["Heuristic Evaluation", "Field Studies", "Surveys", "Ethnographic Studies"],
+      "answer": "Heuristic Evaluation"
+    },
+    {
+      "prompt": "What type of data is typically collected in a usability study?",
+      "choices": ["Demographic information", "Quantitative performance metrics", "Audio recordings", "Historical data"],
+      "answer": "Quantitative performance metrics"
+    },
+    {
+      "prompt": "Which usability evaluation method relies on the creation of personas and scenarios?",
+      "choices": ["Card Sorting", "Contextual Inquiry", "Personas and Scenarios", "Usability Testing"],
+      "answer": "Personas and Scenarios"
+    },
+    {
+      "prompt": "In which usability evaluation method do users categorize items into groups based on similarity?",
+      "choices": ["Usability Testing", "Card Sorting", "Heuristic Evaluation", "Cognitive Walkthrough"],
+      "answer": "Card Sorting"
+    },
+    {
+      "prompt": "What is the main advantage of conducting a Field Study in HCI evaluation?",
+      "choices": ["Controlled environment", "Real-world context", "Quick results", "Quantitative data"],
+      "answer": "Real-world context"
+    },
+    {
+      "prompt": "Which evaluation method involves gathering data on user behavior in their natural environment?",
+      "choices": ["Heuristic Evaluation", "Usability Testing", "Field Studies", "Think-Aloud Protocol"],
+      "answer": "Field Studies"
+    },
+    {
+      "prompt": "Which evaluation method requires users to verbalize their thoughts while interacting with a system?",
+      "choices": ["Cognitive Walkthrough", "Think-Aloud Protocol", "Heuristic Evaluation", "Card Sorting"],
+      "answer": "Think-Aloud Protocol"
+    },
+    {
+      "prompt": "In which evaluation method do evaluators immerse themselves in the user's environment and workflow?",
+      "choices": ["Surveys", "Contextual Inquiry", "Heuristic Evaluation", "Usability Testing"],
+      "answer": "Contextual Inquiry"
+    },
+    {
+      "prompt": "Which evaluation method aims to assess the emotional response of users while interacting with a system?",
+      "choices": ["A/B Testing", "Emotional Usability Testing", "Heuristic Evaluation", "Cognitive Walkthrough"],
+      "answer": "Emotional Usability Testing"
+    },
+    {
+      "prompt": "What is a common metric used to measure the effectiveness of a usability test?",
+      "choices": ["Task success rate", "User satisfaction score", "System performance speed", "Task complexity rating"],
+      "answer": "Task success rate"
+    },
+    {
+      "prompt": "Which evaluation method involves comparing two or more versions of a system to determine which one performs better?",
+      "choices": ["Heuristic Evaluation", "Benchmark Testing", "Comparative Usability Testing", "Card Sorting"],
+      "answer": "Comparative Usability Testing"
+    },
+    {
+      "prompt": "Which usability evaluation method focuses on evaluating the efficiency and effectiveness of a system?",
+      "choices": ["A/B Testing", "Field Studies", "Heuristic Evaluation", "Think-Aloud Protocol"],
+      "answer": "A/B Testing"
+    },
+    {
+      "prompt": "What is the primary goal of a heuristic evaluation?",
+      "choices": ["Understanding user thought processes", "Identifying usability issues", "Measuring user satisfaction", "Creating user personas"],
+      "answer": "Identifying usability issues"
+    },
+    {
+      "prompt": "Which usability evaluation method is most appropriate for early-stage design and concept testing?",
+      "choices": ["A/B Testing", "Surveys", "Heuristic Evaluation", "Usability Testing"],
+      "answer": "Surveys"
+    },
+    {
+      "prompt": "In which usability evaluation method do users perform predefined tasks with the system?",
+      "choices": ["Think-Aloud Protocol", "Contextual Inquiry", "Emotional Usability Testing", "Card Sorting"],
+      "answer": "Think-Aloud Protocol"
+    },
+    {
+      "prompt": "Which evaluation method involves collecting feedback from users through a questionnaire or interview?",
+      "choices": ["Field Studies", "Heuristic Evaluation", "Cognitive Walkthrough", "Surveys"],
+      "answer": "Surveys"
+    },
+    {
+      "prompt": "What is the primary goal of a benchmark usability test?",
+      "choices": ["Evaluating a system against competitors", "Identifying heuristic violations", "Testing with a large user base", "Understanding user thought processes"],
+      "answer": "Evaluating a system against competitors"
+    }
+  ],
+  "4: WIMP":
+  [
+    {
+      "prompt": "What does the acronym WIMP stand for in the context of Human-Computer Interaction?",
+      "choices": ["Wireless Interaction and Menu Panels", "Windows, Icons, Menus, Pointer", "Web Interaction Model for Presentations", "Widget Interface and Mouse Pointing"],
+      "answer": "Windows, Icons, Menus, Pointer"
+    },
+    {
+      "prompt": "Which element of WIMP represents the graphical user interface's primary means of interaction with the user?",
+      "choices": ["Windows", "Icons", "Menus", "Pointer"],
+      "answer": "Pointer"
+    },
+    {
+      "prompt": "In the context of WIMP, what does the 'Windows' component refer to?",
+      "choices": ["Graphical representations of file directories", "The central processing unit (CPU)", "Graphical user interface elements that represent open applications or documents", "Navigational menus"],
+      "answer": "Graphical user interface elements that represent open applications or documents"
+    },
+    {
+      "prompt": "Which component of WIMP is used to represent files, folders, and applications as graphical symbols?",
+      "choices": ["Windows", "Icons", "Menus", "Pointer"],
+      "answer": "Icons"
+    },
+    {
+      "prompt": "What role do 'Menus' play in the WIMP interface paradigm?",
+      "choices": ["They represent open windows", "They provide a way to select actions and options", "They are a type of graphical window", "They are used for dragging and dropping"],
+      "answer": "They provide a way to select actions and options"
+    },
+    {
+      "prompt": "Which input device is commonly associated with the Pointer component in the WIMP paradigm?",
+      "choices": ["Keyboard", "Mouse", "Touchscreen", "Joystick"],
+      "answer": "Mouse"
+    },
+    {
+      "prompt": "What is the primary advantage of the WIMP interface paradigm in HCI?",
+      "choices": ["Highly efficient for touch-based devices", "Simplicity and familiarity for users", "Wide support for voice commands", "Optimal for immersive virtual reality (VR) applications"],
+      "answer": "Simplicity and familiarity for users"
+    },
+    {
+      "prompt": "Which graphical user interface (GUI) element represents individual software applications or documents in the Windows component of WIMP?",
+      "choices": ["Icons", "Menus", "Taskbars", "Toolbars"],
+      "answer": "Icons"
+    },
+    {
+      "prompt": "In the context of WIMP, what is the function of 'Dialog Boxes'?",
+      "choices": ["Displaying real-time weather information", "Providing context-sensitive help", "Requesting user input or confirmation", "Serving as navigation menus"],
+      "answer": "Requesting user input or confirmation"
+    },
+    {
+      "prompt": "Which WIMP component typically includes options like 'File,' 'Edit,' and 'View' in its interface?",
+      "choices": ["Icons", "Menus", "Windows", "Pointer"],
+      "answer": "Menus"
+    },
+    {
+      "prompt": "What is the primary purpose of the 'Taskbar' in the Windows component of the WIMP interface?",
+      "choices": ["Displaying system notifications", "Launching applications", "Managing open windows and applications", "Providing weather updates"],
+      "answer": "Managing open windows and applications"
+    },
+    {
+      "prompt": "In WIMP, which element is commonly used for navigating through hierarchical file systems and directories?",
+      "choices": ["Icons", "Menus", "Windows", "File Explorer"],
+      "answer": "File Explorer"
+    },
+    {
+      "prompt": "What is the function of the 'Maximize' button in a window's title bar within the WIMP interface?",
+      "choices": ["Minimizes the window", "Closes the window", "Restores the window to its previous size", "Enlarges the window to fill the screen"],
+      "answer": "Enlarges the window to fill the screen"
+    },
+    {
+      "prompt": "Which component of WIMP provides contextual options based on user actions or selections?",
+      "choices": ["Menus", "Windows", "Pointer", "Icons"],
+      "answer": "Menus"
+    },
+    {
+      "prompt": "What does the 'Minimize' action do to a window in the WIMP interface?",
+      "choices": ["Enlarges the window to fill the screen", "Closes the window", "Hides the window from view while keeping it in the taskbar", "Restores the window to its previous size"],
+      "answer": "Hides the window from view while keeping it in the taskbar"
+    },
+    {
+      "prompt": "Which WIMP component is responsible for indicating the current position and actions of the user?",
+      "choices": ["Pointer", "Windows", "Menus", "Icons"],
+      "answer": "Pointer"
+    },
+    {
+      "prompt": "What is the primary advantage of using WIMP interfaces in graphical user interfaces (GUIs)?",
+      "choices": ["Optimal for touch-based devices", "Enhanced support for voice commands", "Simplicity and familiarity for users", "Highly efficient for virtual reality (VR) applications"],
+      "answer": "Simplicity and familiarity for users"
+    },
+    {
+      "prompt": "Which WIMP component provides a visual representation of running applications and allows users to switch between them?",
+      "choices": ["Icons", "Taskbar", "Pointer", "Menus"],
+      "answer": "Taskbar"
+    },
+    {
+      "prompt": "What is the purpose of the 'Close' button in a window's title bar within the WIMP interface?",
+      "choices": ["Minimizes the window", "Closes the window", "Restores the window to its previous size", "Enlarges the window to fill the screen"],
+      "answer": "Closes the window"
+    },
+    {
+      "prompt": "Which WIMP component is primarily responsible for managing the arrangement and visibility of open applications?",
+      "choices": ["Taskbar", "Icons", "Pointer", "Menus"],
+      "answer": "Taskbar"
+    }
+  ],
+  "5: GOMS":
+  [
+    {
+      "prompt": "What does the acronym GOMS stand for in the context of Human-Computer Interaction?",
+      "choices": ["Graphical Output Management System", "Graphical Object Modeling System", "Goals, Operators, Methods, Selection Rules", "Group-oriented Modeling and Simulation"],
+      "answer": "Goals, Operators, Methods, Selection Rules"
+    },
+    {
+      "prompt": "Which of the following is a fundamental concept in the GOMS model?",
+      "choices": ["Drag and drop", "Usability testing", "Cognitive load", "Keystroke-level analysis"],
+      "answer": "Keystroke-level analysis"
+    },
+    {
+      "prompt": "What is the primary goal of GOMS analysis in HCI?",
+      "choices": ["To assess user satisfaction", "To optimize graphical user interfaces", "To predict user performance", "To design virtual reality environments"],
+      "answer": "To predict user performance"
+    },
+    {
+      "prompt": "In GOMS, what does 'Goals' refer to?",
+      "choices": ["Desired user actions and objectives", "Keyboard shortcuts", "Graphical interface elements", "Error messages"],
+      "answer": "Desired user actions and objectives"
+    },
+    {
+      "prompt": "Which component of the GOMS model represents the fundamental building blocks of user tasks?",
+      "choices": ["Goals", "Operators", "Methods", "Selection Rules"],
+      "answer": "Operators"
+    },
+    {
+      "prompt": "What is the purpose of 'Methods' in the GOMS model?",
+      "choices": ["To specify high-level user goals", "To define fundamental user actions", "To describe user interface aesthetics", "To determine system performance"],
+      "answer": "To define fundamental user actions"
+    },
+    {
+      "prompt": "In GOMS analysis, what are 'Operators'?",
+      "choices": ["Complex user tasks", "High-level goals", "Fundamental user actions", "System performance metrics"],
+      "answer": "Fundamental user actions"
+    },
+    {
+      "prompt": "Which GOMS component is responsible for specifying how users select between alternative methods for a task?",
+      "choices": ["Goals", "Operators", "Methods", "Selection Rules"],
+      "answer": "Selection Rules"
+    },
+    {
+      "prompt": "What is a common use of GOMS analysis in HCI design?",
+      "choices": ["Evaluating color schemes", "Assessing user satisfaction", "Predicting user task completion time", "Measuring cognitive load"],
+      "answer": "Predicting user task completion time"
+    },
+    {
+      "prompt": "Which GOMS component is used to describe how users achieve specific goals?",
+      "choices": ["Operators", "Methods", "Goals", "Selection Rules"],
+      "answer": "Methods"
+    },
+    {
+      "prompt": "What is 'Cognitive GOMS' in HCI?",
+      "choices": ["A variant of GOMS for visual design", "A method for predicting cognitive load", "An advanced GOMS analysis technique", "A GOMS component for setting user goals"],
+      "answer": "An advanced GOMS analysis technique"
+    },
+    {
+      "prompt": "In GOMS, what are 'Selection Rules' used for?",
+      "choices": ["Determining user satisfaction", "Selecting appropriate methods for a task", "Defining user interface aesthetics", "Measuring system performance"],
+      "answer": "Selecting appropriate methods for a task"
+    },
+    {
+      "prompt": "Which GOMS component is associated with estimating the number of operator executions required to complete a task?",
+      "choices": ["Goals", "Methods", "Selection Rules", "Keystroke-level analysis"],
+      "answer": "Keystroke-level analysis"
+    },
+    {
+      "prompt": "What is the primary advantage of using GOMS analysis in HCI design?",
+      "choices": ["Enhanced user satisfaction", "Optimized graphical user interfaces", "Predictive power for user performance", "Support for virtual reality applications"],
+      "answer": "Predictive power for user performance"
+    },
+    {
+      "prompt": "Which GOMS analysis technique focuses on modeling user memory and mental processes?",
+      "choices": ["Goals and objectives analysis", "Keystroke-level analysis", "Cognitive GOMS", "Usability testing"],
+      "answer": "Cognitive GOMS"
+    },
+    {
+      "prompt": "What is the main limitation of GOMS analysis in HCI?",
+      "choices": ["Inability to predict user performance", "Complexity and time-consuming nature", "Limited applicability to graphical interfaces", "Incompatibility with user-centered design"],
+      "answer": "Complexity and time-consuming nature"
+    },
+    {
+      "prompt": "Which GOMS analysis technique is suitable for modeling user interactions with graphical interfaces?",
+      "choices": ["Goals and objectives analysis", "Keystroke-level analysis", "Cognitive GOMS", "Heuristic evaluation"],
+      "answer": "Keystroke-level analysis"
+    },
+    {
+      "prompt": "What does 'Goals and Objectives Analysis' focus on in GOMS?",
+      "choices": ["Analyzing user satisfaction", "Predicting user performance", "Modeling user memory processes", "Defining system architecture"],
+      "answer": "Analyzing user satisfaction"
+    },
+    {
+      "prompt": "Which component of GOMS is used to specify high-level objectives that users aim to achieve?",
+      "choices": ["Methods", "Goals", "Operators", "Selection Rules"],
+      "answer": "Goals"
+    },
+    {
+      "prompt": "What is a common application of GOMS analysis in HCI?",
+      "choices": ["Evaluating physical hardware", "Assessing user satisfaction", "Predicting user task completion time", "Creating virtual reality environments"],
+      "answer": "Predicting user task completion time"
+    }
+  ],
+  "6: Keystroke Level Model":
+  [
+    {
+      "prompt": "What does the acronym KLM stand for in the context of Human-Computer Interaction?",
+      "choices": ["Keyboard Layout Model", "Keystroke-Level Model", "Key Logging Mechanism", "Keyboard Language Mapping"],
+      "answer": "Keystroke-Level Model"
+    },
+    {
+      "prompt": "What is the primary purpose of the Keystroke-Level Model (KLM) in HCI?",
+      "choices": ["Evaluating graphical user interfaces", "Predicting user satisfaction", "Estimating user task execution time", "Analyzing eye-tracking data"],
+      "answer": "Estimating user task execution time"
+    },
+    {
+      "prompt": "In KLM, what does the 'Keystroke' component represent?",
+      "choices": ["The time it takes to press a key", "The number of keys on a keyboard", "The layout of the keyboard", "The speed of typing"],
+      "answer": "The time it takes to press a key"
+    },
+    {
+      "prompt": "Which action in KLM represents the time it takes to press and release a mouse button?",
+      "choices": ["Point", "Click", "Double-Click", "Drag"],
+      "answer": "Click"
+    },
+    {
+      "prompt": "In the Keystroke-Level Model, what is the estimated time for pressing and releasing a mouse button during a 'Click' action?",
+      "choices": ["50 milliseconds", "100 milliseconds", "200 milliseconds", "300 milliseconds"],
+      "answer": "200 milliseconds"
+    },
+    {
+      "prompt": "What is the purpose of the 'Point' action in KLM?",
+      "choices": ["Moving the mouse cursor", "Pressing and releasing the mouse button", "Double-clicking the mouse button", "Dragging an object"],
+      "answer": "Moving the mouse cursor"
+    },
+    {
+      "prompt": "In the Keystroke-Level Model, what is the estimated time for pointing and clicking with the mouse during a 'Point-and-Click' action?",
+      "choices": ["50 milliseconds", "100 milliseconds", "200 milliseconds", "300 milliseconds"],
+      "answer": "300 milliseconds"
+    },
+    {
+      "prompt": "Which KLM action represents selecting an item from a menu or list?",
+      "choices": ["Menu", "Click", "Point", "Double-Click"],
+      "answer": "Menu"
+    },
+    {
+      "prompt": "In KLM, what is the estimated time for selecting an item from a menu or list during a 'Menu' action?",
+      "choices": ["50 milliseconds", "100 milliseconds", "200 milliseconds", "300 milliseconds"],
+      "answer": "200 milliseconds"
+    },
+    {
+      "prompt": "Which action in KLM represents typing a single alphanumeric character?",
+      "choices": ["Keystroke", "Point", "Menu", "Click"],
+      "answer": "Keystroke"
+    },
+    {
+      "prompt": "In KLM, what is the estimated time for typing a single alphanumeric character during a 'Keystroke' action?",
+      "choices": ["50 milliseconds", "100 milliseconds", "200 milliseconds", "300 milliseconds"],
+      "answer": "100 milliseconds"
+    },
+    {
+      "prompt": "What is the 'M' component in KLM used to represent?",
+      "choices": ["Mouse actions", "Movement actions", "Menu selections", "Meta-key presses"],
+      "answer": "Movement actions"
+    },
+    {
+      "prompt": "In KLM, what is the estimated time for moving the mouse cursor during a 'Movement' action?",
+      "choices": ["50 milliseconds", "100 milliseconds", "200 milliseconds", "300 milliseconds"],
+      "answer": "200 milliseconds"
+    },
+    {
+      "prompt": "Which KLM action represents the act of pressing and releasing a key combination, such as Ctrl+C for copy?",
+      "choices": ["Keystroke", "Menu", "Click", "Hold"],
+      "answer": "Keystroke"
+    },
+    {
+      "prompt": "In KLM, what is the estimated time for pressing and releasing a key combination during a 'Keystroke' action?",
+      "choices": ["50 milliseconds", "100 milliseconds", "200 milliseconds", "300 milliseconds"],
+      "answer": "200 milliseconds"
+    },
+    {
+      "prompt": "What is the purpose of the 'Double-Click' action in KLM?",
+      "choices": ["Moving the mouse cursor", "Pressing and releasing the mouse button twice quickly", "Typing two alphanumeric characters", "Selecting an item from a menu"],
+      "answer": "Pressing and releasing the mouse button twice quickly"
+    },
+    {
+      "prompt": "In KLM, what is the estimated time for double-clicking the mouse button during a 'Double-Click' action?",
+      "choices": ["50 milliseconds", "100 milliseconds", "200 milliseconds", "300 milliseconds"],
+      "answer": "400 milliseconds"
+    },
+    {
+      "prompt": "Which KLM action represents holding down a mouse button while moving the mouse?",
+      "choices": ["Click", "Point", "Drag", "Double-Click"],
+      "answer": "Drag"
+    },
+    {
+      "prompt": "In KLM, what is the estimated time for dragging an object during a 'Drag' action?",
+      "choices": ["50 milliseconds", "100 milliseconds", "200 milliseconds", "300 milliseconds"],
+      "answer": "1200 milliseconds"
+    },
+    {
+      "prompt": "What is the primary advantage of using the Keystroke-Level Model (KLM) in HCI design?",
+      "choices": ["Simplified user interfaces", "Predictive power for estimating task completion time", "Enhanced user satisfaction", "Support for virtual reality applications"],
+      "answer": "Predictive power for estimating task completion time"
+    }
+  ],
+  "7: Research paper wearable haptics":
+  [
+      {
+          "prompt": "What is the primary purpose of wearable haptics in HCI?",
+          "choices": ["To provide visual feedback", "To enhance sound quality", "To deliver tactile feedback", "To improve connectivity"],
+          "answer": "To deliver tactile feedback"
+      },
+      {
+          "prompt": "Which technology is commonly used in wearable haptics for tactile feedback?",
+          "choices": ["LED displays", "Vibration motors", "Infrared sensors", "Audio speakers"],
+          "answer": "Vibration motors"
+      },
+      {
+          "prompt": "In HCI, what is a key challenge of designing wearable haptic devices?",
+          "choices": ["Energy consumption", "Color accuracy", "Sound clarity", "Wireless range"],
+          "answer": "Energy consumption"
+      },
+      {
+          "prompt": "What is a common application of wearable haptics in virtual reality?",
+          "choices": ["Display enhancement", "Gesture recognition", "User tracking", "Tactile simulation"],
+          "answer": "Tactile simulation"
+      },
+      {
+          "prompt": "How do wearable haptic devices typically communicate with users?",
+          "choices": ["Through visual signals", "Via audio cues", "By tactile sensations", "Using olfactory output"],
+          "answer": "By tactile sensations"
+      },
+      {
+          "prompt": "What aspect of wearable haptics is crucial for user experience?",
+          "choices": ["Battery life", "Color scheme", "Texture", "Feedback intensity"],
+          "answer": "Feedback intensity"
+      },
+      {
+          "prompt": "Which of these is a key benefit of haptic feedback in wearable devices?",
+          "choices": ["Increased data storage", "Improved user engagement", "Enhanced audio feedback", "Longer battery life"],
+          "answer": "Improved user engagement"
+      },
+      {
+          "prompt": "In the context of HCI, what does 'immersion' refer to in wearable haptics?",
+          "choices": ["Device durability", "User experience depth", "Wireless connectivity", "Device flexibility"],
+          "answer": "User experience depth"
+      },
+      {
+          "prompt": "What kind of sensors are often used in wearable haptic devices?",
+          "choices": ["Humidity sensors", "Pressure sensors", "Light sensors", "Temperature sensors"],
+          "answer": "Pressure sensors"
+      },
+      {
+          "prompt": "Which material is commonly used in the construction of wearable haptic devices?",
+          "choices": ["Glass", "Wood", "Plastic", "Soft robotics materials"],
+          "answer": "Soft robotics materials"
+      },
+      {
+          "prompt": "How does haptic technology benefit users with visual impairments?",
+          "choices": ["By enhancing audio feedback", "By providing tactile navigation cues", "By improving screen readability", "By increasing device portability"],
+          "answer": "By providing tactile navigation cues"
+      },
+      {
+          "prompt": "What is a significant design consideration for wearable haptic devices?",
+          "choices": ["Aesthetic appearance", "Device weight", "Screen size", "Color variety"],
+          "answer": "Device weight"
+      },
+      {
+          "prompt": "In what way is haptic feedback used in healthcare applications?",
+          "choices": ["Patient data tracking", "Rehabilitation therapy", "Online consultation", "Medical record storage"],
+          "answer": "Rehabilitation therapy"
+      },
+      {
+          "prompt": "Which field has seen increased use of wearable haptics for training purposes?",
+          "choices": ["Education", "Automotive", "Military", "Fashion design"],
+          "answer": "Military"
+      },
+      {
+          "prompt": "What feature of haptic devices is important for conveying nuanced feedback?",
+          "choices": ["Color display", "Vibration intensity variation", "Battery capacity", "Audio quality"],
+          "answer": "Vibration intensity variation"
+      },
+      {
+          "prompt": "How do wearable haptic devices improve user interaction in augmented reality?",
+          "choices": ["By providing 3D visualizations", "Through tactile feedback corresponding to virtual objects", "By enhancing voice control", "Through facial recognition technology"],
+          "answer": "Through tactile feedback corresponding to virtual objects"
+      },
+      {
+          "prompt": "What is a potential drawback of using haptic technology in wearable devices?",
+          "choices": ["Decreased device durability", "Increased cognitive load", "Reduced screen size", "Compromised audio feedback"],
+          "answer": "Increased cognitive load"
+      },
+      {
+          "prompt": "Which feature is crucial for the integration of haptic devices in smart clothing?",
+          "choices": ["Flexibility", "Water resistance", "Color changing ability", "Solar charging"],
+          "answer": "Flexibility"
+      },
+      {
+          "prompt": "What is an ergonomic consideration in designing wearable haptic devices?",
+          "choices": ["Brightness adjustment", "User comfort and fit", "Screen resolution", "Audio volume control"],
+          "answer": "User comfort and fit"
+      },
+      {
+          "prompt": "Which technology trend is influencing the development of wearable haptic devices?",
+          "choices": ["Blockchain", "Internet of Things (IoT)", "Quantum computing", "Artificial intelligence"],
+          "answer": "Internet of Things (IoT)"
+      }
+  ],
+  "8: Fitts' Law":
+  [
+    {
+      "prompt": "Fitts' Law describes the relationship between what two factors in human-computer interaction?",
+      "choices": ["Keyboard shortcuts and mouse clicks", "Cursor speed and screen size", "Movement time and target size", "Font size and reading speed"],
+      "answer": "Movement time and target size"
+    },
+    {
+      "prompt": "In Fitts' Law, what does 'Movement Time' represent?",
+      "choices": ["The time it takes to click a button", "The speed of cursor movement", "The time taken to move between two targets", "The duration of a keystroke"],
+      "answer": "The time taken to move between two targets"
+    },
+    {
+      "prompt": "What does the 'Index of Difficulty' (ID) in Fitts' Law measure?",
+      "choices": ["The complexity of the task", "The number of steps required to complete a task", "The time it takes to complete a task", "The ease of selecting a target"],
+      "answer": "The ease of selecting a target"
+    },
+    {
+      "prompt": "According to Fitts' Law, as the size of the target increases, what happens to the difficulty of the task?",
+      "choices": ["It becomes easier", "It becomes more complex", "It has no effect", "It depends on cursor speed"],
+      "answer": "It becomes easier"
+    },
+    {
+      "prompt": "In Fitts' Law, what is the 'Index of Performance' (IP) used to measure?",
+      "choices": ["The speed of cursor movement", "The accuracy of mouse clicks", "The efficiency of keyboard shortcuts", "The effectiveness of visual feedback"],
+      "answer": "The speed of cursor movement"
+    },
+    {
+      "prompt": "Fitts' Law is often used to study the effectiveness of what type of input device in HCI?",
+      "choices": ["Touchscreens", "Trackballs", "Joysticks", "Mouse and touchpad"],
+      "answer": "Mouse and touchpad"
+    },
+    {
+      "prompt": "What is the significance of the 'A' and 'W' in the Fitts' Law formula (ID = log2(2A/W))?",
+      "choices": ["They represent user attention and workload", "They are constants in the formula", "They denote the target's amplitude and width", "They indicate angular and width factors"],
+      "answer": "They denote the target's amplitude and width"
+    },
+    {
+      "prompt": "According to Fitts' Law, if the target width is increased while keeping the distance the same, what effect does it have on the task's difficulty?",
+      "choices": ["It becomes easier", "It becomes more complex", "It has no effect", "It depends on cursor speed"],
+      "answer": "It becomes easier"
+    },
+    {
+      "prompt": "What does Fitts' Law suggest about the relationship between target distance and task difficulty?",
+      "choices": ["The closer the target, the easier the task", "The farther the target, the easier the task", "Target distance does not affect task difficulty", "The task difficulty is inversely proportional to the square of the distance"],
+      "answer": "The farther the target, the easier the task"
+    },
+    {
+      "prompt": "In Fitts' Law, what does 'Amplitude' (A) refer to?",
+      "choices": ["The target size", "The distance between targets", "The speed of cursor movement", "The complexity of the task"],
+      "answer": "The distance between targets"
+    },
+    {
+      "prompt": "Fitts' Law is commonly used to evaluate and design interfaces for what type of devices?",
+      "choices": ["Printers", "Scanners", "Mobile phones", "Pointing devices"],
+      "answer": "Pointing devices"
+    },
+    {
+      "prompt": "Which term represents the speed-accuracy trade-off in Fitts' Law?",
+      "choices": ["Amplitude", "Index of Performance", "Index of Difficulty", "Throughput"],
+      "answer": "Index of Performance"
+    },
+    {
+      "prompt": "What is the primary application of Fitts' Law in HCI design?",
+      "choices": ["Enhancing user aesthetics", "Optimizing visual design", "Predicting user preferences", "Improving pointing device and interface design"],
+      "answer": "Improving pointing device and interface design"
+    },
+    {
+      "prompt": "According to Fitts' Law, what happens to the task difficulty as the Index of Difficulty (ID) increases?",
+      "choices": ["The task becomes easier", "The task becomes more complex", "The task remains the same", "The task depends on cursor speed"],
+      "answer": "The task becomes more complex"
+    },
+    {
+      "prompt": "What does the Fitts' Law formula (ID = log2(2A/W)) describe?",
+      "choices": ["The time it takes to complete a task", "The relationship between target size and distance", "The speed of cursor movement", "The ease of selecting a target"],
+      "answer": "The relationship between target size and distance"
+    },
+    {
+      "prompt": "In Fitts' Law, what is 'Throughput' a measure of?",
+      "choices": ["User satisfaction", "Task complexity", "Performance efficiency", "System latency"],
+      "answer": "Performance efficiency"
+    },
+    {
+      "prompt": "What does Fitts' Law suggest about the difficulty of tasks as the Index of Performance (IP) increases?",
+      "choices": ["Tasks become easier", "Tasks become more complex", "Tasks remain constant", "Tasks become less efficient"],
+      "answer": "Tasks become easier"
+    },
+    {
+      "prompt": "Fitts' Law is often used to analyze and optimize the design of what type of user interactions?",
+      "choices": ["Text input", "Audio output", "Gesture recognition", "Pointing and selection"],
+      "answer": "Pointing and selection"
+    },
+    {
+      "prompt": "What does 'W' represent in the Fitts' Law formula (ID = log2(2A/W))?",
+      "choices": ["Target size", "Task distance", "User's workload", "Cursor speed"],
+      "answer": "Target size"
+    }
+  ],
+  "9: Nielsens Usability Heuristics":
+  [
+    {
+      "prompt": "Who developed the '10 Usability Heuristics for User Interface Design' widely used in HCI?",
+      "choices": ["Alan Cooper", "Don Norman", "Jakob Nielsen", "Brenda Laurel"],
+      "answer": "Jakob Nielsen"
+    },
+    {
+      "prompt": "Which usability heuristic suggests that the system should provide clear and concise feedback to users about the result of their actions?",
+      "choices": ["Visibility of system status", "Match between system and the real world", "User control and freedom", "Consistency and standards"],
+      "answer": "Visibility of system status"
+    },
+    {
+      "prompt": "What does the heuristic 'Match between system and the real world' emphasize?",
+      "choices": ["Ensuring that the system is aesthetically pleasing", "Making the system behave consistently with user expectations", "Providing users with control and freedom", "Using standard design patterns"],
+      "answer": "Making the system behave consistently with user expectations"
+    },
+    {
+      "prompt": "Which usability heuristic encourages providing users with the ability to undo or redo actions to recover from errors?",
+      "choices": ["Visibility of system status", "Match between system and the real world", "User control and freedom", "Consistency and standards"],
+      "answer": "User control and freedom"
+    },
+    {
+      "prompt": "The heuristic 'Consistency and standards' suggests that...",
+      "choices": ["The system should follow industry conventions", "User interfaces should always be unique", "Consistency is not important in design", "Standards should be avoided"],
+      "answer": "The system should follow industry conventions"
+    },
+    {
+      "prompt": "Which usability heuristic advises that users should not be exposed to unnecessary information or options?",
+      "choices": ["Recognition rather than recall", "Error prevention", "Flexibility and efficiency of use", "Simplicity and clarity"],
+      "answer": "Simplicity and clarity"
+    },
+    {
+      "prompt": "What does the heuristic 'Recognition rather than recall' emphasize?",
+      "choices": ["Reducing the need for users to remember information", "Minimizing cognitive load", "Providing clear feedback", "Allowing users to customize their experience"],
+      "answer": "Reducing the need for users to remember information"
+    },
+    {
+      "prompt": "Which usability heuristic suggests that the system should prevent errors whenever possible?",
+      "choices": ["Error prevention", "Match between system and the real world", "Visibility of system status", "User control and freedom"],
+      "answer": "Error prevention"
+    },
+    {
+      "prompt": "The heuristic 'Flexibility and efficiency of use' encourages designers to...",
+      "choices": ["Ignore user feedback", "Prioritize aesthetics over functionality", "Provide shortcuts for expert users", "Limit customization options"],
+      "answer": "Provide shortcuts for expert users"
+    },
+    {
+      "prompt": "Which usability heuristic advises that the system should offer multiple ways to accomplish tasks to cater to different user preferences?",
+      "choices": ["Recognition rather than recall", "Flexibility and efficiency of use", "Error prevention", "Consistency and standards"],
+      "answer": "Flexibility and efficiency of use"
+    },
+    {
+      "prompt": "The heuristic 'Help users recognize, diagnose, and recover from errors' suggests that...",
+      "choices": ["Errors should not be addressed in the design", "Users should never encounter errors", "Error messages and guidance should be provided when errors occur", "Errors should be ignored"],
+      "answer": "Error messages and guidance should be provided when errors occur"
+    },
+    {
+      "prompt": "Which usability heuristic advises that the system should provide a clear and intuitive structure and organization?",
+      "choices": ["Match between system and the real world", "Simplicity and clarity", "Visibility of system status", "User control and freedom"],
+      "answer": "Simplicity and clarity"
+    },
+    {
+      "prompt": "What does the heuristic 'Aesthetic and minimalist design' emphasize?",
+      "choices": ["Making the interface visually appealing", "Maximizing complexity and features", "Using complex icons", "Avoiding user customization"],
+      "answer": "Making the interface visually appealing"
+    },
+    {
+      "prompt": "Which usability heuristic suggests that the system should inform users about the current state and progress of their tasks?",
+      "choices": ["Visibility of system status", "Match between system and the real world", "User control and freedom", "Error prevention"],
+      "answer": "Visibility of system status"
+    },
+    {
+      "prompt": "The heuristic 'Help and documentation' advises that...",
+      "choices": ["User manuals should be avoided", "Users should never need help", "Context-sensitive help and documentation should be available", "Help should only be provided by customer support"],
+      "answer": "Context-sensitive help and documentation should be available"
+    },
+    {
+      "prompt": "Which usability heuristic suggests that the system should offer shortcuts for frequently performed actions?",
+      "choices": ["Flexibility and efficiency of use", "Recognition rather than recall", "User control and freedom", "Error prevention"],
+      "answer": "Flexibility and efficiency of use"
+    },
+    {
+      "prompt": "The heuristic 'Recognition rather than recall' is related to the principle that...",
+      "choices": ["Users should always be tested", "Users should not have to remember information from one part of the interface to another", "Users should recall information from previous sessions", "Users should recall information from external sources"],
+      "answer": "Users should not have to remember information from one part of the interface to another"
+    },
+    {
+      "prompt": "Which usability heuristic suggests that the system should prevent users from making mistakes by providing clear instructions and constraints?",
+      "choices": ["Error prevention", "Match between system and the real world", "Visibility of system status", "User control and freedom"],
+      "answer": "Error prevention"
+    },
+    {
+      "prompt": "The heuristic 'Consistency and standards' emphasizes...",
+      "choices": ["The uniqueness of the system", "Following established design conventions", "Avoiding any form of change", "Creating custom standards for each project"],
+      "answer": "Following established design conventions"
+    },
+    {
+      "prompt": "Which usability heuristic advises that user interfaces should be designed for both novice and expert users?",
+      "choices": ["Flexibility and efficiency of use", "Simplicity and clarity", "Visibility of system status", "Recognition rather than recall"],
+      "answer": "Flexibility and efficiency of use"
+    }
+  ],
+  "10: Experimental variables":
+  [
+    {
+      "prompt": "What is the independent variable in an HCI experiment?",
+      "choices": ["The variable that is measured or observed", "The variable that is manipulated or controlled by the experimenter", "The outcome or result of the experiment", "The variable that is affected by the dependent variable"],
+      "answer": "The variable that is manipulated or controlled by the experimenter"
+    },
+    {
+      "prompt": "Which of the following is an example of a dependent variable in an HCI experiment?",
+      "choices": ["The type of computer used by participants", "The duration of task completion", "The gender of the participants", "The instructions given to participants"],
+      "answer": "The duration of task completion"
+    },
+    {
+      "prompt": "In an HCI experiment comparing two user interfaces, the type of user interface (A or B) is an example of which variable?",
+      "choices": ["Dependent variable", "Confounding variable", "Independent variable", "Control variable"],
+      "answer": "Independent variable"
+    },
+    {
+      "prompt": "What is a confounding variable in an HCI experiment?",
+      "choices": ["A variable that is manipulated by the experimenter", "A variable that affects the dependent variable and is not controlled for", "The variable that is measured or observed", "A variable that is controlled for in the experiment"],
+      "answer": "A variable that affects the dependent variable and is not controlled for"
+    },
+    {
+      "prompt": "In an HCI study measuring user satisfaction with two different software interfaces, what could be a potential confounding variable?",
+      "choices": ["The gender of the participants", "The color scheme of the interfaces", "The order in which participants use the interfaces", "The age of the participants"],
+      "answer": "The order in which participants use the interfaces"
+    },
+    {
+      "prompt": "What is a control variable in an HCI experiment?",
+      "choices": ["A variable that is manipulated by the experimenter", "A variable that affects the dependent variable and is not controlled for", "A variable that is measured or observed", "A variable that is kept constant to eliminate its influence on the dependent variable"],
+      "answer": "A variable that is kept constant to eliminate its influence on the dependent variable"
+    },
+    {
+      "prompt": "In an HCI experiment studying the impact of screen brightness on user fatigue, the ambient lighting conditions in the room should be controlled as a:",
+      "choices": ["Dependent variable", "Confounding variable", "Independent variable", "Control variable"],
+      "answer": "Control variable"
+    },
+    {
+      "prompt": "What is the purpose of randomization in experimental design in HCI?",
+      "choices": ["To ensure that all participants are of the same age", "To introduce confounding variables", "To minimize the influence of extraneous variables and distribute them equally across conditions", "To manipulate the independent variable"],
+      "answer": "To minimize the influence of extraneous variables and distribute them equally across conditions"
+    },
+    {
+      "prompt": "In an HCI experiment measuring the effect of font size on reading speed, font size is the:",
+      "choices": ["Dependent variable", "Confounding variable", "Independent variable", "Control variable"],
+      "answer": "Independent variable"
+    },
+    {
+      "prompt": "What is the purpose of blinding or masking in HCI experiments?",
+      "choices": ["To manipulate the independent variable", "To prevent participants from using computers", "To prevent bias by keeping participants unaware of which condition they are in", "To introduce confounding variables"],
+      "answer": "To prevent bias by keeping participants unaware of which condition they are in"
+    },
+    {
+      "prompt": "In an HCI experiment evaluating the impact of keyboard layout on typing speed, typing speed is the:",
+      "choices": ["Dependent variable", "Confounding variable", "Independent variable", "Control variable"],
+      "answer": "Dependent variable"
+    },
+    {
+      "prompt": "What is the purpose of counterbalancing in HCI experiments?",
+      "choices": ["To introduce bias into the study", "To ensure that participants are the same age", "To manipulate the independent variable", "To distribute order effects equally across participants"],
+      "answer": "To distribute order effects equally across participants"
+    },
+    {
+      "prompt": "In an HCI experiment assessing the effect of website design on user engagement, website design is the:",
+      "choices": ["Dependent variable", "Confounding variable", "Independent variable", "Control variable"],
+      "answer": "Independent variable"
+    },
+    {
+      "prompt": "What is the purpose of a pilot study in HCI research?",
+      "choices": ["To manipulate the independent variable", "To test the usability of a system", "To introduce confounding variables", "To assess the feasibility of the research"],
+      "answer": "To assess the feasibility of the research"
+    },
+    {
+      "prompt": "In an HCI experiment evaluating the effect of mouse sensitivity on pointing accuracy, what could be a control variable?",
+      "choices": ["The type of mouse used", "The age of the participants", "The order in which participants use the mice", "The gender of the participants"],
+      "answer": "The type of mouse used"
+    },
+    {
+      "prompt": "What is the primary purpose of a placebo condition in HCI experiments?",
+      "choices": ["To manipulate the independent variable", "To provide a control group", "To introduce bias", "To control for the placebo effect"],
+      "answer": "To control for the placebo effect"
+    },
+    {
+      "prompt": "In an HCI experiment studying the effect of background music on task performance, background music is the:",
+      "choices": ["Dependent variable", "Confounding variable", "Independent variable", "Control variable"],
+      "answer": "Independent variable"
+    },
+    {
+      "prompt": "What is the role of informed consent in HCI experiments?",
+      "choices": ["To manipulate the independent variable", "To ensure participants are not informed about the study", "To provide a description of the study and obtain participants' voluntary agreement to participate", "To introduce confounding variables"],
+      "answer": "To provide a description of the study and obtain participants' voluntary agreement to participate"
+    },
+    {
+      "prompt": "In an HCI experiment assessing the effect of menu organization on user navigation speed, menu organization is the:",
+      "choices": ["Dependent variable", "Confounding variable", "Independent variable", "Control variable"],
+      "answer": "Independent variable"
+    }
+  ],
+  "11: AR":
+  [
+    {
+      "prompt": "What is Augmented Reality (AR) in the context of HCI?",
+      "choices": ["A technology that enhances the physical world with digital information", "A virtual reality experience with no connection to the real world", "A type of holographic display", "A form of video game"],
+      "answer": "A technology that enhances the physical world with digital information"
+    },
+    {
+      "prompt": "Which of the following is a key characteristic of AR in HCI?",
+      "choices": ["Complete isolation from the real world", "Enhancement of the real world with virtual elements", "Creation of entirely virtual environments", "Use of physical controllers only"],
+      "answer": "Enhancement of the real world with virtual elements"
+    },
+    {
+      "prompt": "In AR, what is the term for digital information or virtual objects overlaid onto the real world?",
+      "choices": ["Augmentations", "Virtual reality", "Holograms", "Simulations"],
+      "answer": "Augmentations"
+    },
+    {
+      "prompt": "Which sense(s) does AR primarily engage in the HCI experience?",
+      "choices": ["Sight and sound", "Touch and taste", "Smell and hearing", "Taste and sight"],
+      "answer": "Sight and sound"
+    },
+    {
+      "prompt": "What is the primary difference between AR and Virtual Reality (VR) in HCI?",
+      "choices": ["AR is completely immersive, while VR is not", "AR enhances the real world, while VR creates entirely virtual environments", "AR is only used for gaming, while VR has broader applications", "AR does not require any specialized hardware"],
+      "answer": "AR enhances the real world, while VR creates entirely virtual environments"
+    },
+    {
+      "prompt": "Which device is commonly used for AR experiences in HCI?",
+      "choices": ["Desktop computer", "Smartphone or tablet", "Traditional television", "Voice-controlled speaker"],
+      "answer": "Smartphone or tablet"
+    },
+    {
+      "prompt": "What does the term 'marker-based AR' refer to in HCI?",
+      "choices": ["AR experiences that require special markers or images to trigger virtual content", "AR experiences that use hand gestures for control", "AR experiences that rely on voice commands", "AR experiences that are purely audio-based"],
+      "answer": "AR experiences that require special markers or images to trigger virtual content"
+    },
+    {
+      "prompt": "Which of the following is an example of a marker used in marker-based AR?",
+      "choices": ["A physical controller", "A printed QR code", "A VR headset", "A traditional computer mouse"],
+      "answer": "A printed QR code"
+    },
+    {
+      "prompt": "What is the primary challenge in markerless AR tracking in HCI?",
+      "choices": ["Lack of available markers", "Difficulty in printing markers", "Tracking objects in real-time without predefined markers", "Incompatibility with smartphones"],
+      "answer": "Tracking objects in real-time without predefined markers"
+    },
+    {
+      "prompt": "Which technology is often used for positional tracking in AR devices?",
+      "choices": ["GPS (Global Positioning System)", "Accelerometer", "Barometer", "Radio waves"],
+      "answer": "Accelerometer"
+    },
+    {
+      "prompt": "What is 'SLAM' in the context of AR in HCI?",
+      "choices": ["A popular dance style", "Simulated Learning and Adaptation Mechanism", "Simultaneous Localization and Mapping", "Software for Large-scale Augmented Modeling"],
+      "answer": "Simultaneous Localization and Mapping"
+    },
+    {
+      "prompt": "What is the primary benefit of SLAM in AR?",
+      "choices": ["Creating virtual reality environments", "Enhancing audio experiences", "Enabling precise tracking and mapping of physical environments", "Generating holographic displays"],
+      "answer": "Enabling precise tracking and mapping of physical environments"
+    },
+    {
+      "prompt": "Which of the following is an example of a popular AR application in HCI?",
+      "choices": ["Virtual reality gaming", "Social media filters and effects", "Traditional video conferencing", "E-book reading"],
+      "answer": "Social media filters and effects"
+    },
+    {
+      "prompt": "What is 'head-up display' (HUD) in AR?",
+      "choices": ["A type of virtual reality headset", "A display technology for traditional monitors", "A transparent display that overlays digital information onto the user's field of view", "A type of game controller"],
+      "answer": "A transparent display that overlays digital information onto the user's field of view"
+    },
+    {
+      "prompt": "What is the term for the interaction techniques used in AR to manipulate virtual objects in the real world?",
+      "choices": ["Holography", "Gestural interfaces", "Audio feedback", "Teleportation"],
+      "answer": "Gestural interfaces"
+    },
+    {
+      "prompt": "Which of the following is a common gesture used in AR for object manipulation?",
+      "choices": ["Pointing with a finger", "Clapping hands", "Jumping", "Whistling"],
+      "answer": "Pointing with a finger"
+    },
+    {
+      "prompt": "What is 'AR cloud' in the context of AR in HCI?",
+      "choices": ["A meteorological phenomenon", "A cloud computing platform for AR applications", "A type of wearable AR device", "A type of AR headset"],
+      "answer": "A cloud computing platform for AR applications"
+    },
+    {
+      "prompt": "What is the primary role of the AR cloud in HCI?",
+      "choices": ["Storing personal data", "Providing weather forecasts", "Enabling real-time sharing and synchronization of AR experiences across devices and users", "Rendering virtual environments"],
+      "answer": "Enabling real-time sharing and synchronization of AR experiences across devices and users"
+    },
+    {
+      "prompt": "In AR, what is the term for the blending of real and virtual elements to create a seamless user experience?",
+      "choices": ["Augmented reality", "Mixed reality", "Virtual reality", "Alternate reality"],
+      "answer": "Mixed reality"
+    }
+  ],
+  "12: VR":
+  [
+      {
+        "prompt": "What is Virtual Reality (VR) in the context of HCI?",
+        "choices": ["A technology that enhances the physical world with digital information", "A virtual experience with no connection to the real world", "A type of augmented reality", "A form of video conferencing"],
+        "answer": "A virtual experience with no connection to the real world"
+      },
+      {
+        "prompt": "Which of the following is a key characteristic of VR in HCI?",
+        "choices": ["Enhancement of the real world with virtual elements", "Creation of entirely virtual environments", "Use of physical controllers only", "Engagement of taste and smell senses"],
+        "answer": "Creation of entirely virtual environments"
+      },
+      {
+        "prompt": "In VR, what is the term for the computer-generated environment that users can interact with?",
+        "choices": ["Simulated world", "Virtual realm", "Digital space", "Immersive interface"],
+        "answer": "Simulated world"
+      },
+      {
+        "prompt": "Which sense(s) does VR primarily engage in the HCI experience?",
+        "choices": ["Sight and sound", "Touch and taste", "Smell and hearing", "Taste and sight"],
+        "answer": "Sight and sound"
+      },
+      {
+        "prompt": "What is the primary difference between VR and Augmented Reality (AR) in HCI?",
+        "choices": ["VR enhances the real world, while AR creates entirely virtual environments", "VR is only used for gaming, while AR has broader applications", "VR is completely immersive, while AR is not", "VR does not require any specialized hardware"],
+        "answer": "VR is completely immersive, while AR is not"
+      },
+      {
+        "prompt": "Which device is commonly used for VR experiences in HCI?",
+        "choices": ["Desktop computer", "Smartphone or tablet", "Traditional television", "Voice-controlled speaker"],
+        "answer": "Desktop computer"
+      },
+      {
+        "prompt": "What is the term for the specialized headset used in VR experiences?",
+        "choices": ["Display goggles", "Video glasses", "Holographic helmet", "Head-mounted display (HMD)"],
+        "answer": "Head-mounted display (HMD)"
+      },
+      {
+        "prompt": "Which of the following is a key challenge in VR design for HCI?",
+        "choices": ["Ensuring real-world interactions are preserved", "Maximizing taste and smell sensations", "Simplifying user interfaces", "Avoiding 3D graphics"],
+        "answer": "Ensuring real-world interactions are preserved"
+      },
+      {
+        "prompt": "What is the primary benefit of using VR in HCI?",
+        "choices": ["Enhancing real-world experiences", "Reducing user engagement", "Limiting creativity", "Creating entirely immersive virtual environments"],
+        "answer": "Creating entirely immersive virtual environments"
+      },
+      {
+        "prompt": "Which of the following is an example of a popular VR application in HCI?",
+        "choices": ["Social media filters and effects", "E-book reading", "Traditional video conferencing", "Virtual reality gaming"],
+        "answer": "Virtual reality gaming"
+      },
+      {
+        "prompt": "What is 'telepresence' in the context of VR in HCI?",
+        "choices": ["The ability to remotely control physical robots using VR", "The sense of being present in a virtual environment as if it were real", "A type of 2D video conferencing", "A method for browsing the web in VR"],
+        "answer": "The sense of being present in a virtual environment as if it were real"
+      },
+      {
+        "prompt": "What is 'room-scale VR' in HCI?",
+        "choices": ["A type of VR headset", "The practice of designing VR experiences for small rooms", "A VR experience that covers a large physical space", "A technique for haptic feedback in VR"],
+        "answer": "A VR experience that covers a large physical space"
+      },
+      {
+        "prompt": "Which technology is often used for tracking the user's position in room-scale VR?",
+        "choices": ["Barometer", "Accelerometer", "GPS (Global Positioning System)", "Laser tracking"],
+        "answer": "Laser tracking"
+      },
+      {
+        "prompt": "What is 'motion sickness' in the context of VR in HCI?",
+        "choices": ["A positive feeling experienced in VR", "A type of VR headset", "A discomfort or nausea caused by the disconnect between visual and physical motion cues in VR", "A type of VR controller"],
+        "answer": "A discomfort or nausea caused by the disconnect between visual and physical motion cues in VR"
+      },
+      {
+        "prompt": "Which of the following is an example of a common input device used in VR?",
+        "choices": ["Keyboard and mouse", "Touchscreen", "Joystick", "Motion controllers"],
+        "answer": "Motion controllers"
+      },
+      {
+        "prompt": "What is 'VR locomotion' in HCI?",
+        "choices": ["A type of 3D modeling technique", "The ability to teleport in VR", "Methods used to navigate and move within virtual environments in VR", "A form of virtual reality gaming"],
+        "answer": "Methods used to navigate and move within virtual environments in VR"
+      },
+      {
+        "prompt": "In VR, what is the term for the user's physical movements being translated into the virtual environment?",
+        "choices": ["Teleportation", "Tethering", "Tracking", "Simulation"],
+        "answer": "Tracking"
+      },
+      {
+        "prompt": "What is 'presence' in the context of VR in HCI?",
+        "choices": ["The act of physically being present in a virtual environment", "The sense of being present in a virtual environment as if it were real", "A type of VR headset", "A form of virtual reality gaming"],
+        "answer": "The sense of being present in a virtual environment as if it were real"
+      },
+      {
+        "prompt": "Which of the following is an example of a VR technology that provides tactile feedback in HCI?",
+        "choices": ["Gaze tracking", "Haptic gloves", "Barometric pressure sensors", "Temperature sensors"],
+        "answer": "Haptic gloves"
+      }
+    ],
+  "13: Cognitive walkthrough":
+  [
+    {
+      "prompt": "What is a Cognitive Walkthrough in HCI?",
+      "choices": ["A physical walk in a park", "A type of usability test", "A type of eye-tracking study", "A cognitive psychology experiment"],
+      "answer": "A type of usability test"
+    },
+    {
+      "prompt": "In a Cognitive Walkthrough, what is the primary goal?",
+      "choices": ["To observe users' natural behavior", "To analyze the user interface from a developer's perspective", "To identify potential usability issues by walking through specific tasks", "To collect quantitative data"],
+      "answer": "To identify potential usability issues by walking through specific tasks"
+    },
+    {
+      "prompt": "Who typically conducts a Cognitive Walkthrough in HCI?",
+      "choices": ["End-users of the system", "Psychologists", "Usability experts or evaluators", "Developers and programmers"],
+      "answer": "Usability experts or evaluators"
+    },
+    {
+      "prompt": "What is the primary benefit of a Cognitive Walkthrough?",
+      "choices": ["Collecting user opinions", "Uncovering issues in the early design stages", "Performing A/B testing", "Gathering demographic information"],
+      "answer": "Uncovering issues in the early design stages"
+    },
+    {
+      "prompt": "In a Cognitive Walkthrough, what is 'cognitive' referring to?",
+      "choices": ["Physical movements", "Mental processes and thought patterns", "Emotional reactions", "Social interactions"],
+      "answer": "Mental processes and thought patterns"
+    },
+    {
+      "prompt": "What is the key difference between a Cognitive Walkthrough and a Heuristic Evaluation in HCI?",
+      "choices": ["A Cognitive Walkthrough involves real users, while Heuristic Evaluation does not", "A Cognitive Walkthrough focuses on user emotions, while Heuristic Evaluation focuses on system performance", "A Cognitive Walkthrough is conducted before usability testing, while Heuristic Evaluation is conducted after", "There is no significant difference between them"],
+      "answer": "A Cognitive Walkthrough involves real users, while Heuristic Evaluation does not"
+    },
+    {
+      "prompt": "In a Cognitive Walkthrough, what is the typical number of evaluators who participate?",
+      "choices": ["At least 100 evaluators", "One evaluator", "Three to five evaluators", "As many as possible"],
+      "answer": "Three to five evaluators"
+    },
+    {
+      "prompt": "What type of tasks are typically evaluated in a Cognitive Walkthrough?",
+      "choices": ["Tasks that are simple and familiar to all users", "Tasks that are highly technical and complex", "Tasks that involve physical activities", "Tasks that are not related to the system being evaluated"],
+      "answer": "Tasks that are simple and familiar to all users"
+    },
+    {
+      "prompt": "What is the primary focus of a Cognitive Walkthrough when evaluating tasks?",
+      "choices": ["The aesthetics of the user interface", "The efficiency and speed of task completion", "The physical effort required to complete the task", "The emotional reactions of users"],
+      "answer": "The efficiency and speed of task completion"
+    },
+    {
+      "prompt": "During a Cognitive Walkthrough, what do evaluators typically look for in the user interface?",
+      "choices": ["Highly technical and complex features", "Usability issues, such as confusing labels or lack of feedback", "Entertainment value", "Emotional design elements"],
+      "answer": "Usability issues, such as confusing labels or lack of feedback"
+    },
+    {
+      "prompt": "What is a common method for documenting the findings of a Cognitive Walkthrough?",
+      "choices": ["Recording video sessions", "Taking notes on paper", "Using eye-tracking technology", "Creating virtual reality simulations"],
+      "answer": "Taking notes on paper"
+    },
+    {
+      "prompt": "In a Cognitive Walkthrough, what is the expected outcome?",
+      "choices": ["To find all usability issues and fix them immediately", "To identify potential usability issues and prioritize them for improvement", "To validate the system's design", "To generate user personas"],
+      "answer": "To identify potential usability issues and prioritize them for improvement"
+    },
+    {
+      "prompt": "Which of the following is a common challenge in conducting a Cognitive Walkthrough?",
+      "choices": ["It is time-consuming and expensive", "It relies too heavily on quantitative data", "Evaluators often lack expertise", "It is not suitable for early design stages"],
+      "answer": "Evaluators often lack expertise"
+    },
+    {
+      "prompt": "What is the primary advantage of involving real end-users in a Cognitive Walkthrough?",
+      "choices": ["End-users are experts in usability evaluation", "End-users can provide emotional feedback", "End-users can uncover issues that experts might overlook", "End-users are faster at completing tasks"],
+      "answer": "End-users can uncover issues that experts might overlook"
+    },
+    {
+      "prompt": "What is a 'thinking-aloud protocol' in the context of a Cognitive Walkthrough?",
+      "choices": ["A technique where evaluators silently evaluate the interface", "A technique where evaluators vocalize their thoughts and actions as they complete tasks", "A form of automated usability testing", "A method for collecting biometric data"],
+      "answer": "A technique where evaluators vocalize their thoughts and actions as they complete tasks"
+    },
+    {
+      "prompt": "What is the primary goal of using a 'thinking-aloud protocol' during a Cognitive Walkthrough?",
+      "choices": ["To keep evaluators entertained", "To gather user opinions", "To capture evaluators' thought processes and potential usability issues", "To complete tasks faster"],
+      "answer": "To capture evaluators' thought processes and potential usability issues"
+    },
+    {
+      "prompt": "In a Cognitive Walkthrough, what is the typical duration of an evaluation session?",
+      "choices": ["Less than 5 minutes", "30 minutes to an hour", "Several hours", "An entire day"],
+      "answer": "30 minutes to an hour"
+    },
+    {
+      "prompt": "What is the final step in a Cognitive Walkthrough?",
+      "choices": ["Debriefing the evaluators", "Publishing the results immediately", "Starting a new evaluation with different tasks", "Ignoring any issues found"],
+      "answer": "Debriefing the evaluators"
+    }
+  ],
+  "14: Justify your design methods":
+  [
+    {
+        "prompt": "What was the primary data gathering tool used to understand teacher needs?",
+        "choices": ["Surveys", "Interviews", "Focus groups", "Direct observations"],
+        "answer": "Surveys"
+    },
+    {
+        "prompt": "Which method was used to synthesize the data gathered from teachers?",
+        "choices": ["Affinity diagramming", "Statistical analysis", "Mind mapping", "Content analysis"],
+        "answer": "Affinity diagramming"
+    },
+    {
+        "prompt": "What design approach was used for creating the initial app prototype?",
+        "choices": ["High-fidelity prototyping", "Paper prototyping", "Low-fidelity prototyping", "3D modeling"],
+        "answer": "Low-fidelity prototyping"
+    },
+    {
+        "prompt": "How did the team ensure the app was tailored to Norwegian school regulations?",
+        "choices": ["Conducting international research", "Consulting with Norwegian educational authorities", "Comparing with existing apps", "Feedback from Norwegian teachers"],
+        "answer": "Feedback from Norwegian teachers"
+    },
+    {
+        "prompt": "What was a key feature of the app's user interface design?",
+        "choices": ["Complex navigation systems", "Minimalist design", "Large buttons and simple menus", "Highly customizable interface"],
+        "answer": "Large buttons and simple menus"
+    },
+    {
+        "prompt": "What usability goal was emphasized for the app?",
+        "choices": ["Aesthetics and form", "Efficiency and learnability", "Customizability and flexibility", "Security and privacy"],
+        "answer": "Efficiency and learnability"
+    },
+    {
+        "prompt": "How did the team address the issue of colorblind accessibility?",
+        "choices": ["User testing with colorblind users", "Consulting with a design expert", "Using a color contrast checker", "Ignoring the issue"],
+        "answer": "Using a color contrast checker"
+    },
+    {
+        "prompt": "Which device was the app primarily designed for?",
+        "choices": ["Smartphone", "Desktop", "Tablet", "Smartwatch"],
+        "answer": "Tablet"
+    },
+    {
+        "prompt": "What technique was used for visualizing user interactions?",
+        "choices": ["Storyboards", "Flowcharts", "Wireframes", "User journey maps"],
+        "answer": "User journey maps"
+    },
+    {
+        "prompt": "Which feature was included to aid in classroom management?",
+        "choices": ["Automatic grade calculator", "Classroom seating planner", "Student behavior tracker", "Test and quiz generator"],
+        "answer": "Classroom seating planner"
+    },
+    {
+        "prompt": "What was the primary method used for evaluating the prototype?",
+        "choices": ["User testing", "Heuristic evaluation", "A/B testing", "Surveys and interviews"],
+        "answer": "Surveys and interviews"
+    },
+    {
+        "prompt": "How did the team prioritize design features for the app?",
+        "choices": ["User feedback", "Competitive analysis", "Team voting", "Stakeholder preferences"],
+        "answer": "User feedback"
+    },
+    {
+        "prompt": "Which method helped in determining the app's navigation structure?",
+        "choices": ["Card sorting", "Tree testing", "A/B testing", "Heat mapping"],
+        "answer": "Card sorting"
+    },
+    {
+        "prompt": "What was the main consideration for choosing a tablet as the app's primary device?",
+        "choices": ["Cost-effectiveness", "Portability and screen size", "Popularity among teachers", "Availability of advanced features"],
+        "answer": "Portability and screen size"
+    },
+    {
+        "prompt": "Which design law influenced the app's button size and placement?",
+        "choices": ["Gestalt principles", "Hick’s law", "Fitts’ law", "Jakob’s law"],
+        "answer": "Fitts’ law"
+    },
+    {
+        "prompt": "What was identified as a limitation in the app's design during evaluation?",
+        "choices": ["Complex user interface", "Inadequate feature set", "Lack of a help function", "Poor color scheme"],
+        "answer": "Lack of a help function"
+    },
+    {
+        "prompt": "How did the team gather feedback on the app prototype?",
+        "choices": ["Online surveys", "In-person focus groups", "Email questionnaires", "Social media polls"],
+        "answer": "Online surveys"
+    },
+    {
+        "prompt": "What was the main design challenge addressed by the app?",
+        "choices": ["Increasing teacher-student interaction", "Reducing teachers' time pressure", "Improving student assessment accuracy", "Enhancing school administration efficiency"],
+        "answer": "Reducing teachers' time pressure"
+    },
+    {
+        "prompt": "Which aspect of the app was improved based on heuristic evaluation?",
+        "choices": ["Visual design", "Error prevention", "User control", "Data privacy measures"],
+        "answer": "Error prevention"
+    },
+    {
+        "prompt": "What was a significant ethical consideration in the app's design?",
+        "choices": ["Advertising content", "User data privacy", "Environmental impact", "Cultural sensitivity"],
+        "answer": "User data privacy"
+    },
+    {
+        "prompt": "What is the main purpose of using surveys in user research?",
+        "choices": ["To gather quantitative data", "To create user personas", "To test product prototypes", "To design user interfaces"],
+        "answer": "To gather quantitative data"
+    },
+    {
+        "prompt": "Which aspect is most directly addressed by affinity diagramming?",
+        "choices": ["Visual design", "Data organization", "Technical development", "Budget planning"],
+        "answer": "Data organization"
+    },
+    {
+        "prompt": "What is the primary characteristic of low-fidelity prototyping?",
+        "choices": ["High interactivity", "Detailed design", "Quick and inexpensive", "Use of advanced software"],
+        "answer": "Quick and inexpensive"
+    },
+    {
+        "prompt": "In the context of the app, what was the main benefit of using a tablet as the primary device?",
+        "choices": ["Larger screen for detailed work", "Ease of portability", "Lower cost compared to laptops", "Higher processing power"],
+        "answer": "Ease of portability"
+    },
+    {
+        "prompt": "What is the main goal of usability testing?",
+        "choices": ["To evaluate visual design", "To assess user satisfaction", "To test system security", "To identify usability issues"],
+        "answer": "To identify usability issues"
+    },
+    {
+        "prompt": "What does the term 'user journey map' primarily refer to?",
+        "choices": ["A visual representation of the user's interaction with the app", "A roadmap for app development", "A marketing strategy for the app", "A layout of the app's features"],
+        "answer": "A visual representation of the user's interaction with the app"
+    },
+    {
+        "prompt": "What is the main advantage of card sorting in designing an app's navigation?",
+        "choices": ["It is cost-effective", "It improves visual design", "It helps organize information intuitively", "It speeds up the development process"],
+        "answer": "It helps organize information intuitively"
+    },
+    {
+        "prompt": "Which design law focuses on the time it takes to move to and select a target?",
+        "choices": ["Gestalt principles", "Hick’s law", "Fitts’ law", "Jakob’s law"],
+        "answer": "Fitts’ law"
+    },
+    {
+        "prompt": "What is the primary use of heuristic evaluation in the design process?",
+        "choices": ["To check the technical feasibility", "To assess the visual appeal", "To evaluate usability against established criteria", "To determine the market viability"],
+        "answer": "To evaluate usability against established criteria"
+    },
+    {
+        "prompt": "What is the main purpose of creating wireframes in app design?",
+        "choices": ["To finalize the app's content", "To outline the basic structure and layout", "To choose the color scheme", "To develop the brand identity"],
+        "answer": "To outline the basic structure and layout"
+    },
+    {
+        "prompt": "Why is user feedback important in the iterative design process?",
+        "choices": ["To define the project scope", "To guide continuous improvement", "To finalize the product price", "To create marketing strategies"],
+        "answer": "To guide continuous improvement"
+    },
+    {
+        "prompt": "What is the primary benefit of using online surveys for gathering feedback?",
+        "choices": ["Personal interaction with users", "Quick and broad data collection", "In-depth qualitative insights", "Visual demonstration of the product"],
+        "answer": "Quick and broad data collection"
+    },
+    {
+        "prompt": "What aspect of user experience does 'efficiency and learnability' mainly refer to?",
+        "choices": ["How quickly a user can perform tasks", "The aesthetic appeal of the product", "The emotional response of the user", "The security of the user's data"],
+        "answer": "How quickly a user can perform tasks"
+    },
+    {
+        "prompt": "Why is color contrast checker used in app design?",
+        "choices": ["To ensure visual attractiveness", "To comply with brand guidelines", "To improve readability for colorblind users", "To create mood with colors"],
+        "answer": "To improve readability for colorblind users"
+    },
+    {
+        "prompt": "What is the focus of a cognitive walkthrough?",
+        "choices": ["Assessing technical performance", "Evaluating user interaction logic", "Designing the visual elements", "Planning the development process"],
+        "answer": "Evaluating user interaction logic"
+    },
+    {
+        "prompt": "What is a key outcome of conducting a SWOT analysis in design?",
+        "choices": ["Identifying strengths, weaknesses, opportunities, and threats", "Creating a detailed project plan", "Defining the target user group", "Selecting the right design tools"],
+        "answer": "Identifying strengths, weaknesses, opportunities, and threats"
+    },
+    {
+        "prompt": "How does 'large buttons and simple menus' impact app usability?",
+        "choices": ["Increases visual appeal", "Reduces learning curve", "Enhances security", "Improves loading times"],
+        "answer": "Reduces learning curve"
+    },
+    {
+        "prompt": "Why is addressing user data privacy important in app design?",
+        "choices": ["To comply with legal requirements", "To enhance user interface design", "To improve app marketing", "To increase app speed"],
+        "answer": "To comply with legal requirements"
+    },
+    {
+        "prompt": "In the context of your project, what was the significance of the classroom seating planner feature?",
+        "choices": ["To enhance student engagement", "To aid in classroom management", "To track student performance", "To simplify administrative tasks"],
+        "answer": "To aid in classroom management"
+    },
+    {
+        "prompt": "What is the main benefit of using a bottom-up approach in the ideation phase?",
+        "choices": ["Faster decision-making", "More creative and diverse ideas", "Better budget control", "Easier stakeholder management"],
+        "answer": "More creative and diverse ideas"
+    }
+],
+  "15: Recommender systems":
+  [
+    {
+      "prompt": "What are Recommender Systems in HCI?",
+      "choices": ["Computer programs that recommend books to read", "Tools for creating virtual reality experiences", "Systems that provide personalized recommendations to users based on their preferences and behavior", "Interactive chatbots for customer support"],
+      "answer": "Systems that provide personalized recommendations to users based on their preferences and behavior"
+    },
+    {
+      "prompt": "In HCI, what is the primary goal of a Recommender System?",
+      "choices": ["To collect user data", "To maximize advertising revenue", "To provide personalized and relevant content or products to users", "To create virtual environments"],
+      "answer": "To provide personalized and relevant content or products to users"
+    },
+    {
+      "prompt": "Which of the following is a common application of Recommender Systems in HCI?",
+      "choices": ["Weather forecasting", "Movie and music recommendations", "Automated programming", "Social media sharing"],
+      "answer": "Movie and music recommendations"
+    },
+    {
+      "prompt": "What is 'collaborative filtering' in the context of Recommender Systems?",
+      "choices": ["A technique for filtering spam emails", "A method of recommending products based on user ratings and behavior", "A method for predicting stock market trends", "A technique for tracking user location"],
+      "answer": "A method of recommending products based on user ratings and behavior"
+    },
+    {
+      "prompt": "What is 'content-based filtering' in the context of Recommender Systems?",
+      "choices": ["A technique for generating random recommendations", "A method of recommending products based on their attributes and user preferences", "A method for tracking user location", "A method for gathering user feedback"],
+      "answer": "A method of recommending products based on their attributes and user preferences"
+    },
+    {
+      "prompt": "Which of the following is a limitation of collaborative filtering in Recommender Systems?",
+      "choices": ["It requires a lot of user input and ratings", "It cannot handle large datasets", "It does not consider the content of the items being recommended", "It is not suitable for movie recommendations"],
+      "answer": "It does not consider the content of the items being recommended"
+    },
+    {
+      "prompt": "What is 'matrix factorization' in Recommender Systems?",
+      "choices": ["A technique for optimizing user profiles", "A method for reducing the dimensionality of data matrices", "A technique for analyzing social networks", "A method for increasing computational complexity"],
+      "answer": "A method for reducing the dimensionality of data matrices"
+    },
+    {
+      "prompt": "Which of the following is a benefit of using matrix factorization in Recommender Systems?",
+      "choices": ["It increases computational complexity", "It requires a large amount of user input", "It can handle sparse data matrices and missing values", "It relies solely on content-based filtering"],
+      "answer": "It can handle sparse data matrices and missing values"
+    },
+    {
+      "prompt": "What is 'cold start' in the context of Recommender Systems?",
+      "choices": ["A technique for recommending ice cream flavors", "The challenge of making recommendations for new or rarely active users", "A method for filtering out unpopular products", "A technique for avoiding user preferences"],
+      "answer": "The challenge of making recommendations for new or rarely active users"
+    },
+    {
+      "prompt": "What is a 'hybrid Recommender System' in HCI?",
+      "choices": ["A system that recommends hybrid cars", "A system that combines multiple recommendation techniques to provide more accurate and diverse recommendations", "A system that recommends products based on user demographics", "A system that only uses content-based filtering"],
+      "answer": "A system that combines multiple recommendation techniques to provide more accurate and diverse recommendations"
+    },
+    {
+      "prompt": "What is 'serendipity' in the context of Recommender Systems?",
+      "choices": ["The unexpected discovery of new recommendations", "A technique for tracking user location", "The use of random recommendations", "A method for generating user profiles"],
+      "answer": "The unexpected discovery of new recommendations"
+    },
+    {
+      "prompt": "Which of the following is an ethical concern related to Recommender Systems in HCI?",
+      "choices": ["Providing personalized recommendations", "Maximizing user satisfaction", "Filtering out irrelevant content", "Creating filter bubbles and echo chambers"],
+      "answer": "Creating filter bubbles and echo chambers"
+    },
+    {
+      "prompt": "What is a 'Diversity-Precision Trade-off' in Recommender Systems?",
+      "choices": ["A technique for balancing recommendation diversity and precision", "A method for tracking user location", "A technique for maximizing advertising revenue", "A method for generating user profiles"],
+      "answer": "A technique for balancing recommendation diversity and precision"
+    },
+    {
+      "prompt": "What is 'explainable AI' in the context of Recommender Systems?",
+      "choices": ["A method for hiding AI algorithms from users", "A technique for providing clear and understandable explanations for recommendations", "A method for maximizing user satisfaction", "A technique for tracking user location"],
+      "answer": "A technique for providing clear and understandable explanations for recommendations"
+    },
+    {
+      "prompt": "What is 'serendipity' in the context of Recommender Systems?",
+      "choices": ["The unexpected discovery of new recommendations", "A technique for tracking user location", "The use of random recommendations", "A method for generating user profiles"],
+      "answer": "The unexpected discovery of new recommendations"
+    },
+    {
+      "prompt": "What is a 'Diversity-Precision Trade-off' in Recommender Systems?",
+      "choices": ["A technique for balancing recommendation diversity and precision", "A method for tracking user location", "A technique for maximizing advertising revenue", "A method for generating user profiles"],
+      "answer": "A technique for balancing recommendation diversity and precision"
+    },
+    {
+      "prompt": "What is 'explainable AI' in the context of Recommender Systems?",
+      "choices": ["A method for hiding AI algorithms from users", "A technique for providing clear and understandable explanations for recommendations", "A method for maximizing user satisfaction", "A technique for tracking user location"],
+      "answer": "A technique for providing clear and understandable explanations for recommendations"
+    },
+    {
+      "prompt": "What is a 'Diversity-Precision Trade-off' in Recommender Systems?",
+      "choices": ["A technique for balancing recommendation diversity and precision", "A method for tracking user location", "A technique for maximizing advertising revenue", "A method for generating user profiles"],
+      "answer": "A technique for balancing recommendation diversity and precision"
+    },
+    {
+      "prompt": "What is 'explainable AI' in the context of Recommender Systems?",
+      "choices": ["A method for hiding AI algorithms from users", "A technique for providing clear and understandable explanations for recommendations", "A method for maximizing user satisfaction", "A technique for tracking user location"],
+      "answer": "A technique for providing clear and understandable explanations for recommendations"
+    },
+    {
+      "prompt": "What is a 'Diversity-Precision Trade-off' in Recommender Systems?",
+      "choices": ["A technique for balancing recommendation diversity and precision", "A method for tracking user location", "A technique for maximizing advertising revenue", "A method for generating user profiles"],
+      "answer": "A technique for balancing recommendation diversity and precision"
+    },
+    {
+      "prompt": "What is 'explainable AI' in the context of Recommender Systems?",
+      "choices": ["A method for hiding AI algorithms from users", "A technique for providing clear and understandable explanations for recommendations", "A method for maximizing user satisfaction", "A technique for tracking user location"],
+      "answer": "A technique for providing clear and understandable explanations for recommendations"
+    }
+  ],
+  "16: Human workspace interaction":
+  [
+    {
+      "prompt": "What is Human-Workspace Interaction (HWI) in HCI?",
+      "choices": ["A type of virtual reality experience", "The interaction between humans and their physical work environment with the assistance of technology", "A technique for optimizing keyboard layouts", "A method for designing user interfaces"],
+      "answer": "The interaction between humans and their physical work environment with the assistance of technology"
+    },
+    {
+      "prompt": "What is the primary goal of HWI?",
+      "choices": ["To replace human workers with robots", "To eliminate the need for physical workspaces", "To enhance the efficiency, comfort, and safety of human workspaces", "To create virtual work environments"],
+      "answer": "To enhance the efficiency, comfort, and safety of human workspaces"
+    },
+    {
+      "prompt": "Which of the following is an example of HWI technology?",
+      "choices": ["A new type of video game console", "An autonomous robot for home cleaning", "An ergonomic chair with adjustable settings", "A social media platform"],
+      "answer": "An ergonomic chair with adjustable settings"
+    },
+    {
+      "prompt": "What is the role of ergonomics in HWI?",
+      "choices": ["It focuses on making workspaces aesthetically pleasing", "It studies the physical and cognitive interactions between humans and their work environment to optimize design", "It is unrelated to HWI", "It aims to create virtual workspaces"],
+      "answer": "It studies the physical and cognitive interactions between humans and their work environment to optimize design"
+    },
+    {
+      "prompt": "Which of the following is a common concern addressed by HWI?",
+      "choices": ["Designing virtual reality games", "Maximizing advertising revenue", "Minimizing energy consumption", "Preventing work-related injuries and discomfort"],
+      "answer": "Preventing work-related injuries and discomfort"
+    },
+    {
+      "prompt": "What is 'workspace design' in the context of HWI?",
+      "choices": ["The arrangement of office furniture", "The use of colorful paint in workspaces", "The organization of virtual workspaces", "The deliberate planning of physical workspaces to optimize productivity and comfort"],
+      "answer": "The deliberate planning of physical workspaces to optimize productivity and comfort"
+    },
+    {
+      "prompt": "Which of the following is a key consideration in workspace design for HWI?",
+      "choices": ["Increasing energy consumption", "Maximizing clutter and distractions", "Providing adequate lighting, temperature control, and ergonomic furniture", "Creating open office layouts with no privacy"],
+      "answer": "Providing adequate lighting, temperature control, and ergonomic furniture"
+    },
+    {
+      "prompt": "What is the 'Internet of Things' (IoT) in the context of HWI?",
+      "choices": ["A popular social media platform", "A network of physical devices and sensors that collect and exchange data to improve workspace interactions", "A type of video game console", "A virtual reality headset"],
+      "answer": "A network of physical devices and sensors that collect and exchange data to improve workspace interactions"
+    },
+    {
+      "prompt": "How does IoT technology contribute to HWI?",
+      "choices": ["It makes workspaces more crowded and uncomfortable", "It introduces unnecessary complexity", "It enables smart and connected devices that enhance workspace functionality and efficiency", "It eliminates the need for physical workspaces"],
+      "answer": "It enables smart and connected devices that enhance workspace functionality and efficiency"
+    },
+    {
+      "prompt": "What is 'smart lighting' in HWI?",
+      "choices": ["Lighting that is controlled by a smartphone app", "Lighting that automatically adjusts based on occupancy and natural light levels", "Lighting designed for virtual workspaces", "Lighting that produces holographic effects"],
+      "answer": "Lighting that automatically adjusts based on occupancy and natural light levels"
+    },
+    {
+      "prompt": "Which of the following is a benefit of smart lighting in HWI?",
+      "choices": ["Increased energy consumption", "Reduced control over lighting", "Improved energy efficiency and user comfort", "No impact on workspace interactions"],
+      "answer": "Improved energy efficiency and user comfort"
+    },
+    {
+      "prompt": "What is 'hot desking' in HWI?",
+      "choices": ["A type of computer desk with built-in heaters", "A method for reserving office spaces online", "A practice where employees do not have assigned desks and can use any available workspace", "A technique for virtual reality gaming"],
+      "answer": "A practice where employees do not have assigned desks and can use any available workspace"
+    },
+    {
+      "prompt": "How does 'hot desking' contribute to HWI?",
+      "choices": ["It creates isolated and fixed workspaces", "It reduces flexibility and collaboration", "It promotes adaptability and efficient use of office space", "It increases the cost of workspace management"],
+      "answer": "It promotes adaptability and efficient use of office space"
+    },
+    {
+      "prompt": "What is 'wellness design' in HWI?",
+      "choices": ["Designing workspaces with no regard for employee well-being", "Designing workspaces that prioritize employee health, comfort, and productivity", "Creating virtual reality wellness programs", "Using flashy and distracting colors in workspace design"],
+      "answer": "Designing workspaces that prioritize employee health, comfort, and productivity"
+    },
+    {
+      "prompt": "Which of the following is a component of wellness design in HWI?",
+      "choices": ["Providing uncomfortable chairs", "Neglecting to consider employee health and safety", "Incorporating ergonomic furniture and access to natural light", "Creating visually cluttered workspaces"],
+      "answer": "Incorporating ergonomic furniture and access to natural light"
+    },
+    {
+      "prompt": "What is 'activity-based working' in HWI?",
+      "choices": ["A type of exercise routine in the workplace", "A practice where employees work at standing desks only", "A flexible working approach that allows employees to choose the most suitable workspace for their tasks", "A method for virtual workspace design"],
+      "answer": "A flexible working approach that allows employees to choose the most suitable workspace for their tasks"
+    },
+    {
+      "prompt": "How does 'activity-based working' contribute to HWI?",
+      "choices": ["It restricts employees to fixed workstations", "It reduces collaboration and communication", "It allows employees to tailor their work environment to their tasks, improving productivity and satisfaction", "It increases the cost of workspace management"],
+      "answer": "It allows employees to tailor their work environment to their tasks, improving productivity and satisfaction"
+    },
+    {
+      "prompt": "What is 'biophilic design' in HWI?",
+      "choices": ["Designing workspaces with artificial lighting", "Incorporating elements of nature, such as plants and natural materials, into workspace design", "Designing workspaces with no regard for environmental sustainability", "Creating virtual reality simulations of natural environments"],
+      "answer": "Incorporating elements of nature, such as plants and natural materials, into workspace design"
+    },
+    {
+      "prompt": "Which of the following is a benefit of biophilic design in HWI?",
+      "choices": ["Reduced energy consumption", "Increased stress and discomfort among employees", "Higher absenteeism rates", "Improved employee well-being and creativity"],
+      "answer": "Improved employee well-being and creativity"
+    },
+    {
+      "prompt": "What is 'ergonomic furniture' in HWI?",
+      "choices": ["Uncomfortable and poorly designed furniture", "Furniture designed to maximize user comfort and prevent physical strain or injury", "Furniture made from recycled materials", "Furniture with bright and distracting colors"],
+      "answer": "Furniture designed to maximize user comfort and prevent physical strain or injury"
+    }
+  ],
+  "17: Remote intelligent lab":
+  [
+    {
+        "prompt": "What is a primary driver for remote labs?",
+        "choices": ["High-speed internet", "Advanced software tools", "Cameras for monitoring", "Automated data collection"],
+        "answer": "Cameras for monitoring"
+    },
+    {
+        "prompt": "Which device is mentioned for camera control in fixed setups inside labs?",
+        "choices": ["Arduino", "Raspberry Pi4", "BeagleBone Black", "ESP32"],
+        "answer": "Raspberry Pi4"
+    },
+    {
+        "prompt": "For flexible lab setups, which type of camera is used?",
+        "choices": ["DSLR cameras", "Webcams", "GoPro cameras", "Smartphone cameras"],
+        "answer": "GoPro cameras"
+    },
+    {
+        "prompt": "What is used along with cameras to facilitate group activities in remote labs?",
+        "choices": ["Projectors", "Tablet devices", "Speakers/microphones", "Touchscreens"],
+        "answer": "Speakers/microphones"
+    },
+    {
+        "prompt": "In a remote intelligent lab, what is primarily monitored in design meetings?",
+        "choices": ["Participants' facial expressions", "Video capture and microphone recordings", "Keyboard and mouse interactions", "Internet browsing history"],
+        "answer": "Video capture and microphone recordings"
+    },
+    {
+        "prompt": "What is a significant aspect of HCI in remote intelligent labs?",
+        "choices": ["E-commerce optimization", "Remote collaboration", "Gaming experience", "Social media analytics"],
+        "answer": "Remote collaboration"
+    },
+    {
+        "prompt": "What type of data is collected in remote intelligent labs to understand user interactions?",
+        "choices": ["Biometric data", "Digital footprints", "Geolocation data", "Social media usage"],
+        "answer": "Digital footprints"
+    },
+    {
+        "prompt": "What does the remote intelligent lab primarily monitor for collaborative work?",
+        "choices": ["Email exchanges", "Speech turn duration and gesture", "Online chat logs", "Virtual team-building activities"],
+        "answer": "Speech turn duration and gesture"
+    },
+    {
+        "prompt": "What is an expected impact of remote intelligent labs in education?",
+        "choices": ["Replacing traditional labs", "Increasing capacity to manage scientific experiments", "Eliminating the need for physical presence", "Automating all learning processes"],
+        "answer": "Increasing capacity to manage scientific experiments"
+    },
+    {
+        "prompt": "Which aspect is crucial for designing effective remote intelligent labs?",
+        "choices": ["Cost reduction", "User privacy", "Technological advancement", "Stakeholder involvement"],
+        "answer": "Stakeholder involvement"
+    },
+    {
+        "prompt": "What type of setup does the Raspberry Pi4 provide in remote intelligent labs?",
+        "choices": ["Flexible setup", "Mobile setup", "Fixed setup", "Adaptable setup"],
+        "answer": "Fixed setup"
+    },
+    {
+        "prompt": "Which technology is emphasized for its importance in remote labs for group of scientists?",
+        "choices": ["Augmented reality", "Blockchain", "Speakers/microphones", "Quantum computing"],
+        "answer": "Speakers/microphones"
+    },
+    {
+        "prompt": "In remote intelligent labs, what is a key feature of collaborative work?",
+        "choices": ["Competitive gaming", "Shared virtual spaces", "Automated decision-making", "Individual research"],
+        "answer": "Shared virtual spaces"
+    },
+    {
+        "prompt": "How do remote intelligent labs contribute to HCI research?",
+        "choices": ["By focusing solely on hardware development", "Enhancing remote user interaction", "Eliminating the need for user feedback", "Focusing on AI-driven design only"],
+        "answer": "Enhancing remote user interaction"
+    },
+    {
+        "prompt": "What aspect of user interaction is monitored in remote intelligent labs for design purposes?",
+        "choices": ["Shopping behavior", "Online learning activities", "Video game usage", "Post-it note interactions"],
+        "answer": "Post-it note interactions"
+    },
+    {
+        "prompt": "How are remote intelligent labs expected to impact European scientific research?",
+        "choices": ["By limiting physical lab access", "Reducing the need for human researchers", "Increasing capacity to manage experiments", "Focusing solely on computer science fields"],
+        "answer": "Increasing capacity to manage experiments"
+    },
+    {
+        "prompt": "What is a key consideration for HCI in remote intelligent labs regarding user interfaces?",
+        "choices": ["Voice recognition accuracy", "Touchscreen responsiveness", "Multi-user collaboration", "Graphical user interface aesthetics"],
+        "answer": "Multi-user collaboration"
+    },
+    {
+        "prompt": "Which of the following is a focus of remote intelligent labs in enhancing user experience?",
+        "choices": ["User personalization", "Automating all processes", "Eliminating user feedback", "Focusing on text-based interfaces"],
+        "answer": "User personalization"
+    },
+    {
+        "prompt": "In remote intelligent labs, what kind of data is primarily used for design decision-making?",
+        "choices": ["Demographic data", "User behavior logs", "Financial data", "Product sales data"],
+        "answer": "User behavior logs"
+    },
+    {
+        "prompt": "What is the role of Raspberry Pi4 in remote intelligent lab setups?",
+        "choices": ["Data storage", "User interface design", "Camera control", "Energy management"],
+        "answer": "Camera control"
+    }
+]
+}

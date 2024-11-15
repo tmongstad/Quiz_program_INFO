@@ -1,0 +1,1618 @@
+{
+    "1: Innføring i informasjonsvitenskap": [
+        {
+            "prompt": "Hva er hovedformålet med informasjonsteknologi?",
+            "choices": [
+                "Å opprette, prosessere, lagre og utveksle alle typer digitale data og informasjon",
+                "Å utvikle underholdningsteknologier",
+                "Å fokusere utelukkende på datamaskinprogrammering",
+                "Å drive forskning innen fysikk"
+            ],
+            "answer": "Å opprette, prosessere, lagre og utveksle alle typer digitale data og informasjon"
+        },
+        {
+            "prompt": "Hva beskriver best et binært system?",
+            "choices": [
+                "Et system som bruker ti ulike symboler for å representere tall",
+                "Et system som bruker to ulike symboler (0 og 1) for å representere tall",
+                "Et system som kun representerer heltall",
+                "Et system som bruker analoge signaler"
+            ],
+            "answer": "Et system som bruker to ulike symboler (0 og 1) for å representere tall"
+        },
+        {
+            "prompt": "Hva var ENIAC?",
+            "choices": [
+                "En tidlig form for internett",
+                "En tidlig analog datamaskin",
+                "Den første digitale datamaskinen",
+                "Et programvarespråk"
+            ],
+            "answer": "Den første digitale datamaskinen"
+        },
+        {
+            "prompt": "Hva er en Turing-maskin?",
+            "choices": [
+                "En maskin som kan utføre hvilken som helst beregning gitt tilstrekkelig tid og minne",
+                "En tidlig form for mekanisk kalkulator",
+                "En maskin brukt i kryptografi under andre verdenskrig",
+                "En høyhastighets superdatamaskin"
+            ],
+            "answer": "En maskin som kan utføre hvilken som helst beregning gitt tilstrekkelig tid og minne"
+        },
+        {
+            "prompt": "Hva er en algoritme?",
+            "choices": [
+                "En type programvare",
+                "En presis, systematisk metode for å komme frem til et spesifisert resultat",
+                "En maskin som utfører beregninger",
+                "En metode for å kryptere data"
+            ],
+            "answer": "En presis, systematisk metode for å komme frem til et spesifisert resultat"
+        }
+
+
+    ],
+    "2: Data, informasjon og kunnskap": [
+        {
+            "prompt": "Hva menes med 'Generell definisjon av informasjon (GDI)'?",
+            "choices": [
+                "Informasjon er alltid digital",
+                "Informasjon består av meningsfulle og velformulerte data",
+                "Informasjon er det samme som data",
+                "Informasjon er kun tekstbasert"
+            ],
+            "answer": "Informasjon består av meningsfulle og velformulerte data"
+        },
+        {
+            "prompt": "Hva karakteriserer analoge data?",
+            "choices": [
+                "De er alltid digitalt lagret",
+                "De består av kontinuerlige signaler",
+                "De er ikke relevante i moderne teknologi",
+                "De kan bare representere tekst"
+            ],
+            "answer": "De består av kontinuerlige signaler"
+        },
+        {
+            "prompt": "Hva er en egenskap ved digitale informasjonssystemer?",
+            "choices": [
+                "De har et uendelig antall tilstander",
+                "De opererer kun i sanntid",
+                "De har et endelig antall tilstander",
+                "De kan ikke behandle store mengder data"
+            ],
+            "answer": "De har et endelig antall tilstander"
+        },
+        {
+            "prompt": "Hva beskriver best digitalisering av data?",
+            "choices": [
+                "Konvertering fra analog til digital format",
+                "Å lage en fysisk kopi av digitale data",
+                "Å øke størrelsen på lagrede data",
+                "Å overføre data over internett"
+            ],
+            "answer": "Konvertering fra analog til digital format"
+        },
+        {
+            "prompt": "Hva er hovedformålet med 'sampling' i digital lyd?",
+            "choices": [
+                "Å forbedre lydkvaliteten",
+                "Å konvertere lyd til en analog form",
+                "Å redusere størrelsen på lydfilen",
+                "Å konvertere analog lyd til en digital representasjon"
+            ],
+            "answer": "Å konvertere analog lyd til en digital representasjon"
+        },
+        {
+            "prompt": "Hva er hovedformålet med ASCII-koding?",
+            "choices": [
+                "Å lagre bilder",
+                "Å lagre lyd",
+                "Å representere tegn som tall",
+                "Å kryptere data"
+            ],
+            "answer": "Å representere tegn som tall"
+        },
+        {
+            "prompt": "Hvordan fungerer analoge datamaskiner primært?",
+            "choices": [
+                "Ved binær koding",
+                "Gjennom kontinuerlig varierende fysiske fenomener",
+                "Gjennom diskrete digitale signaler",
+                "Ved bruk av kvanteberegning"
+            ],
+            "answer": "Gjennom kontinuerlig varierende fysiske fenomener"
+        },
+        {
+            "prompt": "Hva er LCD-teknologi?",
+            "choices": [
+                "En type digital lagring",
+                "En metode for datakryptering",
+                "En flat skjermteknologi",
+                "En type programmeringsspråk"
+            ],
+            "answer": "En flat skjermteknologi"
+        },
+        {
+            "prompt": "Hva betyr 'metadata'?",
+            "choices": [
+                "Data lagret i skyen",
+                "Data om andre data",
+                "Ubrukelige data",
+                "Krypterte data"
+            ],
+            "answer": "Data om andre data"
+        },
+        {
+            "prompt": "Hva er formålet med primærdata i et informasjonssystem?",
+            "choices": [
+                "Å sikre data",
+                "Å lagre backup-kopier av data",
+                "Å formidle hovedinformasjon til brukeren",
+                "Å analysere brukeradferd"
+            ],
+            "answer": "Å formidle hovedinformasjon til brukeren"
+        },
+        {
+            "prompt": "Hva representerer 'binær aritmetikk'?",
+            "choices": [
+                "En måte å utføre beregninger i et analogt system",
+                "Bruk av to ulike siffer (0 og 1) for å representere tall",
+                "En avansert form for algebra",
+                "En metode for å kryptere data"
+            ],
+            "answer": "Bruk av to ulike siffer (0 og 1) for å representere tall"
+        },
+        {
+            "prompt": "Hva er en egenskap ved Unicode sammenlignet med ASCII?",
+            "choices": [
+                "Unicode støtter færre tegn",
+                "Unicode bruker 7-bit koding",
+                "Unicode tillater representasjon av mange flere tegn",
+                "Unicode brukes kun for engelsk tekst"
+            ],
+            "answer": "Unicode tillater representasjon av mange flere tegn"
+        },
+        {
+            "prompt": "Hva er en kilobyte (KB)?",
+            "choices": [
+                "1024 bytes",
+                "1000 bytes",
+                "512 bytes",
+                "2048 bytes"
+            ],
+            "answer": "1024 bytes"
+        },
+        {
+            "prompt": "Hva menes med sekundærdata?",
+            "choices": [
+                "Data som er slettet fra et system",
+                "Data som er samlet inn av noen andre enn primærbrukeren",
+                "Data som er lagret på en sekundær lagringsenhet",
+                "Data som er mindre viktig enn primærdata"
+            ],
+            "answer": "Data som er samlet inn av noen andre enn primærbrukeren"
+        },
+        {
+            "prompt": "Hva er en hovedfunksjon av HTML?",
+            "choices": [
+                "Å lage interaktive applikasjoner",
+                "Å kryptere webkommunikasjon",
+                "Å opprette nettsider",
+                "Å automatisere databehandling"
+            ],
+            "answer": "Å opprette nettsider"
+        }
+    ],
+
+
+    "3: Datamaskinen": [
+        {
+            "prompt": "Hva var IBM 305 RAMAC kjent for?",
+            "choices": [
+                "Verdens første programmerbare datamaskin",
+                "Verdens første datamaskin som brukte magnetisk disklagring",
+                "Introduserte den første mikroprosessoren",
+                "Den første maskinen som brukte transistorteknologi"
+            ],
+            "answer": "Verdens første harddisk"
+        },
+        {
+            "prompt": "Hva er hovedfunksjonen til Random Access Memory (RAM) i en datamaskin?",
+            "choices": [
+                "Lagrer operativsystemet",
+                "Permanent lagring av data",
+                "Lagrer programmet som kjører og dataene det opererer på",
+                "Utfører komplekse beregninger"
+            ],
+            "answer": "Lagrer programmet som kjører og dataene det opererer på"
+        },
+        {
+            "prompt": "Hva betyr 'Control Processing Unit' (CPU) i en datamaskin?",
+            "choices": [
+                "Det er hovedlagringsenheten",
+                "Det er enheten som kontrollerer alle periferienheter",
+                "Det er instruksjonsutføringsmotoren i datamaskinen",
+                "Det er nettverksenheten som kontrollerer internettforbindelsen"
+            ],
+            "answer": "Det er instruksjonsutføringsmotoren i datamaskinen"
+        },
+        {
+            "prompt": "Hva gjør Arithmetic Logic Unit (ALU) i en CPU?",
+            "choices": [
+                "Den styrer operativsystemet",
+                "Den utfører alle aritmetiske og logiske operasjoner",
+                "Den lagrer midlertidige data",
+                "Den sender data til periferienheter"
+            ],
+            "answer": "Den utfører alle aritmetiske og logiske operasjoner"
+        },
+        {
+            "prompt": "Hva er funksjonen til en harddisk i en datamaskin?",
+            "choices": [
+                "Å behandle data",
+                "Tilfeldig tilgang til lagrede data",
+                "Permanent lagring av data",
+                "Midlertidig lagring av kjørende programmer"
+            ],
+            "answer": "Permanent lagring av data"
+        },
+        {
+            "prompt": "Hva beskriver begrepet 'programtelleren' i en CPU?",
+            "choices": [
+                "Den teller antall kjørende programmer",
+                "Den lagrer resultatene av beregninger",
+                "Den holder styr på posisjonen til neste instruksjon som skal utføres",
+                "Den overvåker CPU-temperaturen"
+            ],
+            "answer": "Den holder styr på posisjonen til neste instruksjon som skal utføres"
+        },
+        {
+            "prompt": "Hva betyr 'pipelining' i konteksten av CPU-operasjoner?",
+            "choices": [
+                "Det er prosessen med å kjøle ned CPU-en",
+                "Det er overføring av data mellom forskjellige deler av datamaskinen",
+                "Det refererer til prosessen hvor flere instruksjoner utføres samtidig i ulike stadier",
+                "Det er en metode for å øke hastigheten på internettforbindelsen"
+            ],
+            "answer": "Det refererer til prosessen hvor flere instruksjoner utføres samtidig i ulike stadier"
+        },
+        {
+            "prompt": "Hva er et 'assembly-språk'?",
+            "choices": [
+                "Et høynivå programmeringsspråk",
+                "Et språk brukt for å designe datamaskinmaskinvare",
+                "Et primitivt programmeringsspråk som bruker ord i stedet for bare 0-ere og 1-ere",
+                "Et språk brukt for å lage brukergrensesnitt"
+            ],
+            "answer": "Et primitivt programmeringsspråk som bruker ord i stedet for bare 0-ere og 1-ere"
+        },
+        {
+            "prompt": "Hva karakteriserer 'supermaskiner'?",
+            "choices": [
+                "De brukes primært til personlig databehandling",
+                "De er mindre kraftige enn vanlige datamaskiner",
+                "De er ekstremt kraftige datamaskiner som brukes til komplekse beregninger",
+                "De er gamle datamaskiner som ikke lenger er i bruk"
+            ],
+            "answer": "De er ekstremt kraftige datamaskiner som brukes til komplekse beregninger"
+        },
+        {
+            "prompt": "Hva er en unik egenskap ved kvantemaskiner sammenlignet med klassiske datamaskiner?",
+            "choices": [
+                "De kan kun utføre enkle beregninger",
+                "De opererer med qubits, som kan representere flere tilstander samtidig",
+                "De er mindre kraftige og mindre effektive",
+                "De bruker radiorør i stedet for transistorer"
+            ],
+            "answer": "De opererer med qubits, som kan representere flere tilstander samtidig"
+        },
+        {
+            "prompt": "Hva er hovedformålet med RAM i en datamaskin?",
+            "choices": [
+                "Langtidslagring av data",
+                "Prosesseringskraft",
+                "Midlertidig lagring av data og kjørende programmer",
+                "Styring av inndata og utdata enheter"
+            ],
+            "answer": "Midlertidig lagring av data og kjørende programmer"
+        },
+        {
+            "prompt": "Hva refererer 'sekundærlager' til i en datamaskin?",
+            "choices": [
+                "Minnet som brukes til å lagre BIOS",
+                "Minnet som brukes av CPU for databehandling",
+                "Langtidslagring av data, som på en harddisk",
+                "Minnet som brukes til å lagre midlertidige filer"
+            ],
+            "answer": "Langtidslagring av data, som på en harddisk"
+        },
+        {
+            "prompt": "Hva beskriver best funksjonen til en harddisk?",
+            "choices": [
+                "Behandler instruksjoner fra CPU",
+                "Lagrer data midlertidig mens de behandles",
+                "Lagrer data permanent ved hjelp av magnetisk opptak",
+                "Sender data til perifere enheter"
+            ],
+            "answer": "Lagrer data permanent ved hjelp av magnetisk opptak"
+        },
+        {
+            "prompt": "Hva er en hovedegenskap ved RAM?",
+            "choices": [
+                "Den lagrer data permanent",
+                "Den er mye raskere enn en harddisk når det gjelder tilgang til data",
+                "Den kan bare lagre tekstfiler",
+                "Den brukes til å lagre operativsystemet"
+            ],
+            "answer": "Den er mye raskere enn en harddisk når det gjelder tilgang til data"
+        },
+        {
+            "prompt": "Hva er hovedformålet med CPU i en datamaskin?",
+            "choices": [
+                "Å lagre data",
+                "Å utføre instruksjoner og prosessere data",
+                "Å kontrollere strømforsyningen til datamaskinen",
+                "Å sende data over internett"
+            ],
+            "answer": "Å utføre instruksjoner og prosessere data"
+        }
+    ],
+
+    "4: Datamaskinen – Programvare": [
+        {
+            "prompt": "Hva er en algoritme?",
+            "choices": ["En maskinvarekomponent", "En presis, systematisk metode for å produsere et spesifisert resultat", "En type programvarefeil", "En del av operativsystemet"],
+            "answer": "En presis, systematisk metode for å produsere et spesifisert resultat"
+        },
+        {
+            "prompt": "Hva beskriver 'pseudokode' best?",
+            "choices": ["En kode som ikke kan kjøres", "En uformell språkbeskrivelse for å utvikle algoritmer", "En feil i et program", "Et gammelt programmeringsspråk"],
+            "answer": "En uformell språkbeskrivelse for å utvikle algoritmer"
+        },
+        {
+            "prompt": "Hva er hovedformålet med sorteringsalgoritmer?",
+            "choices": ["Å øke systemets ytelse", "Å organisere data i stigende eller avtagende rekkefølge", "Å kryptere data", "Å lagre data"],
+            "answer": "Å organisere data i stigende eller avtagende rekkefølge"
+        },
+        {
+            "prompt": "Hva beskriver 'flettesortering'?",
+            "choices": ["En hurtigsorteringsmetode", "En sorteringsmetode som bruker en splitt og hersk-tilnærming", "En metode for datalagring", "En algoritme for søking"],
+            "answer": "En sorteringsmetode som bruker en delt og hersk-tilnærming"
+        },
+        {
+            "prompt": "Hva er Big-O-notasjon?",
+            "choices": ["En algoritme for kryptering", "En måling av nettverksbåndbredde", "En notasjon for å uttrykke kjøretidskompleksiteten til en algoritme", "En type feilkode"],
+            "answer": "En notasjon for å uttrykke kjøretidskompleksiteten til en algoritme"
+        },
+        {
+            "prompt": "Hva kjennetegner maskinkode?",
+            "choices": ["Består av høy-nivå programmeringsspråk", "Består av 1-ere og 0-ere", "Er en type pseudokode", "Brukes for å designe datamaskinvaren"],
+            "answer": "Består av 1-ere og 0-ere"
+        },
+        {
+            "prompt": "Hva er assembly-språk?",
+            "choices": ["En type maskinkode", "Et høy-nivå programmeringsspråk", "Et lavnivåspråk bestående av elementære kommandoer", "En algoritme for sortering"],
+            "answer": "Et lavnivåspråk bestående av elementære kommandoer"
+        },
+        {
+            "prompt": "Hva er en viktig egenskap ved høy-nivå programmeringsspråk?",
+            "choices": ["De er vanskelige å forstå", "De ligner mer på menneskelig språk", "De krever spesialisert maskinvare", "De består kun av tall"],
+            "answer": "De ligner mer på menneskelig språk"
+        },
+        {
+            "prompt": "Hva er rollen til en 'parser' i en kompilator?",
+            "choices": ["Å akselerere programkjøringen", "Å oversette høy-nivå kode til lavnivåspråk", "Å dele opp data i mindre elementer for oversettelse", "Å håndtere brukerinndata"],
+            "answer": "Å dele opp data i mindre elementer for oversettelse"
+        },
+        {
+            "prompt": "Hva er hovedfokuset til objektorientert programmering (OOP)?",
+            "choices": ["På maskinvarekontroll", "På strukturert programmering", "På modellering av data", "På effektiv minnebruk"],
+            "answer": "På modellering av data"
+        },
+        {
+            "prompt": "Hva er funksjonen til 'klasser' i OOP?",
+            "choices": ["Å gi en definisjon for objekter av samme type", "Å lagre data", "Å akselerere programmer", "Å håndtere systemfeil"],
+            "answer": "Å gi en definisjon for objekter av samme type"
+        },
+        {
+            "prompt": "Hva beskriver 'arv' i OOP?",
+            "choices": ["Gjenbruk av kode fra en eksisterende klasse i en ny klasse", "Lagring av data i en database", "Prosessen med å kompilere et program", "En metode for å kryptere data"],
+            "answer": "Gjenbruk av kode fra en eksisterende klasse i en ny klasse"
+        },
+        {
+            "prompt": "Hva betyr 'polymorfi' i OOP?",
+            "choices": ["Evnen til å ta mange former", "En type variabel i Java", "En feil i programmeringsspråk", "En egenskap ved algoritmer"],
+            "answer": "Evnen til å ta mange former"
+        },
+        {
+            "prompt": "Hva er hovedformålet med CSS?",
+            "choices": ["Å kontrollere presentasjonen av et dokument", "Å akselerere nettsider", "Å lage komplekse algoritmer", "Å håndtere databasetransaksjoner"],
+            "answer": "Å kontrollere presentasjonen av et dokument"
+        },
+        {
+            "prompt": "Hvordan defineres regler i CSS?",
+            "choices": ["Ved bruk av algoritmer", "Ved å bruke en velger og en deklarasjon", "Gjennom maskinkode", "Ved bruk av Big-O-notasjon"],
+            "answer": "Ved å bruke en velger og en deklarasjon"
+        },
+        {
+            "prompt": "Hva beskriver best 'strukturert programmering'?",
+            "choices": ["En disiplinert tilnærming til programmering", "En metode for datalagring", "Et prinsipp i maskinkodedesign", "En type algoritme"],
+            "answer": "En disiplinert tilnærming til programmering"
+        },
+        {
+            "prompt": "Hvordan bidrar 'innkapsling' i OOP?",
+            "choices": ["Ved å øke programstørrelsen", "Ved å samle kode og data i objekter", "Gjennom hurtigere kjøretid", "Ved å redusere kodegjenbruk"],
+            "answer": "Ved å samle kode og data i objekter"
+        },
+        {
+            "prompt": "Hva er et typisk eksempel på deklarativ programmering?",
+            "choices": ["Java-programmering", "SQL-spørringer", "Assembler-kode", "C++-programmering"],
+            "answer": "SQL-spørringer"
+        },
+        {
+            "prompt": "Hvilken type programmering fokuserer på 'hvordan' fremfor 'hva'?",
+            "choices": ["Deklarativ programmering", "Objektorientert programmering", "Imperativ programmering", "Logisk programmering"],
+            "answer": "Imperativ programmering"
+        },
+        {
+            "prompt": "Hva er et primært formål med polymorfi i OOP?",
+            "choices": [
+                "Å redusere kodegjenbruk",
+                "Å kontrollere systemressurser",
+                "Å tilpasse metoder til objekter av arvede klasser",
+                "Å lagre data i en database"
+            ],
+            "answer": "Å tilpasse metoder til objekter av arvede klasser"
+        }
+    ],
+
+    "5: Internett": [
+        {
+            "prompt": "Hva beskriver Cascading Style Sheets (CSS)?",
+            "choices": ["Et programmeringsspråk", "En database", "Et stilarksspråk for å formatere dokumenter", "En nettleser"],
+            "answer": "Et stilarksspråk for å formatere dokumenter"
+        },
+        {
+            "prompt": "Hva er hovedformålet med CSS?",
+            "choices": ["Styre datamaskiner", "Formatere og designe nettsider", "Lagre data", "Behandle informasjon"],
+            "answer": "Formatere og designe nettsider"
+        },
+        {
+            "prompt": "Hva er 'inline CSS'?",
+            "choices": ["CSS definert i en ekstern fil", "CSS integrert direkte i HTML-elementer", "En form for JavaScript", "En database spørring"],
+            "answer": "CSS integrert direkte i HTML-elementer"
+        },
+        {
+            "prompt": "Hvorfor er det anbefalt å holde CSS og HTML adskilt?",
+            "choices": ["For å redusere størrelsen på HTML-filer", "For å øke sikkerheten", "For bedre lesbarhet og vedlikehold", "Det er ikke anbefalt"],
+            "answer": "For bedre lesbarhet og vedlikehold"
+        },
+        {
+            "prompt": "Hvordan defineres 'kommunikasjon' i konteksten av internett?",
+            "choices": ["Overføring av data mellom datamaskiner", "Prosessering av informasjon på en server", "Lagring av data i skyen", "Bruk av e-posttjenester"],
+            "answer": "Overføring av data mellom datamaskiner"
+        },
+        {
+            "prompt": "Hva menes med 'synkron kommunikasjon' på internett?",
+            "choices": ["Kommunikasjon uten forsinkelse", "E-postkommunikasjon", "Sending og mottak skjer samtidig", "Kommunikasjon via sosiale medier"],
+            "answer": "Sending og mottak skjer samtidig"
+        },
+        {
+            "prompt": "Hvem grunnla ARPAnet, forgjengeren til internett?",
+            "choices": ["Advanced Research Project Agency", "Microsoft", "Google", "International Business Machines"],
+            "answer": "Advanced Research Project Agency"
+        },
+        {
+            "prompt": "Hva er pakke-switching i nettverksteknologi?",
+            "choices": ["En type kryptering", "En metode for dataoverføring", "En form for nettverksprotokoll", "Et nettverkssikkerhetssystem"],
+            "answer": "En metode for dataoverføring"
+        },
+        {
+            "prompt": "Hva karakteriserer WAN i forhold til LAN?",
+            "choices": ["Mindre nettverk", "Nettverk over store geografiske områder", "Raskere dataoverføring", "Begrenset til én bygning"],
+            "answer": "Nettverk over store geografiske områder"
+        },
+        {
+            "prompt": "Hva skiller internett og intranett?",
+            "choices": ["Intranett er en del av internett", "Internett er mer sikkert enn intranett", "Intranett er kun for en bestemt organisasjon", "Internett er et privat nettverk"],
+            "answer": "Intranett er kun for en bestemt organisasjon"
+        },
+        {
+            "prompt": "Hva er en LAN?",
+            "choices": ["Et verdensomspennende nettverk", "Et nettverk i en liten geografisk område", "Et trådløst nettverk", "Et nettverk for kun datamaskiner"],
+            "answer": "Et nettverk i en liten geografisk område"
+        },
+        {
+            "prompt": "Hva er hovedteknologien for LAN?",
+            "choices": ["Wi-Fi", "Ethernet", "Bluetooth", "Satellittforbindelse"],
+            "answer": "Ethernet"
+        },
+        {
+            "prompt": "Hva er hovedformålet med TCP/IP protokollen?",
+            "choices": ["Datakryptering", "Nettverksadministrasjon", "Overføring av data over internett", "Lagring av data"],
+            "answer": "Overføring av data over internett"
+        },
+        {
+            "prompt": "Hvordan fungerer pakke-switching i forhold til latenstid?",
+            "choices": ["Reduserer latenstid", "Øker latenstid", "Eliminerer latenstid", "Ikke relatert til latenstid"],
+            "answer": "Øker latenstid"
+        },
+        {
+            "prompt": "Hva var hovedformålet med ARPAnet?",
+            "choices": ["Digital underholdning", "Militær kommunikasjon", "Testområde for nye nettverksteknologier", "Utdanning og forskning"],
+            "answer": "Testområde for nye nettverksteknologier"
+        },
+        {
+            "prompt": "Hvordan kommuniserer enheter i et Ethernet nettverk?",
+            "choices": ["Ved hjelp av sentrale servere", "Gjennom direkte kabelforbindelser", "Via en sentral router", "Via optiske fibre"],
+            "answer": "Gjennom direkte kabelforbindelser"
+        },
+        {
+            "prompt": "Hva er hovedforskjellen mellom offentlige og private nettverk?",
+            "choices": ["Offentlige nettverk er raskere", "Private nettverk er mindre sikkert", "Offentlige nettverk er tilgjengelig for alle", "Private nettverk er globalt tilgjengelige"],
+            "answer": "Offentlige nettverk er tilgjengelig for alle"
+        },
+        {
+            "prompt": "Hva er hovedformålet med Domain Name System (DNS)?",
+            "choices": ["Nettverksovervåking", "Oversette domenenavn til IP-adresser", "Sikkerhetsautentisering", "Datakryptering"],
+            "answer": "Oversette domenenavn til IP-adresser"
+        },
+        {
+            "prompt": "Hva er en av hovedfordelene ved CSS?",
+            "choices": ["Forbedret nettverkssikkerhet", "Raskere nettsidelasting", "Forbedret presentasjonsstil av nettsider", "Automatisk dataanalyse"],
+            "answer": "Forbedret presentasjonsstil av nettsider"
+        },
+        {
+            "prompt": "Hva betegner 'multicast' i nettverkskommunikasjon?",
+            "choices": [
+                "Kommunikasjon mellom to punkter",
+                "Sending av meldinger til en bestemt gruppe",
+                "Sending av meldinger til alle enheter",
+                "Direkte kommunikasjon uten server"
+            ],
+            "answer": "Sending av meldinger til en bestemt gruppe"
+        }
+    ],
+    "6: Nettverk": [
+        {
+            "prompt": "What is the primary purpose of a data network?",
+            "choices": ["To connect printers only", "To transport and exchange data between nodes", "For email communication only", "To provide internet to smartphones"],
+            "answer": "To transport and exchange data between nodes"
+        },
+        {
+            "prompt": "What is a key component of data networks?",
+            "choices": ["Only wireless access points", "Switches, routers, and firmware", "Just the physical cables", "Only the servers"],
+            "answer": "Switches, routers, and firmware"
+        },
+        {
+            "prompt": "What are the two primary types of data networks?",
+            "choices": ["Optical and Copper", "Wired and Wireless", "Intranet and Internet", "Public and Private"],
+            "answer": "Wired and Wireless"
+        },
+        {
+            "prompt": "What medium does a wireless network use to transport data?",
+            "choices": ["Copper wires", "Radiowaves", "Fiber optics", "Sound waves"],
+            "answer": "Radiowaves"
+        },
+        {
+            "prompt": "What does IoT stand for in networking?",
+            "choices": ["Internet of Things", "Integration of Technology", "Internal Online Transmission", "Interactive Online Tools"],
+            "answer": "Internet of Things"
+        },
+        {
+            "prompt": "What protocol is typically used by web applications?",
+            "choices": ["FTP", "HTTP or HTTPS", "SMTP", "TCP/IP"],
+            "answer": "HTTP or HTTPS"
+        },
+        {
+            "prompt": "What are common features of web services?",
+            "choices": ["Email services only", "Data mining and automated workflows", "Video streaming", "Social networking"],
+            "answer": "Data mining and automated workflows"
+        },
+        {
+            "prompt": "Which is a common type of web application?",
+            "choices": ["Antivirus software", "Content Management Systems (CMS)", "Desktop publishing software", "Operating systems"],
+            "answer": "Content Management Systems (CMS)"
+        },
+        {
+            "prompt": "What are the main components of a web application?",
+            "choices": ["Data model, user interface, and application logic", "Browser, server, and cables", "Firewall, antivirus, and cookies", "HTML, CSS, and JavaScript only"],
+            "answer": "Data model, user interface, and application logic"
+        },
+        {
+            "prompt": "What characterizes Web 1.0?",
+            "choices": ["Interactive web pages", "Static web with minimal user interaction", "Social networking platforms", "Video streaming services"],
+            "answer": "Static web with minimal user interaction"
+        }
+
+    ],
+    "7: Informasjonssystem": [
+        {
+            "prompt": "Hva er et informasjonssystem?",
+            "choices": ["Et nettverk av datamaskiner", "En type programvare", "En vitenskapelig disiplin involvert i informasjonshåndtering", "En database"],
+            "answer": "En vitenskapelig disiplin involvert i informasjonshåndtering"
+        },
+        {
+            "prompt": "Hva er hovedformålet med et transaksjonsbehandlingssystem?",
+            "choices": ["Behandle store datamengder", "Støtte daglige transaksjonsoperasjoner", "Lagre brukerdata", "Utføre komplekse beregninger"],
+            "answer": "Støtte daglige transaksjonsoperasjoner"
+        },
+        {
+            "prompt": "Hva kjennetegner et beslutningsstøttesystem?",
+            "choices": ["Fokus på dataanalyse for beslutningstaking", "Hovedsakelig brukt for datalagring", "Brukt for automatisering av rutineoppgaver", "Brukt for intern kommunikasjon"],
+            "answer": "Fokus på dataanalyse for beslutningstaking"
+        },
+        {
+            "prompt": "Hva er et kunnskapshåndteringssystem?",
+            "choices": ["System for håndtering av finansielle transaksjoner", "System for lagring og deling av organisasjonskunnskap", "System for nettverksadministrasjon", "Programvare for dokumenthåndtering"],
+            "answer": "System for lagring og deling av organisasjonskunnskap"
+        },
+        {
+            "prompt": "Hva er hovedmålet med AGILE systemutvikling?",
+            "choices": ["Øke programvaresikkerheten", "Fokusere på dokumentasjon", "Fleksibilitet og kontinuerlig forbedring", "Redusere utviklingskostnadene"],
+            "answer": "Fleksibilitet og kontinuerlig forbedring"
+        },
+        {
+            "prompt": "Hvilken utviklingsmodell fokuserer på trinnvise og sekvensielle prosesser?",
+            "choices": ["AGILE-modellen", "Fossefallsmodellen", "Spiralmodellen", "Inkrementell modell"],
+            "answer": "Fossefallsmodellen"
+        },
+        {
+            "prompt": "Hva er et databaseshåndteringssystem?",
+            "choices": ["En metode for systemutvikling", "En type nettverksteknologi", "Et system for å behandle og organisere databaser", "En type datalagringsenhet"],
+            "answer": "Et system for å behandle og organisere databaser"
+        },
+        {
+            "prompt": "Hva beskriver 'AssistMe' i konteksten av informasjonssystem?",
+            "choices": ["En webbasert pasientstøttesystem", "En type databasesoftware", "Et system for nettverksovervåking", "Et programmeringsspråk"],
+            "answer": "En webbasert pasientstøttesystem"
+        },
+        {
+            "prompt": "Hva er formålet med klyngeanalyse i informasjonssystemer?",
+            "choices": ["Nettverkssikkerhet", "Datautvinning og mønsteridentifikasjon", "Rutinemessig databehandling", "Brukeradministrasjon"],
+            "answer": "Datautvinning og mønsteridentifikasjon"
+        },
+        {
+            "prompt": "Hva er JavaScript hovedsakelig brukt til i webutvikling?",
+            "choices": ["Databasestyring", "Serverside scripting", "Klient-side scripting", "Nettverksovervåking"],
+            "answer": "Klient-side scripting"
+        },
+        {
+            "prompt": "Hva betegner en variabel i programmering?",
+            "choices": ["En konstant verdi", "En datastruktur", "Et navn knyttet til data", "En type funksjon"],
+            "answer": "Et navn knyttet til data"
+        },
+        {
+            "prompt": "Hva karakteriserer 'primitive datatyper' i programmering?",
+            "choices": ["De kan inneholde flere verdier", "De representerer komplekse datastrukturer", "De er grunnleggende datatyper som tall og strenger", "De er avanserte programmeringskonsepter"],
+            "answer": "De er grunnleggende datatyper som tall og strenger"
+        },
+        {
+            "prompt": "Hva er hensikten med 'if-setningen' i programmering?",
+            "choices": ["Repetere en kodeblokk", "Definere en variabel", "Utføre en kodeblokk basert på en betingelse", "Avslutte et program"],
+            "answer": "Utføre en kodeblokk basert på en betingelse"
+        },
+        {
+            "prompt": "Hva er hovedformålet med en løkke i programmering?",
+            "choices": ["Utføre en kodeblokk flere ganger", "Lagre data", "Skape en variabel", "Stoppe et program"],
+            "answer": "Utføre en kodeblokk flere ganger"
+        },
+        {
+            "prompt": "Hva er funksjonen til en funksjon i programmering?",
+            "choices": ["Lagre data", "Utføre en bestemt oppgave", "Opprette en ny variabel", "Definere en ny datatype"],
+            "answer": "Utføre en bestemt oppgave"
+        },
+        {
+            "prompt": "Hva beskriver 'Relasjonsdatabaseutforming'?",
+            "choices": ["En metode for nettverkskonfigurasjon", "En webutviklingsteknikk", "Design av databaser basert på relasjoner mellom tabeller", "En programmeringspraksis"],
+            "answer": "Design av databaser basert på relasjoner mellom tabeller"
+        },
+        {
+            "prompt": "Hva er hovedformålet med SQL?",
+            "choices": ["Programmering av applikasjoner", "Nettverksadministrasjon", "Interaksjon med relasjonsdatabaser", "Opprette grafiske brukergrensesnitt"],
+            "answer": "Interaksjon med relasjonsdatabaser"
+        },
+        {
+            "prompt": "Hva er et 'kommunikasjonsinformasjonssystem'?",
+            "choices": ["Et system for kun kunstig intelligens", "Et system for databehandling", "Et system for å fremme intern og ekstern kommunikasjon", "En type operativsystem"],
+            "answer": "Et system for å fremme intern og ekstern kommunikasjon"
+        },
+        {
+            "prompt": "Hva er hovedmålet med 'saksbasert resonnement' i et informasjonssystem?",
+            "choices": ["Lagre pasientjournaler", "Løse problemer basert på tidligere tilfeller", "Automatisere administrative oppgaver", "Analysere finansielle data"],
+            "answer": "Løse problemer basert på tidligere tilfeller"
+        },
+        {
+            "prompt": "Hva er funksjonen til 'tabeller (arrays)' i programmering?",
+            "choices": ["Lagre en samling av nummererte data", "Behandle tekststrenger", "Utføre komplekse beregninger", "Administrere brukerinteraksjoner"],
+            "answer": "Lagre en samling av nummererte data"
+        }
+
+    ],
+    "8: Databaser": [
+        {
+            "prompt": "Hva står XML for?",
+            "choices": ["eXtra Markup Language", "eXecutable Markup Language", "eXtensible Markup Language", "eXclusive Markup Language"],
+            "answer": "eXtensible Markup Language"
+        },
+        {
+            "prompt": "Hva er et kjennetegn ved XML?",
+            "choices": ["Bruker predefinerte tags", "Tags må ikke nødvendigvis være nøstet korrekt", "Case-sensitive tags", "Kun for datalagring"],
+            "answer": "Case-sensitive tags"
+        },
+        {
+            "prompt": "Hva er formålet med XML?",
+            "choices": ["Grafisk design", "Webutvikling", "Datautveksling", "Nettverkssikkerhet"],
+            "answer": "Datautveksling"
+        },
+        {
+            "prompt": "Hvordan defineres en 'Supernøkkel' i en database?",
+            "choices": ["En nøkkel som identifiserer rekker i en tabell", "En unik nøkkel for hele databasen", "En nøkkel kun brukt i NoSQL-databaser", "En nøkkel som åpner alle databaser"],
+            "answer": "En nøkkel som identifiserer rekker i en tabell"
+        },
+        {
+            "prompt": "Hva er en 'Fremmednøkkel' i en database?",
+            "choices": ["Hovednøkkel i en tabell", "Nøkkel som refererer til en nøkkel i en annen tabell", "En kryptert nøkkel", "En nøkkel som ikke brukes"],
+            "answer": "Nøkkel som refererer til en nøkkel i en annen tabell"
+        },
+        {
+            "prompt": "Hva kjennetegner en 'Relasjonsdatabase'?",
+            "choices": ["Bruker en ikke-relasjonsmodell", "Data lagret i tabeller kalt relasjoner", "Kun lagrer tekstdata", "Kun for grafisk data"],
+            "answer": "Data lagret i tabeller kalt relasjoner"
+        },
+        {
+            "prompt": "Hva er hovedformålet med normalisering i databaser?",
+            "choices": ["Øke databasens størrelse", "Redusere dataredundans", "Forenkle spørringer", "Forbedre sikkerheten"],
+            "answer": "Redusere dataredundans"
+        },
+        {
+            "prompt": "Hva betyr '1NF' i database normalisering?",
+            "choices": ["Første Nettverksform", "Første Normalform", "Første Nøkkelform", "Første Nyttig Form"],
+            "answer": "Første Normalform"
+        },
+        {
+            "prompt": "Hva karakteriserer SQL?",
+            "choices": ["Et programmeringsspråk for webutvikling", "Et språk for databasestyring", "Et scriptingspråk for automatisering", "Et maskinspråk"],
+            "answer": "Et språk for databasestyring"
+        },
+        {
+            "prompt": "Hva er en 'Grafdatabase'?",
+            "choices": ["Database som lagrer data i tabeller", "Database som bruker grafstrukturer for data", "Database for grafisk design", "Database som ikke støtter relasjoner"],
+            "answer": "Database som bruker grafstrukturer for data"
+        },
+        {
+            "prompt": "Hva er 'Resource Description Framework' (RDF)?",
+            "choices": ["Et nettverksprotokoll", "En datamodell for metadata", "En webutviklingsrammeverk", "En database"],
+            "answer": "En datamodell for metadata"
+        },
+        {
+            "prompt": "Hvordan skiller en objektorientert database seg fra en relasjonsdatabase?",
+            "choices": ["Lagrer data i tabeller", "Representerer data som objekter", "Bruker ikke SQL", "Kun for tekstdata"],
+            "answer": "Representerer data som objekter"
+        },
+        {
+            "prompt": "Hva er hovedformålet med en metadatabase?",
+            "choices": ["Lagring av bildeinformasjon", "Behandling av data om andre data", "Lagre passord", "Webutvikling"],
+            "answer": "Behandling av data om andre data"
+        },
+        {
+            "prompt": "Hva er en primærnøkkel i en database?",
+            "choices": ["En nøkkel som kun finnes i primære tabeller", "En nøkkel som identifiserer hver rekke unikt", "En ekstra sikkerhetsnøkkel", "En nøkkel som er mest brukt"],
+            "answer": "En nøkkel som identifiserer hver rekke unikt"
+        },
+        {
+            "prompt": "Hva er en sammensatt nøkkel i en database?",
+            "choices": ["En nøkkel satt sammen av to eller flere attributter", "En nøkkel som kombinerer to databaser", "En nøkkel laget av en sammensatt datatype", "En nøkkel for sammensatte spørringer"],
+            "answer": "En nøkkel satt sammen av to eller flere attributter"
+        },
+        {
+            "prompt": "Hva betyr '2NF' i database normalisering?",
+            "choices": ["Andre Nettverksform", "Andre Nøkkelform", "Andre Normalform", "Andre Nyttig Form"],
+            "answer": "Andre Normalform"
+        },
+        {
+            "prompt": "Hva er en kandidatnøkkel i en database?",
+            "choices": ["En nøkkel som kan bli primærnøkkel", "En nøkkel for kandidatdata", "En kryptert nøkkel", "En nøkkel kun for valgte rekker"],
+            "answer": "En nøkkel som kan bli primærnøkkel"
+        },
+        {
+            "prompt": "Hva er funksjonen til '3NF' i database normalisering?",
+            "choices": ["Tredje Nettverksform", "Tredje Nøkkelform", "Tredje Normalform", "Tredje Nyttig Form"],
+            "answer": "Tredje Normalform"
+        },
+        {
+            "prompt": "Hva er en fremmednøkkel i en database?",
+            "choices": ["En nøkkel importert fra en annen database", "En nøkkel som refererer til en nøkkel i en annen tabell", "En nøkkel som ikke er definert i databasen", "En nøkkel for utenlandske brukere"],
+            "answer": "En nøkkel som refererer til en nøkkel i en annen tabell"
+        },
+        {
+            "prompt": "Hva kjennetegner en relasjonsdatabase sammenlignet med en objektdatabase?",
+            "choices": [
+                "Bruker objektorientert modell",
+                "Lagrer data i tabeller",
+                "Kun for grafisk data",
+                "Kun for tekstlig data"
+            ],
+            "answer": "Lagrer data i tabeller"
+        }
+    ],
+    "9: Programvareutvikling": [
+        {
+            "prompt": "Hva er programvareutvikling?",
+            "choices": ["Design av databaser", "Utvikling av maskinvare", "Prosessen med å lage programvare", "Studiet av datanettverk"],
+            "answer": "Prosessen med å lage programvare"
+        },
+        {
+            "prompt": "Hvilke elementer påvirker programvareutvikling?",
+            "choices": ["Produkt, Prosess, Personer", "Design, Implementering, Testing", "Analyse, Design, Koding", "Programmering, Debugging, Dokumentasjon"],
+            "answer": "Produkt, Prosess, Personer"
+        },
+        {
+            "prompt": "Hva kjennetegner systemprogramvare?",
+            "choices": ["Programvare for databehandling", "Programvare for brukerinteraksjon", "Grensesnitt mellom applikasjonsprogramvare og system", "Programvare for nettverksadministrasjon"],
+            "answer": "Grensesnitt mellom applikasjonsprogramvare og system"
+        },
+        {
+            "prompt": "Hva er Unified Modeling Language (UML)?",
+            "choices": ["Et programmeringsspråk", "Et nettverksprotokoll", "Et modelleringsspråk i programvareutvikling", "En databasehåndteringsteknikk"],
+            "answer": "Et modelleringsspråk i programvareutvikling"
+        },
+        {
+            "prompt": "Hva brukes UML primært til?",
+            "choices": ["Datanettverksdesign", "Visualisere design av et system", "Utforming av brukergrensesnitt", "Utvikling av operativsystemer"],
+            "answer": "Visualisere design av et system"
+        },
+        {
+            "prompt": "Hva representerer et klassediagram i UML?",
+            "choices": ["Nettverkskonfigurasjon", "Databasestrukturer", "Struktur av klasser i et system", "Sekvens av operasjoner"],
+            "answer": "Struktur av klasser i et system"
+        },
+        {
+            "prompt": "Hva illustrerer et brukstilfellemodell?",
+            "choices": ["Databasestrukturer", "Kommunikasjonsstrømmer", "Mulige interaksjoner med et system", "Hardwarekonfigurasjon"],
+            "answer": "Mulige interaksjoner med et system"
+        },
+        {
+            "prompt": "Hva beskriver et komponentdiagram?",
+            "choices": ["Oppførselen til systemkomponenter", "Programvarearkitektur", "Interaksjoner i kjøretid", "Datastruktur og relasjoner"],
+            "answer": "Interaksjoner i kjøretid"
+        },
+        {
+            "prompt": "Hva er et sammensatt strukturdiagram?",
+            "choices": ["En type sekvensdiagram", "Visualisering av klasser og deres relasjoner", "Diagram over fysiske komponenter", "UML-diagram for prosjektstyring"],
+            "answer": "Visualisering av klasser og deres relasjoner"
+        },
+        {
+            "prompt": "Hva representerer et utrullingsdiagram?",
+            "choices": ["Programvareutviklingsprosess", "Kjøretidskonfigurasjon av systemet", "Databasestrukturer", "Nettverkslayout"],
+            "answer": "Kjøretidskonfigurasjon av systemet"
+        },
+        {
+            "prompt": "Hva er hovedformålet med et objektdiagram?",
+            "choices": ["Vise objektinteraksjoner", "Beskrive systemarkitektur", "Illustrere objektforekomster", "Representere databaser"],
+            "answer": "Illustrere objektforekomster"
+        },
+        {
+            "prompt": "Hva viser et pakkediagram?",
+            "choices": ["Systemets nettverksstruktur", "Arrangement av modeller i prosjekter", "Programvarepakker og deres avhengigheter", "Kommunikasjon mellom objekter"],
+            "answer": "Programvarepakker og deres avhengigheter"
+        },
+        {
+            "prompt": "Hva er et profildiagram?",
+            "choices": ["Diagram for brukerprofiler", "Strukturdiagram som viser stereotyper", "Visuell representasjon av algoritmer", "Kommunikasjonsdiagram"],
+            "answer": "Strukturdiagram som viser stereotyper"
+        },
+        {
+            "prompt": "Hva er et aktivitetsdiagram?",
+            "choices": ["Diagram som viser brukeraktiviteter", "Diagram som viser forretningsprosesser", "Diagram for systeminteraksjon", "Diagram for nettverksaktivitet"],
+            "answer": "Diagram som viser forretningsprosesser"
+        },
+        {
+            "prompt": "Hva representerer et interaksjonsdiagram?",
+            "choices": ["Databasetransaksjoner", "Kontroll- og datavlyt mellom systemkomponenter", "Brukerinteraksjoner", "Nettverkskommunikasjon"],
+            "answer": "Kontroll- og datavlyt mellom systemkomponenter"
+        },
+        {
+            "prompt": "Hva er hovedformålet med et sekvensdiagram?",
+            "choices": ["Visualisere programvareutviklingsprosessen", "Vise hvordan objekter samhandler over tid", "Illustrere tilstandsforandringer", "Vise datanettverkets topologi"],
+            "answer": "Vise hvordan objekter samhandler over tid"
+        },
+        {
+            "prompt": "Hva beskriver et tilstandsdiagram?",
+            "choices": ["Datatilgjengelighet", "Ulike tilstander av et objekt", "Nettverksstatus", "Programvareutviklingsstatus"],
+            "answer": "Ulike tilstander av et objekt"
+        },
+        {
+            "prompt": "Hva fokuserer et tidsdiagram på i UML?",
+            "choices": ["Systemets levetid", "Tidsavhengige relasjoner", "Programvareleveringstid", "Utviklingsfrister"],
+            "answer": "Tidsavhengige relasjoner"
+        },
+        {
+            "prompt": "Hva er formålet med metamodellering i UML?",
+            "choices": ["Definere regler for modellering", "Beskrive datalagmodeller", "Opprette brukergrensesnitt", "Visualisere nettverkskonfigurasjoner"],
+            "answer": "Definere regler for modellering"
+        },
+        {
+            "prompt": "Hva er et kommunikasjonsdiagram?",
+            "choices": ["Diagram for nettverkskommunikasjon", "Diagram for brukerinteraksjon", "Diagram som viser meldinger mellom objekter", "Diagram for teamkommunikasjon"],
+            "answer": "Diagram som viser meldinger mellom objekter"
+        }
+    ],
+    "10: Systemutvikling": [
+    {
+      "prompt": "What is the main characteristic of traditional system development?",
+      "choices": [
+        "Iterative development",
+        "Early planning and design",
+        "Frequent user involvement",
+        "Rapid prototyping"
+      ],
+      "answer": "Early planning and design"
+    },
+    {
+      "prompt": "Which model is known for its sequential execution of steps without repetition?",
+      "choices": [
+        "Waterfall model",
+        "Spiral model",
+        "Incremental model",
+        "RAD model"
+      ],
+      "answer": "Waterfall model"
+    },
+    {
+      "prompt": "What does RAD stand for in system development?",
+      "choices": [
+        "Rapid Application Development",
+        "Rapid Agile Deployment",
+        "Reliable Algorithm Design",
+        "Resource Allocation Diagram"
+      ],
+      "answer": "Rapid Application Development"
+    },
+    {
+      "prompt": "Which of the following is a principle of Agile development?",
+      "choices": [
+        "Comprehensive documentation",
+        "Following a plan",
+        "Individuals and interactions over processes and tools",
+        "Contract negotiation over customer collaboration"
+      ],
+      "answer": "Individuals and interactions over processes and tools"
+    },
+    {
+      "prompt": "What is the main advantage of the Spiral model?",
+      "choices": [
+        "It minimizes risks",
+        "It is straightforward to implement",
+        "It is suitable for small projects",
+        "It requires minimal customer involvement"
+      ],
+      "answer": "It minimizes risks"
+    },
+    {
+      "prompt": "What is a key feature of the Incremental model?",
+      "choices": [
+        "Simultaneous phases",
+        "No need for project management",
+        "Sequence of mini-projects",
+        "Single development cycle"
+      ],
+      "answer": "Sequence of mini-projects"
+    },
+    {
+      "prompt": "Which of the following is not a characteristic of agile methodologies?",
+      "choices": [
+        "Flexibility",
+        "Heavy documentation",
+        "Customer collaboration",
+        "Adaptive planning"
+      ],
+      "answer": "Heavy documentation"
+    },
+    {
+      "prompt": "What is the primary focus of Scrum in Agile development?",
+      "choices": [
+        "Product design",
+        "Code optimization",
+        "Project management",
+        "User experience"
+      ],
+      "answer": "Project management"
+    },
+    {
+      "prompt": "In Agile development, what is a 'User Story' used for?",
+      "choices": [
+        "Describing system architecture",
+        "Detailing programming code",
+        "Capturing product features from the user's perspective",
+        "Outlining the project budget"
+      ],
+      "answer": "Capturing product features from the user's perspective"
+    },
+    {
+      "prompt": "Which of these is a feature of Kanban?",
+      "choices": [
+        "Daily stand-up meetings",
+        "Visual workflow management",
+        "Pair programming",
+        "Time-boxed iterations"
+      ],
+      "answer": "Visual workflow management"
+    },
+    {
+      "prompt": "What does 'Pair Programming' involve?",
+      "choices": [
+        "Two programmers working independently on the same project",
+        "Two programmers sharing a single workstation",
+        "Automated code pairing",
+        "Parallel programming models"
+      ],
+      "answer": "Two programmers sharing a single workstation"
+    },
+    {
+      "prompt": "Which of the following is an agile practice focused on short development cycles?",
+      "choices": [
+        "Waterfall method",
+        "Spiral model",
+        "Extreme Programming",
+        "Gantt chart planning"
+      ],
+      "answer": "Extreme Programming"
+    },
+    {
+      "prompt": "What is emphasized in Agile's approach to system development?",
+      "choices": [
+        "Comprehensive initial planning",
+        "Strict adherence to original requirements",
+        "Adaptability to changing requirements",
+        "Rigorous documentation"
+      ],
+      "answer": "Adaptability to changing requirements"
+    },
+    {
+      "prompt": "In the context of Agile methodologies, what is the role of a Scrum Master?",
+      "choices": [
+        "Product owner",
+        "Chief programmer",
+        "Team facilitator",
+        "Client representative"
+      ],
+      "answer": "Team facilitator"
+    },
+    {
+      "prompt": "What does the 80/20 rule in RAD suggest?",
+      "choices": [
+        "80% of the work takes 20% of the time",
+        "20% of the features provide 80% of the system value",
+        "80% of the coding is done by 20% of the developers",
+        "20% of the requirements change 80% of the design"
+      ],
+      "answer": "20% of the features provide 80% of the system value"
+    },
+    {
+      "prompt": "Which is a key benefit of Agile methodologies?",
+      "choices": [
+        "Long-term planning",
+        "Fixed project scope",
+        "Rapid response to change",
+        "Extensive documentation"
+      ],
+      "answer": "Rapid response to change"
+    },
+    {
+      "prompt": "What is the main focus of traditional system development methodologies?",
+      "choices": [
+        "Ad hoc development",
+        "Continuous integration",
+        "Early system delivery",
+        "Thorough upfront planning"
+      ],
+      "answer": "Thorough upfront planning"
+    },
+    {
+      "prompt": "Which model combines elements of the Waterfall and Iterative models?",
+      "choices": [
+        "Spiral model",
+        "V-Model",
+        "Hybrid model",
+        "RAD model"
+      ],
+      "answer": "Hybrid model"
+    },
+    {
+      "prompt": "In Agile development, what is the purpose of a 'Daily Scrum'?",
+      "choices": [
+        "To discuss completed work",
+        "To plan the next sprint",
+        "To resolve technical issues",
+        "To update the team on progress and obstacles"
+      ],
+      "answer": "To update the team on progress and obstacles"
+    },
+    {
+      "prompt": "What is the primary goal of mobile app development?",
+      "choices": [
+        "Creating apps for personal digital assistants only",
+        "Developing applications for a variety of mobile devices",
+        "Focusing solely on smartphone applications",
+        "Building desktop applications that can be ported to mobile"
+      ],
+      "answer": "Developing applications for a variety of mobile devices"
+    }
+  ],
+    "11: Personvern og sikkerhet": [
+    {
+      "prompt": "What is the primary definition of security according to the Merriam-Webster Dictionary?",
+      "choices": [
+        "The state of being exposed to harm",
+        "Actions taken to make people or places safe",
+        "The condition of being protected or safe from harm"
+      ],
+      "answer": "The condition of being protected or safe from harm"
+    },
+    {
+      "prompt": "What are the four aspects of life covered by privacy?",
+      "choices": [
+        "Body, Territory, Personal Information, Communication",
+        "Finance, Health, Relationships, Employment",
+        "Social Media, Hobbies, Personal Interests, Education"
+      ],
+      "answer": "Body, Territory, Personal Information, Communication"
+    },
+    {
+      "prompt": "What does GDPR stand for?",
+      "choices": [
+        "General Data Privacy Rules",
+        "Global Data Protection Regulations",
+        "General Data Protection Regulations"
+      ],
+      "answer": "General Data Protection Regulations"
+    },
+    {
+      "prompt": "What are the three elements of the CIA model in information security?",
+      "choices": [
+        "Confidentiality, Integrity, Availability",
+        "Control, Identification, Authentication",
+        "Compliance, Intrusion Detection, Auditing"
+      ],
+      "answer": "Confidentiality, Integrity, Availability"
+    },
+    {
+      "prompt": "What is the main purpose of encryption?",
+      "choices": [
+        "To hide information from authorized users",
+        "To ensure data is accessible to everyone",
+        "To protect data by converting it into a different format"
+      ],
+      "answer": "To protect data by converting it into a different format"
+    },
+    {
+      "prompt": "What is the role of a firewall in cybersecurity?",
+      "choices": [
+        "To filter and control network traffic",
+        "To encrypt all data transmissions",
+        "To store backup copies of data"
+      ],
+      "answer": "To filter and control network traffic"
+    },
+    {
+      "prompt": "What is the 'Not Track' flag used for in web browsing?",
+      "choices": [
+        "To track user behavior for targeted advertising",
+        "To block all incoming data",
+        "To inform websites not to track user activity"
+      ],
+      "answer": "To inform websites not to track user activity"
+    },
+    {
+      "prompt": "What does RBAC stand for in access control?",
+      "choices": [
+        "Role-Based Access Control",
+        "Remote Backup and Access Control",
+        "Randomized Biometric Access Control"
+      ],
+      "answer": "Role-Based Access Control"
+    },
+    {
+      "prompt": "What is one of the objectives of the NFR method in privacy-oriented approaches?",
+      "choices": [
+        "To maximize user data collection",
+        "To define soft goals for software systems",
+        "To increase data sharing between organizations"
+      ],
+      "answer": "To define soft goals for software systems"
+    },
+    {
+      "prompt": "What type of information does the 'Not Track' flag aim to protect?",
+      "choices": [
+        "Sensitive personal data",
+        "User's location",
+        "Internet connection speed"
+      ],
+      "answer": "Sensitive personal data"
+    }
+    ],
+
+
+  "12: HCI Quiz": [
+    {
+      "prompt": "HCI definisjon",
+      "choices": [
+        "Forskning innen design og bruk av datateknologi som fokuserer på grensesnittene mellom mennesker (brukere) og datamaskiner",
+        "Studie av datamaskiner og deres funksjoner",
+        "Design av datamaskiner og programvare",
+        "Forskning innen menneskelig atferd"
+      ],
+      "answer": "Forskning innen design og bruk av datateknologi som fokuserer på grensesnittene mellom mennesker (brukere) og datamaskiner"
+    },
+    {
+      "prompt": "Hvorfor begrepet HCI?",
+      "choices": [
+        "For å sammenligne menneske-datamaskin-interaksjon med menneske-til-menneske-interaksjon",
+        "For å introdusere et nytt datamaskinbegrep",
+        "For å beskrive datamaskinens funksjoner",
+        "For å forklare datamaskinens oppgaver"
+      ],
+      "answer": "For å sammenligne menneske-datamaskin-interaksjon med menneske-til-menneske-interaksjon"
+    },
+    {
+      "prompt": "Hva er Usability Scale (SUS)?",
+      "choices": [
+        "En skala for å vurdere brukervennlighet",
+        "En skala for å måle datamaskinytelse",
+        "En skala for å vurdere estetikk i design",
+        "En skala for å måle datamaskinens kapasitet"
+      ],
+      "answer": "En skala for å vurdere brukervennlighet"
+    },
+    {
+      "prompt": "Hva er begrensninger i design?",
+      "choices": [
+        "Design som gjør det enkelt for brukere å gjøre feil",
+        "Design som gir mange alternativer for brukere",
+        "Design som gjør det enkelt å navigere",
+        "Design som ikke påvirker brukerens valg"
+      ],
+      "answer": "Design som gjør det enkelt for brukere å gjøre feil"
+    },
+    {
+      "prompt": "Hva er konsistens i design?",
+      "choices": [
+        "Manglende overraskelser i designet",
+        "Manglende variasjon i designet",
+        "Bruk av mange forskjellige elementer i designet",
+        "Bruk av uvanlige symboler i designet"
+      ],
+      "answer": "Manglende overraskelser i designet"
+    },
+
+    {
+      "prompt": "What does HCI stand for?",
+      "choices": [
+        "Human-Computer Interaction",
+        "High-Capacity Interface",
+        "Human Communication Integration",
+        "Human-Centered Integration"
+      ],
+      "answer": "Human-Computer Interaction"
+    },
+    {
+      "prompt": "In HCI research, what is the primary focus?",
+      "choices": [
+        "The interaction between humans and computers",
+        "The design of computer hardware",
+        "Software development",
+        "Networking technologies"
+      ],
+      "answer": "The interaction between humans and computers"
+    },
+    {
+      "prompt": "Which HCI principle emphasizes making all options visible to the user?",
+      "choices": [
+        "Visibility",
+        "Feedback",
+        "Consistency",
+        "Constraints"
+      ],
+      "answer": "Visibility"
+    },
+    {
+      "prompt": "What is the purpose of feedback in HCI?",
+      "choices": [
+        "To inform users about the system's status",
+        "To collect user feedback on the interface",
+        "To restrict user actions",
+        "To enhance system performance"
+      ],
+      "answer": "To inform users about the system's status"
+    },
+    {
+      "prompt": "Which HCI design approach involves testing and evaluating design iterations with real users?",
+      "choices": [
+        "User-Centered Design (UCD)",
+        "Iterative Design",
+        "Prototyping",
+        "Heuristic Evaluation"
+      ],
+      "answer": "User-Centered Design (UCD)"
+    },
+    {
+      "prompt": "What is the System Usability Scale (SUS) used for?",
+      "choices": [
+        "To assess the usability of a system",
+        "To measure computer processing speed",
+        "To evaluate software security",
+        "To rate the aesthetics of a website"
+      ],
+      "answer": "To assess the usability of a system"
+    },
+    {
+      "prompt": "Which aspect of usability involves the ease of learning and efficient use of a system?",
+      "choices": [
+        "Efficiency",
+        "Satisfaction",
+        "Effectiveness",
+        "Learnability"
+      ],
+      "answer": "Learnability"
+    },
+    {
+      "prompt": "In HCI, what is the term for using symbols or icons that users are already familiar with?",
+      "choices": [
+        "Affordance",
+        "Consistency",
+        "Feedback",
+        "Autonomy"
+      ],
+      "answer": "Affordance"
+    },
+    {
+      "prompt": "What is the main goal of HCI researchers when observing users' interactions with technology?",
+      "choices": [
+        "Understanding user behavior and needs",
+        "Optimizing computer hardware",
+        "Improving software development processes",
+        "Enhancing network security"
+      ],
+      "answer": "Understanding user behavior and needs"
+    },
+    {
+      "prompt": "Which HCI design principle aims to make it harder for users to make mistakes?",
+      "choices": [
+        "Constraints",
+        "Feedback",
+        "Visibility",
+        "Affordance"
+      ],
+      "answer": "Constraints"
+    },
+    {
+      "prompt": "Why is the concept of HCI important in modern technology design?",
+      "choices": [
+        "It focuses on creating user-friendly interfaces.",
+        "It primarily deals with hardware development.",
+        "It minimizes the need for user training.",
+        "It maximizes computer processing speed."
+      ],
+      "answer": "It focuses on creating user-friendly interfaces."
+    },
+    {
+      "prompt": "Which HCI research method involves having users interact with a prototype of a system?",
+      "choices": [
+        "Prototyping",
+        "Heuristic evaluation",
+        "Usability testing",
+        "Field studies"
+      ],
+      "answer": "Prototyping"
+    },
+    {
+      "prompt": "What does the term 'affordance' mean in the context of HCI design?",
+      "choices": [
+        "It refers to the perceived properties of an object that suggest its possible actions.",
+        "It describes the speed of a computer system.",
+        "It measures the system's aesthetic appeal.",
+        "It assesses user satisfaction."
+      ],
+      "answer": "It refers to the perceived properties of an object that suggest its possible actions."
+    },
+    {
+      "prompt": "Which HCI design phase involves specifying both functional and non-functional requirements?",
+      "choices": ["Specifying requirements", "Producing design solutions", "Evaluating the design", "Understanding the user context"
+      ],
+      "answer": "Specifying requirements"
+    },
+    {
+      "prompt": "What role does consistency play in HCI design?",
+      "choices": ["It ensures that similar actions are achieved using similar elements.", "It introduces unpredictability in the user interface.", "It focuses on making all design elements visually appealing.", "It maximizes system performance."
+      ],
+      "answer": "It ensures that similar actions are achieved using similar elements."
+    }
+
+    ],
+
+    "13: IKT": [
+        {
+        "prompt": "What is the definition of IKT?",
+        "choices": [
+        "Information and Knowledge Technology",
+        "Information and Communication Technology",
+        "Innovative Knowledge Transfer",
+        "Internet and Knowledge Transfer"
+      ],
+      "answer": "Information and Communication Technology"
+    },
+        {
+      "prompt": "How is an information society defined?",
+      "choices": [
+        "A society where information is scarce",
+        "A society where information has no value",
+        "A society where information is a significant economic, political, and cultural activity",
+        "A society where information is limited to a select few"
+      ],
+      "answer": "A society where information is a significant economic, political, and cultural activity"
+    },
+    {
+      "prompt": "What does I-DESI stand for?",
+      "choices": [
+        "International Digital Economy and Society Index",
+        "Innovative Digital Economy and Society Initiative",
+        "Integrated Digital Enterprise and Society Index",
+        "Information and Digital Economy and Society Index"
+      ],
+      "answer": "International Digital Economy and Society Index"
+    },
+    {
+      "prompt": "What are some positive aspects of IKT?",
+      "choices": [
+        "Reduced personal interaction",
+        "Digital divide",
+        "Enhanced access to education",
+        "Loss of jobs"
+      ],
+      "answer": "Enhanced access to education"
+    },
+    {
+      "prompt": "What is crowdsourcing?",
+      "choices": [
+        "A method for keeping information confidential",
+        "A method for solving problems by combining contributions from a large volunteer population",
+        "A method for creating information monopolies",
+        "A method for limiting access to information"
+      ],
+      "answer": "A method for solving problems by combining contributions from a large volunteer population"
+    },
+    {
+      "prompt": "What is the main goal of crowdsourcing?",
+      "choices": [
+        "To restrict access to information",
+        "To build a database of all knowledge",
+        "To maintain information monopolies",
+        "To limit the use of information"
+      ],
+      "answer": "To build a database of all knowledge"
+    },
+    {
+      "prompt": "What is Foldit?",
+      "choices": [
+        "A social media platform",
+        "A protein-folding game",
+        "A digital encyclopedia",
+        "A video streaming service"
+      ],
+      "answer": "A protein-folding game"
+    },
+    {
+      "prompt": "What is Kickstarter?",
+      "choices": [
+        "A social networking site",
+        "A crowdfunding platform",
+        "A job search website",
+        "A virtual reality platform"
+      ],
+      "answer": "A crowdfunding platform"
+    },
+    {
+      "prompt": "What are some negative effects of IKT?",
+      "choices": [
+        "Increased personal interaction",
+        "Digital divide",
+        "Enhanced access to education",
+        "Loss of jobs"
+      ],
+      "answer": "Loss of jobs"
+    },
+    {
+      "prompt": "What does the Technology Acceptance Model (TAM) study?",
+      "choices": [
+        "The acceptance of technology by animals",
+        "The acceptance of technology by children",
+        "The acceptance of technology by employees",
+        "The acceptance of technology by students"
+      ],
+      "answer": "The acceptance of technology by employees"
+    },
+    {
+      "prompt": "What was the main research goal of Eirik Åsheim's M.Sc. Thesis?",
+      "choices": [
+        "To study the behavior of birds",
+        "To improve employee experience during an IT transition",
+        "To develop renewable energy sources",
+        "To explore offshore wind power"
+      ],
+      "answer": "To improve employee experience during an IT transition"
+    },
+    {
+      "prompt": "What is RQ1 in the context of data mining?",
+      "choices": [
+        "Research Question 1",
+        "Real Question 1",
+        "Response Question 1",
+        "Regression Question 1"
+      ],
+      "answer": "Research Question 1"
+    },
+    {
+      "prompt": "What does the Prosentvis nedgang i kumulativ inntekt measure?",
+      "choices": [
+        "Percentage decrease in cumulative income based on youth education",
+        "Percentage increase in cumulative income based on youth education",
+        "Percentage decrease in cumulative income based on senior citizens",
+        "Percentage increase in cumulative income based on senior citizens"
+      ],
+      "answer": "Percentage decrease in cumulative income based on youth education"
+    },
+    {
+      "prompt": "What is Netiquette?",
+      "choices": [
+        "A technique for catching fish",
+        "A set of rules for online behavior",
+        "A type of social networking site",
+        "A method for organizing data"
+      ],
+      "answer": "A set of rules for online behavior"
+    },
+    {
+      "prompt": "What should you be cautious about when it comes to security measures?",
+      "choices": [
+        "Creating strong passwords",
+        "Sharing personal information freely",
+        "Trusting offers related to money",
+        "Being aware of phishing attacks"
+      ],
+      "answer": "Being aware of phishing attacks"
+    },
+    {
+      "prompt": "What is phishing?",
+      "choices": [
+        "A method for fishing",
+        "A method for catching birds",
+        "An attempt to gather personal information",
+        "A method for gardening"
+      ],
+      "answer": "An attempt to gather personal information"
+    },
+    {
+      "prompt": "How many obligatory assignments will there be?",
+      "choices": [
+        "There will be more obligatory assignments",
+        "There will be fewer obligatory assignments",
+        "There will be no more obligatory assignments",
+        "There will be the same number of obligatory assignments"
+      ],
+      "answer": "There will be no more obligatory assignments"
+    },
+    {
+      "prompt": "What is the focus of the next lecture?",
+      "choices": [
+        "The focus will be on advanced topics",
+        "The focus will be on recap and examination",
+        "The focus will be on basic concepts",
+        "The focus will be on case studies"
+      ],
+      "answer": "The focus will be on recap and examination"
+    }
+  ]
+}
